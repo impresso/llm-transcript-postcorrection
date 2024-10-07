@@ -1,3 +1,27 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:30fce5d1f31c7a0f1beb050db094afd23acfb2f89c2664da797c0e84ae3c1982
-size 301
+numpy
+pywer
+xlwt
+beautifulsoup4==4.12.2
+datasets
+fire==0.5.0
+genalog==0.1.0
+jsonlines==3.1.0
+langdetect==1.0.9
+loader==2017.9.11
+nltk
+openai
+pandas
+peft==0.3.0
+pipe==2.0
+pysbd==0.3.4
+PyYAML
+scikit_learn
+textdistance
+torch
+tqdm
+transformers
+accelerate
+python-levenshtein
+datasets
+sacrebleu
+pandarallel
