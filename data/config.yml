@@ -1,0 +1,47 @@
+models:
+ - gpt-4:
+     - class: GPTPrompt
+     - prompt: prompt_complex_02.txt
+     - num_generate: 1
+ - gpt-3.5-turbo:
+     - class: GPTPrompt
+     - prompt: prompt_basic_01.txt
+     - num_generate: 1
+ - davinci:
+     - class: GPTPrompt
+     - prompt: prompt_complex_02.txt
+     - num_generate: 1
+ - gpt2:
+     - class: HFPrompt
+     - prompt: prompt_complex_02.txt
+     - num_generate: 1
+ - facebook/opt-350m:
+     - class: HFPrompt
+     - prompt: prompt_complex_02.txt
+     - num_generate: 1
+ - facebook/opt-6.7b:
+     - class: HFPrompt
+     - prompt: prompt_complex_02.txt
+     - num_generate: 1
+ - bigscience/bloom-560m:
+     - class: HFPrompt
+     - prompt: prompt_complex_01.txt
+     - num_generate: 1
+ - bigscience/bloom-3b:
+     - class: HFPrompt
+     - prompt: prompt_complex_01.txt
+     - num_generate: 1
+ - bigscience/bloom-7b1:
+     - class: HFPrompt
+     - prompt: prompt_complex_01.txt
+     - num_generate: 1
+ - decapoda-research/llama-7b-hf:
+     - class: HFPrompt
+     - prompt: prompt_complex_02.txt
+     - num_generate: 1
+ - meta-llama/Llama-2-70b-hf:
+     - class: HFPrompt
+     - prompt: prompt_complex_02.txt
+     - num_generate: 1
+
+

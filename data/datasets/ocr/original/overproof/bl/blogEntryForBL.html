@@ -1,0 +1,184 @@
+<html>
+<head>
+<title>Experimenting with automatic OCR correction on the British Newspaper Archive</title>
+<style>
+body {font-family:sans-serif}	
+H1 {font-size:120%;width:30em}
+H2 {font-size:110%;width:30em}
+p {width:30em}
+.i {width:30em}
+li {margin-bottom:1em;width:30em}
+.f {font-family:Times, monospace;font-weight:bold}
+
+</style>
+</head>
+<body>
+	
+<H1>Experimenting with automatic OCR correction on the British Newspaper Archive</H1>
+<p>Posted by Mahendra Mahey on behalf of Kent Fitch, Project Computing Pty Ltd.</p>
+
+<p>My company was recently contacted by Mahendra Mahey,  Project Manager of the BL Labs.
+Mahendra was aware of text correction tests we'd performed for <a href="http://blogs.bl.uk/digital-scholarship/2016/07/dealing-with-optical-character-recognition-errors-in-victorian-newspapers.html">Amelia Joulain-Jay's analysis of Optical Character Recognition (OCR) errors in Victorian newspapers</a>, based on the BL's
+digitised newspaper archive, and he and his colleague Ben O'Steen were now working with researcher Hannah-Rose Murray, mining the newspaper archive for her project, 
+<a href="http://blogs.bl.uk/digital-scholarship/2016/08/black-abolitionist-performances-and-their-presence-in-britain-progress.html">"Black Abolitionist Performances and their Presence in Britain"</a>.</p>
+
+<H2>Why OCR quality is so important</H2>
+<p>Containing the digitised images and OCR'ed text of over 14 million pages, the 
+<a href="http://www.bl.uk/reshelp/findhelprestype/news/bna/">British Newspaper Archive</a>
+is an incredible resource for researchers and the general public.  More than just news
+articles (the "first draft of history"), the family notices,
+advertisements and discussions available in the archive help us research and
+understand the issues, attitudes, customs and habits defining the lives of our ancestors.</p>
+
+<p>The importance of effective text searching grows with the size of the archive: 
+needles in the haystack must be found before they can be examined.  But searching
+relies on OCR quality, and OCR is error-prone, particularly for old newspapers:
+fonts are small and the original pages are frequently damaged, suffer from ink smudges,
+bleed-through and imperfect digitisation. </p>
+<p>
+Just one example based on our experience with the similarly sized newspaper archive
+digitised by the National Library of Australia (NLA): many thousands of
+different (and erroneous) OCR variations on the name of the town
+<span class='f'>Kalgoorlie</span> appear in over 300,000 articles which consequently cannot be found on a search for that word.  This is a "long-tail"
+problem: many of the errors appear many times due to characteristic single mistakes in
+the OCR process (<span class='f'>Ealgoorlie, Kalgoorlle, Kalgoorlio, Kaigoorlie,
+Kalgoorlic, Kalgoorhe</span>) but many more contain multiple mistakes 
+(<span class='f'>Ealsoorlic, Kaigcorhe</span>), less obvious errors 
+(<span class='f'>fvalgooriie, ^ALGOORLIE, fealgoorrie, Kalssorlie, KaJsoorlic</span>, all
+occurring in the same article) and just bizarre errors (<span class='f'>Ka1go?el,
+Ivalgoculte, X&#225;lgojrhe</span>).</p>
+
+<p>Hence, about 20% of the <span class='f'>Kalgoorlie</span> needles in NLA's "haystack"
+are very hard to find, and each word added to a search, such as
+<span class='f'>Kalgoorlie Municipal Council</span>, increases the percentage of
+missed results at a near-exponential rate.</p>
+
+<p>Hannah-Rose identified similar problems in her 
+<a href="http://blogs.bl.uk/digital-scholarship/2016/08/black-abolitionist-performances-and-their-presence-in-britain-progress.html">original blog post</a> and in her
+<a href="http://blogs.bl.uk/digital-scholarship/2016/11/black-abolitionist-performances-and-their-presence-in-britain-an-update.html">recent update</a>. 
+See cites the example of Frederick Douglass, a fugitive slave from America addressing
+public meetings in Britain in 1847, and the importance of being able to search on his
+name, and associated words such as "American" and "slavery".</p>
+
+<H2>What we did</H2>
+
+<p>Mahendra sent us almost 12 million words of OCR'ed text in 970 files 
+from a selection of 19th century newspaper titles from the BL corpus for us to correct using
+the <a href="https://overproof.projectcomputing.com/">overProof post-OCR correction software</a>.  Of these files, 37 were from Welsh titles we excluded because overProof has not yet been trained to process Welsh, leaving 933 files to process.
+As a typical 19th century broadsheet page contains around 10,000 words, this sample is the
+equivalent of about 12,000 pages, that is, less than 0.01% of the BL's digitised newspaper 
+corpus.</p>
+
+<p>Even in this relatively small sample, overProof found and corrected over 100
+OCR-variations of
+ <span class='f'>Frederick</span>, such as: <span class='f'>Prederick</span> (5 occurrences) 
+<span class='f'>Firederick</span> (3 occurrences)  <span class='f'>rederick</span> (2)
+<span class='f'>Froderick</span> (2)  <span class='f'>Fredericle</span> (2)
+ <span class='f'>Fiederick</span> (2) and dozens of "singletons" such as 
+ <span class='f'>tFrederick  PFedericl FWRDERICK FRIEDERIICKC FREDnERsICK FREDEXICK 
+ F~rederiek F2rederic  Fi-deick  Ereuerick</span> and <span class='f'>1:REDERICK</span>.</p>
+ 
+<p>Even a relatively rare word such as <span class='f'>Douglass</span> had several OCR
+variations: <span class='f'>Douglars Dotuglass  Dottglas,%  D)otglass</span> and 
+<span class='f'>Donglass</span>.</p>
+
+<p>Another less-common name, <span class='f'>Grimshaw</span>, appears correctly in the 
+raw OCR five times, and once as <span class='f'>GRIMSHAW</span>.  OverProof identified
+another fifteen variations of <span class='f'>Grimshaw</span>, all except one of which
+(<span class='f'>Grimehaw</span>) occurred just once in the 12 million word test
+corpus: <span class='f'>Grmhaw Grinshaw Grineshaw GrInahaw Grimshawv Grimohaw 
+Grimehw Grimashaw Grimahaw Grimabaw GRIM8HAW Gricashaw frimnhaw</span> and <span class='f'>fiBIMS1AW</span> (you have to squint quite hard to see that one!)</p>
+    
+<p>Clearly, these errors are very significant to anyone searching for <span class='f'>Grimshaw</span>,
+but they barely scratch the surface of how that name can be mis-OCR'ed.  They don't for
+example, include the most common errors we found in another large English language
+newspaper corpus: <span class='f'>Gnmshaw  Grlmshaw Crimshaw</span>.
+
+<p>There are almost 300 erroneous versions of <span class='f'>American</span> in the sample:
+<span class='f'>Amnerican</span> (14) <span class='f'>Anmerican</span> (7) <span class='f'>Amierican</span> (6)
+<span class='f'>Anerican</span> (5)  <span class='f'>Aimerican</span> (4) <span class='f'>Amuerican</span> (3)
+<span class='f'>Arnerican</span> (2) <span class='f'>Anserican</span>(2) <span class='f'>Americall</span> (2)
+<span class='f'>Ainerican</span> (2) and over 250 singletons including:
+ <span class='f'> mmerivcm LAmericvni MEl{ICAN *mcii!to .kmericar IIAmerIcan Anie'rican
+AMERIO&amp;N AMiEBICA2I Amer~icani  A)MERICAN  Amer~ican Amer/con AIIERICAX AIUTRICAN
+Acierican A5MERICAN  A4mef.ican A111ricanl</span> and <span class='f'>4ir~ie-n</span>.</p>
+
+<p>Some of the over 40 variations of <span class='f'>slavery</span> corrected were:
+<span class='f'>SLAVEIRY</span> (2) <span class='f'>slarery</span> (2) and
+<span class='f'>tslavery Sltverv elartsry dslavery</span> and <span class='f'>Si,&amp;vERY</span>.</p>
+
+<p>The "long tail" nature of these errors means that a simple table of error corrections
+is not viable. If we took another sample of 12 million words from the archive, we'd see
+the occurrences of the common errors double, some of the singletons would reappear, but
+the vast majority of errors would not have been seen before: the frustrating reality is
+that there are hundreds of thousands of quite plausible mis-OCRs of the word <span class='f'>American</span>.</p>
+
+<H2>How overProof corrects OCR text</H2>
+
+<p>OverProof tackles this problem <a href="http://www.projectcomputing.com/resources/CorrectingNoisyOCR.pdf">with several approaches</a>:</p>
+<p>
+	<ol>
+	<li>A series of OCR error models for characters, character pairs and character triples trained on gigabytes of OCR'ed text provides overProof with error probabilities for hundreds of thousands of character sequences.  A visual text representation model augments these statistics, and a vast corpus of human word and phrase correction of OCR text supplements the simpler character correction model with some language context.  A set of correction "candidates" for each word of OCR is generated.</li>
+	
+	<li>The medium-range language context containing the text (typically, a few hundred
+	words) affects the likelihood of candidate words.  For example, a context containing
+	<i>seen</i> words such <span class='f'>cricket batsman wicket</span> will improve the
+	odds of accepting candidates not just amongst those words but also associated but
+	<i>unseen</i> words, such as <span class='f'>umpire bowler catch</span>.</li>
+		
+	<li>A language model is used to choose between correction candidates and the OCR'ed text.  For example, <span class='f'>Now</span> is a valid word, but if preceded by, say <span class='f'>to</span> and followed by <span class='f'>South Wales</span>, or 
+	by <span class='f'>()rleaiis</span> (a mangled <span class='f'>Orleans</span>), it is most probably an error and should be corrected to <span class='f'>New</span>. 
+	Similarly, <span class='f'>iiew</span> is a common OCR error for <span class='f'>new</span>, <span class='f'>New</span> and <span class='f'>view</span>, and the language model suggests the most likely given the context.</li>
+
+
+
+	<li>Up to 15 passes are made of text to be corrected, successively expanding areas of confidence from high-probability "islands" of OCR'ed words with most likely candidates, which in turn improve selection confidence of initially less certain text and candidates.</li>
+	</ol>
+</p>
+
+<H2>What we found</H2>
+
+<p>
+The best way to measure the improvement made by the correction process is to compare
+the OCR'ed text and the automatically corrected text with a perfect correction made 
+by a human (known as the "ground truth").  Unfortunately, hand-correcting text is 
+both time consuming and itself quite error prone.  Hannah-Rose kindly provided five
+corrected segments, but these amounted to 3100 words, or less than 0.03% of the
+sample.  To assess the bulk of the corpus, we fell-back to a common technique of
+using a spell-checker augmented with proper nouns to measure the number of unknown
+words in the original and corrected text.</p>
+<p>In this case, we used "Aspell", and plotted for all 933 documents, the percentage of
+words not in Aspell's extended dictionary before and after correction.
+This measure has known inaccuracies: it does not properly count good OCR words
+corrupted by the correction process, erroneous but nonetheless
+valid-dictionary-word corrections, and correct words (both OCR and corrected) not in the
+spell-checker's dictionaries (frequently these are proper nouns).  However, previous
+experience suggests it is a reliable if rough measure of effectiveness.
+</p>
+
+<p>Each grey dot in the first graph below represents a file supplied by Mahendra. For each file, the horizontal
+axis shows the percentage of words not in Aspell's dictionary before correction, and
+the vertical axis shows the same percentage after correction.  The gross words in error
+falls from 19.6% before correction to 5.7% after correction.  That is, the overProof correction process has removed about 70% of the errors.</p>
+<p>Hannah-Rose's 5 small human-corrected samples are show as green dots.  These are not only smaller than the other files, but their raw error rate is much lower at 13.3%.  OverProof was measured as <a href="https://overproof.projectcomputing.com/showRequest/1477112620719810">reducing this to 5.4%</a>, a removal of almost 60% of errors.<p>
+<p>The red dotted-line indicates the correction "break-even" point: the further under
+the line, the better the quality of the document after correction.</p>
+<p><img src="overProofPerformance1.png" class='i' style='border:2px solid #888888'></p>
+
+<p>Another way of visualising correction performance is to plot the number of files
+for various error rate ranges.  In the graph below, the grey line shows distribution of files across error rates before correction and the green line after correction.</p>
+<p><img src="overProofPerformance2.png" class='i'></p>
+
+<p>We had previously <a href="https://overproof.projectcomputing.com/evaluation">evaluated
+overProof's performance on Australian and US newspapers</a>, so we were keen to
+see if those results could be anticipated on the large British newspapers corpus. 
+It was a great pleasure working on this evaluation with Mahendra, Hannah-Rose and Ben,
+and my colleague, John Evershed and I thank them and the British Library for this
+opportunity.  Our work continues to improve overProof's correction accuracy
+so that more needles in more haystacks can be found and used to enrich our 
+understanding of the past.</p>
+
+
+
+</body>
+</html>

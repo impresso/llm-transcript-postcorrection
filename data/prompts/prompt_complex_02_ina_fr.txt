@@ -1,0 +1,7 @@
+Veuillez nous aider à réviser et à corriger les erreurs dans un texte issu de la transcription automatique d'archives de radio (ASR). Votre tâche consiste à examiner attentivement le texte suivant et à corriger toute erreur introduite par le logiciel d'ASR. Le texte à corriger apparaît après le segment "TEXTE À CORRIGER:". Veuillez placer la version corrigée du texte après le segment "TEXTE CORRIGÉ:". Ne rien écrire d'autre que le texte corrigé.
+
+TEXTE À CORRIGER:
+{{TEXT}}
+
+TEXTE CORRIGÉ:
+
