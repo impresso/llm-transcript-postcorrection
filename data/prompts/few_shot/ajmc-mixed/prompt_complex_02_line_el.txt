@@ -1,0 +1,22 @@
+Please assist with reviewing and correcting errors in texts produced by automatic transcription (OCR) of historical documents. Your task is to carefully examine the following text and correct any mistakes introduced by the OCR software. The text to correct appears after the segment "TEXT TO CORRECT:". Please place the corrected version of the text after the "CORRECTED TEXT:" segment. Do not write anything else than the corrected text.
+
+TEXT TO CORRECT: 
+son, but to the inmates of the house
+
+CORRECTED TEXT:
+son, but to the inmates of the house
+
+TEXT TO CORRECT: 
+glances at such predatory expeditions
+
+CORRECTED TEXT:
+lances at such predatory expeditions
+
+TEXT TO CORRECT: 
+λήν ἐρημίαν Conon. Narr. II. πολλὴν γῆν Xenoph. Eph.
+
+CORRECTED TEXT:
+λὴν ἐρημίαν Conon. Narr. II. πολλὴν γῆν Xenoph. Eph.
+
+Incorrect text: {{TEXT}}
+CORRECTED TEXT:

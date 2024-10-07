@@ -1,0 +1,19 @@
+Correct the spelling and grammar of the following incorrect text from an optical character recognition (OCR) applied to a historical document:
+
+Incorrect text: На лекцията профессорътъ тъй хвали булчицата, щото азъ положително не вѣрвахъ на уши‑ тѣ си.
+
+The corrected text is:
+На лекцията профессорътъ тъй хвали булчицата, щото азъ положително не вЪрвахъ на уши- тТ> си.
+
+Incorrect text: Ще ви расправѭ и за неѭ, отговори Димитръ.
+
+The corrected text is:
+— Ще ви расправш и за иск, отговори Димитръ.
+
+Incorrect text: Той донесе на лекцията ед‑ на жива и много питомна булчица, която, както ни каза той, държалъ въ кѫщата си вмѣсто котка.
+
+The corrected text is:
+Той донесе на лекцията ед на жива и много питомна булчица, която, както ни каза той, държалъ въ КД щата си вмТ.сто котка.
+
+Incorrect text: {{TEXT}}
+The corrected text is:

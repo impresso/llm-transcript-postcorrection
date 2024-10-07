@@ -1,0 +1,19 @@
+Correct the spelling and grammar of the following incorrect text from an optical character recognition (OCR) applied to a historical document:
+
+Incorrect text: Ja A tak nikomu dogodzić niemoźesz, Przychylna Mátko, choć ffę stárasz oto, Práwie każdego z swych skárbow wspomożesz, Zá drogi metal, bierzesz gnoie, błoto, Ktore z rynsztokow, chlewow bydła, obor, Wyrzucą, ták ći oddaiemy pobor.
+
+The corrected text is:
+)(%&**■ A tak nikomu dogodzić nietnoźeTz, Przychylna Matko, choć lię Itarafz oto, Prawic każdego z Twych (karb o w wfpomożefz, Za drogi metal, bierzeTz gnoie, bioto, Które z rynfztokow, chlewów bydfa, obot, Wyrzucą, tak ći oduaiemy pobor.
+
+Incorrect text: Ja A tak nikomu dogodzić niemoźesz, Przychylna Mátko, choć ffę stárasz oto, Práwie każdego z swych skárbow wspomożesz, Zá drogi metal, bierzesz gnoie, błoto, Ktore z rynsztokow, chlewow bydła, obor, Wyrzucą, ták ći oddaiemy pobor.
+
+The corrected text is:
+)(%&**■ A tak nikomu dogodzić nietnoźeTz, Przychylna Matko, choć lię Itarafz oto, Prawic każdego z Twych (karb o w wfpomożefz, Za drogi metal, bierzeTz gnoie, bioto, Które z rynfztokow, chlewów bydfa, obot, Wyrzucą, tak ći oduaiemy pobor.
+
+Incorrect text: Ale że Stworca BOG Ziemie, y EWY, Choć ie ukárał, ułaiał, pofukał, Choć Ziemi kázał Mátką bydź kostrzewy, EWĘ do bolow w rodzeniu przynukał, Przecię dał tyle, nádczym ffę świat dziwi, Co EWA zrodzi, to Ziemia wyżywi.
+
+The corrected text is:
+Ale że Stwórca BOG Ziemie, y EWY, Choć ie ukarał, uiaiaf, pofukaf, Choć Ziemi kazał’ Matkg, bydź koftrzewy, EWĘ do bolo w w rodzeniu przynukał, Przccię dał tyle, nadczym iię świat dziwi, Co EWA zrodzi, to Ziemia wyżywi.
+
+Incorrect text: {{TEXT}}
+The corrected text is:

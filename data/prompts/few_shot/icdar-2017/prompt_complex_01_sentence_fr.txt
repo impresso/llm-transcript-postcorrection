@@ -1,0 +1,19 @@
+Correct the spelling and grammar of the following incorrect text from an optical character recognition (OCR) applied to a historical document:
+
+Incorrect text: Il n'y eut là-dedans ni raisonnement, ni calcul mais une force impérieuse et presque indépen-dante de ma volonté.
+
+The corrected text is:
+Il n'y eut là-dedans ni raisonnement, ni calcul mais une force impérieuse et presque indépen-dante de ma volonté.
+
+Incorrect text: ... son petit âne, qui, en se trouvant tout à coup au milieu des lumières du salon, avait cru devoir célébrer son entrée par le plus beau braiement qui fût jamais sorti de son gosier.
+
+The corrected text is:
+. son petit âne, qui, en se trouvant tout à coup au milieu des lumières du salon, avait cru devoir célébrer son entrée par le plus beau braiement qui fût jamais sorti de son gosier.
+
+Incorrect text: Heureusement Ludovic se ravisa sans lui, l'affaire ne pouvait pas s'arranger il prit le parti de des-cendre.
+
+The corrected text is:
+Heureusement Ludovic se ravisa sans lui, l'affaire ne pouvait pas s'arranger il prit le parti de des-cendre.
+
+Incorrect text: {{TEXT}}
+The corrected text is:

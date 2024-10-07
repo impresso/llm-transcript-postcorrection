@@ -1,0 +1,23 @@
+Pomagajte pri pregledovanju in popravljanju napak v besedilih, nastalih pri samodejnem prepisovanju (OCR) zgodovinskih dokumentov. Vaša naloga je, da skrbno pregledate naslednje besedilo in popravite morebitne napake, ki jih je vnesla programska oprema OCR. Besedilo, ki ga je treba popraviti, je prikazano za segmentom "BESEDILO ZA POPRAVEK:". Popravljeno različico besedila vstavite za segmentom "POPRAVLJENO BESEDILO:". Poleg popravljenega besedila ne napišite ničesar drugega.
+
+BESEDILO ZA POPRAVEK:
+No text
+
+POPRAVLJENO BESEDILO:
+No text
+
+BESEDILO ZA POPRAVEK:
+No text
+
+POPRAVLJENO BESEDILO:
+No text
+
+BESEDILO ZA POPRAVEK:
+No text
+
+POPRAVLJENO BESEDILO:
+No text
+
+BESEDILO ZA POPRAVEK:
+{{TEXT}}
+POPRAVLJENO BESEDILO:

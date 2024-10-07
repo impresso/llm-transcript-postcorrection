@@ -1,0 +1,19 @@
+Correct the spelling and grammar of the following incorrect text from an optical character recognition (OCR) applied to a historical document:
+
+Incorrect text: In der neunten Sitzung der Tagsatzung am 16. Juli, ward der Gegenstand von Gefährdung schweizerischer Territorialverhältniffr und militärischer Grenzpunkte berührt, und von den Gesandten Bündten« sowohl als Thurgaus, die Eingabe von noch nicht vollendeten Berichten darüber verheißen.
+
+The corrected text is:
+In der neunten Sitzung der Tagsatzung am 16. Juli, ward der Gegenstand von Gefährdung schweizerischer Territorialverhältnisse und militärischer Grenzpunkte berührt, und von den Gesandten Bündtens sowohl als Thurgaus, die Eingabe von noch nicht vollendeten Berichten darüber verheißen.
+
+Incorrect text: AUeinige Fnfer«le»>*»»»h»e bei —rr—~r Kadolf Home --- -----
+
+The corrected text is:
+Alleinige Inseraten-Annahme bei Radolf Mosse
+
+Incorrect text: die »iersraltige Petitzeile oder ihr Raum (S Are»»« oder !>/» Bot.)
+
+The corrected text is:
+die vierspaltige Petitzeile oder ihr Raum (5 Kreuzer oder 1½ Sgr.)
+
+Incorrect text: {{TEXT}}
+The corrected text is:

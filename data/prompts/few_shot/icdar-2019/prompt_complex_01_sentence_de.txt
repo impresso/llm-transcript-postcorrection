@@ -1,0 +1,19 @@
+Correct the spelling and grammar of the following incorrect text from an optical character recognition (OCR) applied to a historical document:
+
+Incorrect text: Wir erſchrecken nicht blos vor der Zerriſſenheit, die ausaus ihrem Kamm hervor Ein Berg noch weit in den Aetherrauf hinarbeiten, ihn, wie man heut zu Tage ſagt, packendzu machen.
+
+The corrected text is:
+— 28Bir erfhresen niht blos vor ber Berriffenbeit, die au$ auß ihrem SRamm berdor GEin Berg noh mweit in ben Yether vauf hinarbeiten, ihn, wie man beut zu Zage fagt, padenb ju maden.
+
+Incorrect text: JchGott zu erweitern, da die kleinen Erlebniſſe ſichSchwaͤrmeriſches und gutmuͤthig Edles in denund muthwillig zutraulicher Stimmung begannſchlug ihm gelegentlich die Fauſt in's Geſicht,im Hintergrunde ſtand, heranrief und ſagte:mehr von ſeinem Vater konnte erzaͤhlen hoͤren,Wenigſtens fuhr Heinrich wie ein wahrereigenthuͤmlichen Reiz, ich nahm Partei fuͤr ſiemanche Zierde, manches Fenſter und Geſims vonunterhalten ſchienen, indem ſie in einem großendern zu Tage traten, da machte er große Augenwendig, und daß deren in vierzig MillionenStube nie mehr betreten duͤrfe.
+
+The corrected text is:
+— Sch Öott zu ermweitern, da bdie fleinen CGrfebniffe {tch Schwärmerifehes unbd qutmütbig Coleg in ben und muthwillig zutraulier Stimmung begann IÖlug ibm gelegentlich bdie Zauft in's Geficht, im $intergrunde ffanbdb, beranrief unbd fagte: mehr von feinem Bater fonnte erzäblen bören, SSenigftens fubhr Qceinrih wie ein wabrer eigenthuüumlichen Reiz, i nahm Partei für fie mandhe Bierde, mandhes „Zenfter und Öeftmä von unterbalten {tenen, indem ffe in einem großen dern zu Zagqe trafen, da machte er große ugen mwenbdig , unbd daß beren in vierzig Deillionen Etube nic mehr betreten durfe.
+
+Incorrect text: wird man denn nicht geblendet vonſoll vielmehr durch ein recht ehrwürdiges tantenhaftesAus meinem Bühnenleben.
+
+The corrected text is:
+— wird man deinm nicdt geblenbdet von \VIC vichmebr durd ein rot ebrwürbiges tantenbaftes Aus meinen Bilfnenleben.
+
+Incorrect text: {{TEXT}}
+The corrected text is:

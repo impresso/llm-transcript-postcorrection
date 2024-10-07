@@ -1,0 +1,23 @@
+Veuillez nous aider à réviser et à corriger les erreurs dans un texte issu de la transcription automatique d'archives de radio (ASR). Votre tâche consiste à examiner attentivement le texte suivant et à corriger toute erreur introduite par le logiciel d'ASR. Le texte à corriger apparaît après le segment "TEXTE À CORRIGER:". Veuillez placer la version corrigée du texte après le segment "TEXTE CORRIGÉ:". Ne rien écrire d'autre que le texte corrigé.
+
+TEXTE À CORRIGER:
+le sacre du printemps de stravinsky me bouleversa de fond en comble le premier stravinski auprès de qui j'avais déjà vécu en dix neuf cent treize les mon saigna cette insulte aux habitudes sans quoi l'art stagne et reste un jeu
+
+TEXTE CORRIGÉ:
+Le Sacre du Printemps de Stravinsky me bouleversa de fond en comble. Le premier, Stravinski, auprès de qui j'avais déjà vécu en dix-neuf cent treize à Leysin, m'enseigna cette insulte aux habitudes, sans quoi l'art stagne et reste un jeu.
+
+TEXTE À CORRIGER:
+démarche n'importe 
+
+TEXTE CORRIGÉ:
+Démarche d'un poète.
+
+TEXTE À CORRIGER:
+c'est d'autobiographie par jean
+
+TEXTE CORRIGÉ:
+Essai d'autobiographie par Jean
+
+TEXTE CORRIGÉ:
+{{TEXT}}
+CORRECTED TEXT:

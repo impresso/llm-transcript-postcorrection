@@ -1,0 +1,25 @@
+Correct the spelling and grammar of the following incorrect text from an optical character recognition (OCR) applied to a historical document:
+
+Incorrect text: the end of the war of 1914-18
+The corrected text is:
+
+the end of the wai of 19U-18
+
+Correct the spelling and grammar of the following incorrect text from an optical character recognition (OCR) applied to a historical document:
+
+Incorrect text: was held yesterday between the management
+The corrected text is:
+
+was held yesterday between the management
+
+Correct the spelling and grammar of the following incorrect text from an optical character recognition (OCR) applied to a historical document:
+
+Incorrect text: Do It
+The corrected text is:
+
+Do» le
+
+Correct the spelling and grammar of the following incorrect text from an optical character recognition (OCR) applied to a historical document:
+
+Incorrect text: {{TEXT}}
+The corrected text is:
