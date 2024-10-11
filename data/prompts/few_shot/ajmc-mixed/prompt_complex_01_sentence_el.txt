@@ -1,0 +1,19 @@
+Correct the spelling and grammar of the following incorrect text from on optical character recognition (OCR) applied to a historical document:
+
+Incorrect text: dvolyere: a usual form of summons, addressed to no particular per- son, but to the inmates of the house enerally; Aesch.
+
+The corrected text is:
+ἀνοίγετε: a usual form of summons, addressed to no particular per- son, but to the inmates of the house generally; Aesch.
+
+Incorrect text: The Iliad lances at such predatory expeditions 1. 366; 9. 328).
+
+The corrected text is:
+The Iliad glances at such predatory expeditions (e.g. I. 366; 9. 328).
+
+Incorrect text: πολλὴν γῆν Xenoph.
+
+The corrected text is:
+πολλὴν γῆν Xenoph.
+
+Incorrect text: {{TEXT}}
+The corrected text is:

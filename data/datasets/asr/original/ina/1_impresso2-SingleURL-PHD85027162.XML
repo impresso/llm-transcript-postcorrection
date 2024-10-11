@@ -1,0 +1,2333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="media" path="/tmp/media.wav">
+<ProcList>
+<Proc name="lst-lium.proc" version="1.2" editor="LIUM LST"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="987.59" spdur="677.17" nw="2074" tconf="0.85"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="13.80" gender="1" spkid="S0" lang="fre" lconf="1.00" nw="48" tconf="0.91"/>
+<Speaker ch="1" dur="49.94" gender="2" spkid="S10" lang="fre" lconf="1.00" nw="156" tconf="0.83"/>
+<Speaker ch="1" dur="58.91" gender="2" spkid="S108" lang="fre" lconf="1.00" nw="173" tconf="0.90"/>
+<Speaker ch="1" dur="28.08" gender="2" spkid="S120" lang="fre" lconf="1.00" nw="88" tconf="0.83"/>
+<Speaker ch="1" dur="25.74" gender="2" spkid="S126" lang="fre" lconf="1.00" nw="92" tconf="0.77"/>
+<Speaker ch="1" dur="134.31" gender="2" spkid="S132" lang="fre" lconf="1.00" nw="405" tconf="0.85"/>
+<Speaker ch="1" dur="38.01" gender="2" spkid="S153" lang="fre" lconf="1.00" nw="118" tconf="0.85"/>
+<Speaker ch="1" dur="27.93" gender="2" spkid="S166" lang="fre" lconf="1.00" nw="92" tconf="0.74"/>
+<Speaker ch="1" dur="85.42" gender="2" spkid="S22" lang="fre" lconf="1.00" nw="242" tconf="0.89"/>
+<Speaker ch="1" dur="26.99" gender="2" spkid="S4" lang="fre" lconf="1.00" nw="78" tconf="0.89"/>
+<Speaker ch="1" dur="28.99" gender="2" spkid="S46" lang="fre" lconf="1.00" nw="86" tconf="0.89"/>
+<Speaker ch="1" dur="87.53" gender="2" spkid="S52" lang="fre" lconf="1.00" nw="269" tconf="0.85"/>
+<Speaker ch="1" dur="35.72" gender="2" spkid="S67" lang="fre" lconf="1.00" nw="120" tconf="0.81"/>
+<Speaker ch="1" dur="35.80" gender="2" spkid="S99" lang="fre" lconf="1.00" nw="107" tconf="0.86"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="0.010" etime="8.290" spkid="S0" lang="fre" lconf="1.00" trs="1">
+<Word id="1" stime="0.01" dur="0.30" conf="1.00"> il </Word>
+<Word id="2" stime="0.31" dur="0.06" conf="1.00"> y </Word>
+<Word id="3" stime="0.37" dur="0.09" conf="1.00"> a </Word>
+<Word id="4" stime="0.46" dur="0.45" conf="1.00"> quelques </Word>
+<Word id="5" stime="0.91" dur="0.51" conf="1.00"> semaines </Word>
+<Word id="6" stime="2.35" dur="0.24" conf="1.00"> je </Word>
+<Word id="7" stime="2.59" dur="0.06" conf="0.98"> me </Word>
+<Word id="8" stime="2.65" dur="0.27" conf="1.00"> suis </Word>
+<Word id="9" stime="2.92" dur="0.72" conf="0.90"> entretenu </Word>
+<Word id="10" stime="3.70" dur="0.25" conf="1.00"> avec </Word>
+<Word id="11" stime="3.96" dur="0.13" conf="0.51"> vous </Word>
+<Word id="12" stime="4.85" dur="0.09" conf="0.49"> j' </Word>
+<Word id="13" stime="5.28" dur="0.11" conf="0.22"> aime </Word>
+<Word id="14" stime="5.54" dur="0.23" conf="0.66"> bien </Word>
+<Word id="15" stime="5.80" dur="0.15" conf="1.00"> ce </Word>
+<Word id="16" stime="5.95" dur="0.56" conf="1.00"> soir </Word>
+<Word id="17" stime="6.55" dur="0.36" conf="0.89"> ainsi </Word>
+<Word id="18" stime="6.93" dur="0.18" conf="0.98"> que </Word>
+<Word id="19" stime="7.12" dur="0.12" conf="1.00"> je </Word>
+<Word id="20" stime="7.24" dur="0.12" conf="1.00"> vous </Word>
+<Word id="21" stime="7.36" dur="0.06" conf="1.00"> l' </Word>
+<Word id="22" stime="7.42" dur="0.21" conf="0.84"> avais </Word>
+<Word id="23" stime="7.63" dur="0.66" conf="1.00"> promis </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="8.670" etime="10.830" spkid="S0" lang="fre" lconf="1.00" trs="1">
+<Word id="24" stime="8.88" dur="0.69" conf="0.73"> continuer </Word>
+<Word id="25" stime="9.57" dur="0.15" conf="1.00"> la </Word>
+<Word id="26" stime="9.72" dur="1.11" conf="1.00"> conversation </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="11.670" etime="14.410" spkid="S0" lang="fre" lconf="1.00" trs="1">
+<Word id="27" stime="11.97" dur="0.21" conf="1.00"> ce </Word>
+<Word id="28" stime="12.18" dur="0.27" conf="1.00"> sera </Word>
+<Word id="29" stime="12.45" dur="0.12" conf="1.00"> un </Word>
+<Word id="30" stime="12.57" dur="0.42" conf="1.00"> nouveau </Word>
+<Word id="31" stime="12.99" dur="0.73" conf="0.77"> réconfort </Word>
+<Word id="32" stime="13.74" dur="0.24" conf="1.00"> pour </Word>
+<Word id="33" stime="13.98" dur="0.42" conf="1.00"> moi </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="15.100" etime="18.150" spkid="S0" lang="fre" lconf="1.00" trs="1">
+<Word id="34" stime="15.37" dur="0.09" conf="0.93"> j' </Word>
+<Word id="35" stime="15.46" dur="0.15" conf="1.00"> en </Word>
+<Word id="36" stime="15.61" dur="0.06" conf="0.93"> ai </Word>
+<Word id="37" stime="15.67" dur="0.51" conf="1.00"> besoin </Word>
+<Word id="38" stime="16.69" dur="0.21" conf="1.00"> car </Word>
+<Word id="39" stime="16.90" dur="0.15" conf="1.00"> la </Word>
+<Word id="40" stime="17.05" dur="0.36" conf="0.99"> tâche </Word>
+<Word id="41" stime="17.41" dur="0.06" conf="0.99"> est </Word>
+<Word id="42" stime="17.47" dur="0.66" conf="0.55"> dur </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="18.800" etime="20.650" spkid="S0" lang="fre" lconf="1.00" trs="1">
+<Word id="43" stime="19.04" dur="0.18" conf="1.00"> pour </Word>
+<Word id="44" stime="19.22" dur="0.06" conf="0.96"> l' </Word>
+<Word id="45" stime="19.28" dur="0.45" conf="0.97"> amener </Word>
+<Word id="46" stime="19.73" dur="0.09" conf="1.00"> à </Word>
+<Word id="47" stime="19.82" dur="0.21" conf="0.99"> bon </Word>
+<Word id="48" stime="20.09" dur="0.27" conf="0.54"> sang </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="21.120" etime="23.960" spkid="S52" lang="fre" lconf="1.00" trs="1">
+<Word id="49" stime="21.71" dur="0.12" conf="0.67"> en </Word>
+<Word id="50" stime="21.91" dur="0.22" conf="0.77"> train </Word>
+<Word id="51" stime="22.19" dur="0.14" conf="0.91"> de </Word>
+<Word id="52" stime="22.39" dur="0.12" conf="0.27"> le </Word>
+<Word id="53" stime="22.75" dur="0.29" conf="1.00"> dans </Word>
+<Word id="54" stime="23.04" dur="0.15" conf="1.00"> la </Word>
+<Word id="55" stime="23.19" dur="0.38" conf="0.95"> maison </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="24.300" etime="29.160" spkid="S52" lang="fre" lconf="1.00" trs="1">
+<Word id="56" stime="24.59" dur="0.22" conf="0.71"> nous </Word>
+<Word id="57" stime="24.83" dur="0.23" conf="0.71"> sommes </Word>
+<Word id="58" stime="25.13" dur="0.44" conf="0.26"> montés </Word>
+<Word id="59" stime="25.63" dur="0.21" conf="0.80"> une </Word>
+<Word id="60" stime="25.85" dur="0.14" conf="0.38"> guerre </Word>
+<Word id="61" stime="26.00" dur="0.18" conf="0.35"> ou </Word>
+<Word id="62" stime="26.18" dur="0.11" conf="0.48"> et </Word>
+<Word id="63" stime="26.31" dur="1.11" conf="0.68"> collaborateurs </Word>
+<Word id="64" stime="27.42" dur="0.06" conf="0.98"> au </Word>
+<Word id="65" stime="27.48" dur="0.81" conf="0.98"> gouvernement </Word>
+<Word id="66" stime="28.53" dur="0.15" conf="0.73"> et </Word>
+<Word id="67" stime="28.68" dur="0.27" conf="0.99"> moins </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="29.600" etime="31.810" spkid="S4" lang="fre" lconf="1.00" trs="1">
+<Word id="68" stime="29.86" dur="0.12" conf="0.82"> à </Word>
+<Word id="69" stime="29.99" dur="0.18" conf="1.00"> de </Word>
+<Word id="70" stime="30.17" dur="0.63" conf="1.00"> nombreuses </Word>
+<Word id="71" stime="30.80" dur="0.99" conf="1.00"> difficultés </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="34.690" etime="42.190" spkid="S4" lang="fre" lconf="1.00" trs="1">
+<Word id="72" stime="34.69" dur="0.42" conf="0.99"> tout </Word>
+<Word id="73" stime="35.11" dur="0.09" conf="1.00"> le </Word>
+<Word id="74" stime="35.20" dur="0.51" conf="1.00"> monde </Word>
+<Word id="75" stime="35.71" dur="0.65" conf="0.70"> certains </Word>
+<Word id="76" stime="36.91" dur="0.27" conf="0.67"> étaient </Word>
+<Word id="77" stime="37.19" dur="0.71" conf="0.58"> partisans </Word>
+<Word id="78" stime="37.95" dur="0.15" conf="0.54"> qui </Word>
+<Word id="79" stime="38.12" dur="0.14" conf="0.67"> aura </Word>
+<Word id="80" stime="38.29" dur="0.18" conf="0.90"> la </Word>
+<Word id="81" stime="38.46" dur="0.42" conf="0.90"> demande </Word>
+<Word id="82" stime="38.91" dur="0.07" conf="0.73"> de </Word>
+<Word id="83" stime="38.98" dur="0.12" conf="1.00"> nos </Word>
+<Word id="84" stime="39.10" dur="0.51" conf="1.00"> finances </Word>
+<Word id="85" stime="39.61" dur="0.60" conf="1.00"> publiques </Word>
+<Word id="86" stime="41.25" dur="0.87" conf="0.78"> relèvement </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="42.490" etime="60.980" spkid="S4" lang="fre" lconf="1.00" trs="1">
+<Word id="87" stime="42.79" dur="0.23" conf="0.86"> dont </Word>
+<Word id="88" stime="43.03" dur="0.16" conf="0.87"> les </Word>
+<Word id="89" stime="43.20" dur="0.14" conf="0.99"> les </Word>
+<Word id="90" stime="43.33" dur="0.31" conf="0.79"> notes </Word>
+<Word id="91" stime="43.66" dur="0.74" conf="0.48"> essentiel </Word>
+<Word id="92" stime="45.18" dur="0.51" conf="0.84"> était </Word>
+<Word id="93" stime="45.73" dur="0.09" conf="0.92"> l' </Word>
+<Word id="94" stime="45.82" dur="0.74" conf="0.92"> équilibre </Word>
+<Word id="95" stime="46.57" dur="0.66" conf="0.70"> véritable </Word>
+<Word id="96" stime="47.35" dur="0.18" conf="0.48"> du </Word>
+<Word id="97" stime="47.53" dur="0.48" conf="0.91"> budget </Word>
+<Word id="98" stime="49.24" dur="0.51" conf="0.25"> aille </Word>
+<Word id="99" stime="50.44" dur="0.17" conf="0.94"> quand </Word>
+<Word id="100" stime="50.62" dur="0.24" conf="1.00"> nous </Word>
+<Word id="101" stime="50.86" dur="0.09" conf="0.98"> en </Word>
+<Word id="102" stime="50.98" dur="0.39" conf="1.00"> sommes </Word>
+<Word id="103" stime="51.37" dur="0.45" conf="0.99"> arrivés </Word>
+<Word id="104" stime="51.82" dur="0.09" conf="0.99"> à </Word>
+<Word id="105" stime="51.91" dur="0.12" conf="1.00"> la </Word>
+<Word id="106" stime="52.03" dur="0.72" conf="1.00"> recherche </Word>
+<Word id="107" stime="52.75" dur="0.09" conf="1.00"> des </Word>
+<Word id="108" stime="52.84" dur="0.54" conf="1.00"> moyens </Word>
+<Word id="109" stime="53.41" dur="0.45" conf="0.97"> vraiment </Word>
+<Word id="110" stime="53.90" dur="0.73" conf="0.55"> efficaces </Word>
+<Word id="111" stime="55.67" dur="0.16" conf="0.98"> nous </Word>
+<Word id="112" stime="55.84" dur="0.12" conf="1.00"> nous </Word>
+<Word id="113" stime="55.96" dur="0.45" conf="1.00"> sommes </Word>
+<Word id="114" stime="56.41" dur="0.66" conf="0.99"> aperçus </Word>
+<Word id="115" stime="57.82" dur="0.15" conf="1.00"> que </Word>
+<Word id="116" stime="58.00" dur="0.42" conf="0.91"> ceux </Word>
+<Word id="117" stime="58.42" dur="0.13" conf="0.81"> avec </Word>
+<Word id="118" stime="58.55" dur="0.14" conf="0.93"> qui </Word>
+<Word id="119" stime="58.69" dur="0.21" conf="1.00"> nous </Word>
+<Word id="120" stime="58.90" dur="0.30" conf="1.00"> étions </Word>
+<Word id="121" stime="59.26" dur="0.54" conf="1.00"> obligés </Word>
+<Word id="122" stime="59.86" dur="0.12" conf="1.00"> de </Word>
+<Word id="123" stime="59.98" dur="0.18" conf="1.00"> nous </Word>
+<Word id="124" stime="60.16" dur="0.60" conf="0.97"> adresser </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="61.550" etime="67.020" spkid="S4" lang="fre" lconf="1.00" trs="1">
+<Word id="125" stime="61.76" dur="0.12" conf="0.97"> qui </Word>
+<Word id="126" stime="61.88" dur="0.18" conf="0.98"> étaient </Word>
+<Word id="127" stime="62.06" dur="0.21" conf="1.00"> peu </Word>
+<Word id="128" stime="62.27" dur="0.81" conf="0.98"> disposés </Word>
+<Word id="129" stime="63.08" dur="0.06" conf="1.00"> à </Word>
+<Word id="130" stime="63.14" dur="0.15" conf="0.99"> nous </Word>
+<Word id="131" stime="63.29" dur="0.27" conf="0.97"> voir </Word>
+<Word id="132" stime="63.56" dur="0.57" conf="0.79"> demander </Word>
+<Word id="133" stime="64.13" dur="0.12" conf="1.00"> des </Word>
+<Word id="134" stime="64.25" dur="0.79" conf="1.00"> sacrifices </Word>
+<Word id="135" stime="65.16" dur="0.08" conf="0.83"> à </Word>
+<Word id="136" stime="65.24" dur="0.21" conf="0.96"> leurs </Word>
+<Word id="137" stime="65.48" dur="0.48" conf="0.98"> voisins </Word>
+<Word id="138" stime="66.14" dur="0.15" conf="0.82"> qui </Word>
+<Word id="139" stime="66.29" dur="0.18" conf="0.88"> eux </Word>
+<Word id="140" stime="66.47" dur="0.24" conf="0.89"> mêmes </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="69.110" etime="70.860" spkid="S4" lang="fre" lconf="1.00" trs="1">
+<Word id="141" stime="69.12" dur="0.68" conf="0.54"> pourrions </Word>
+<Word id="142" stime="69.80" dur="0.21" conf="0.64"> nous </Word>
+<Word id="143" stime="70.01" dur="0.18" conf="0.99"> mes </Word>
+<Word id="144" stime="70.19" dur="0.36" conf="1.00"> chers </Word>
+<Word id="145" stime="70.55" dur="0.30" conf="1.00"> amis </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="70.860" etime="72.540" spkid="S10" lang="fre" lconf="1.00" trs="1">
+<Word id="146" stime="71.46" dur="0.16" conf="1.00"> je </Word>
+<Word id="147" stime="71.64" dur="0.21" conf="1.00"> vous </Word>
+<Word id="148" stime="71.90" dur="0.27" conf="0.54"> empêche </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="73.340" etime="88.940" spkid="S10" lang="fre" lconf="1.00" trs="1">
+<Word id="149" stime="73.58" dur="0.57" conf="0.48"> demander </Word>
+<Word id="150" stime="74.15" dur="0.15" conf="1.00"> de </Word>
+<Word id="151" stime="74.30" dur="0.36" conf="1.00"> nouveaux </Word>
+<Word id="152" stime="74.66" dur="0.69" conf="1.00"> sacrifices </Word>
+<Word id="153" stime="75.35" dur="0.06" conf="0.85"> aux </Word>
+<Word id="154" stime="75.41" dur="0.93" conf="0.85"> contribuables </Word>
+<Word id="155" stime="77.27" dur="0.12" conf="0.97"> à </Word>
+<Word id="156" stime="77.39" dur="0.18" conf="1.00"> qui </Word>
+<Word id="157" stime="77.57" dur="0.15" conf="1.00"> on </Word>
+<Word id="158" stime="77.72" dur="0.22" conf="0.88"> avait </Word>
+<Word id="159" stime="77.95" dur="0.36" conf="0.93"> déjà </Word>
+<Word id="160" stime="78.34" dur="0.61" conf="0.46"> imposé </Word>
+<Word id="161" stime="79.21" dur="0.13" conf="0.52"> leur </Word>
+<Word id="162" stime="79.50" dur="0.38" conf="0.69"> travail </Word>
+<Word id="163" stime="79.95" dur="0.18" conf="0.52"> dont </Word>
+<Word id="164" stime="81.35" dur="0.15" conf="1.00"> les </Word>
+<Word id="165" stime="81.50" dur="0.60" conf="1.00"> fortes </Word>
+<Word id="166" stime="82.10" dur="0.78" conf="1.00"> augmentations </Word>
+<Word id="167" stime="82.88" dur="0.09" conf="0.98"> d' </Word>
+<Word id="168" stime="82.98" dur="0.47" conf="0.88"> impôts </Word>
+<Word id="169" stime="84.26" dur="0.23" conf="0.94"> ils </Word>
+<Word id="170" stime="84.50" dur="0.15" conf="0.93"> avaient </Word>
+<Word id="171" stime="84.71" dur="0.12" conf="0.99"> dû </Word>
+<Word id="172" stime="84.83" dur="0.69" conf="1.00"> subir </Word>
+<Word id="173" stime="86.36" dur="0.18" conf="0.95"> en </Word>
+<Word id="174" stime="86.54" dur="0.63" conf="1.00"> augmentant </Word>
+<Word id="175" stime="87.20" dur="0.18" conf="1.00"> les </Word>
+<Word id="176" stime="87.43" dur="0.25" conf="0.74"> prix </Word>
+<Word id="177" stime="87.68" dur="0.12" conf="1.00"> de </Word>
+<Word id="178" stime="87.83" dur="0.72" conf="0.99"> production </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="88.940" etime="93.460" spkid="S10" lang="fre" lconf="1.00" trs="1">
+<Word id="179" stime="89.24" dur="0.30" conf="0.80"> allez </Word>
+<Word id="180" stime="89.54" dur="0.99" conf="0.55"> déterminer </Word>
+<Word id="181" stime="90.68" dur="0.18" conf="1.00"> une </Word>
+<Word id="182" stime="90.86" dur="0.66" conf="1.00"> élévation </Word>
+<Word id="183" stime="91.52" dur="0.16" conf="0.51"> à </Word>
+<Word id="184" stime="91.71" dur="0.71" conf="0.96"> partant </Word>
+<Word id="185" stime="92.45" dur="0.18" conf="0.99"> du </Word>
+<Word id="186" stime="92.66" dur="0.21" conf="0.66"> palais </Word>
+<Word id="187" stime="92.87" dur="0.06" conf="1.00"> de </Word>
+<Word id="188" stime="92.93" dur="0.13" conf="0.72"> la </Word>
+<Word id="189" stime="93.06" dur="0.22" conf="0.15"> bible </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="94.280" etime="100.880" spkid="S10" lang="fre" lconf="1.00" trs="1">
+<Word id="190" stime="94.52" dur="0.41" conf="0.86"> pouvions </Word>
+<Word id="191" stime="94.94" dur="0.24" conf="0.59"> nous </Word>
+<Word id="192" stime="95.21" dur="0.21" conf="0.65"> par </Word>
+<Word id="193" stime="95.42" dur="0.36" conf="0.33"> allièrent </Word>
+<Word id="194" stime="95.81" dur="0.24" conf="0.98"> nous </Word>
+<Word id="195" stime="96.06" dur="0.56" conf="0.78"> adresser </Word>
+<Word id="196" stime="97.49" dur="0.15" conf="1.00"> à </Word>
+<Word id="197" stime="97.64" dur="0.15" conf="0.94"> ces </Word>
+<Word id="198" stime="97.94" dur="0.66" conf="1.00"> centaines </Word>
+<Word id="199" stime="98.60" dur="0.15" conf="1.00"> de </Word>
+<Word id="200" stime="98.78" dur="0.60" conf="1.00"> milliers </Word>
+<Word id="201" stime="99.41" dur="0.16" conf="1.00"> de </Word>
+<Word id="202" stime="99.58" dur="0.23" conf="0.26"> peur </Word>
+<Word id="203" stime="99.83" dur="0.16" conf="0.92"> qui </Word>
+<Word id="204" stime="100.00" dur="0.30" conf="0.70"> rend </Word>
+<Word id="205" stime="100.33" dur="0.34" conf="0.28"> qui </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="101.360" etime="111.010" spkid="S10" lang="fre" lconf="1.00" trs="1">
+<Word id="206" stime="101.57" dur="0.24" conf="0.98"> qui </Word>
+<Word id="207" stime="101.81" dur="0.24" conf="1.00"> avant </Word>
+<Word id="208" stime="102.05" dur="0.15" conf="1.00"> la </Word>
+<Word id="209" stime="102.20" dur="0.48" conf="1.00"> guerre </Word>
+<Word id="210" stime="102.68" dur="0.18" conf="0.94"> de </Word>
+<Word id="211" stime="102.89" dur="0.21" conf="0.86"> mille </Word>
+<Word id="212" stime="103.12" dur="0.16" conf="0.89"> neuf </Word>
+<Word id="213" stime="103.28" dur="0.21" conf="0.98"> cent </Word>
+<Word id="214" stime="103.52" dur="0.42" conf="0.98"> quatorze </Word>
+<Word id="215" stime="103.94" dur="0.30" conf="0.83"> heures </Word>
+<Word id="216" stime="104.87" dur="0.27" conf="1.00"> par </Word>
+<Word id="217" stime="105.14" dur="0.21" conf="1.00"> leur </Word>
+<Word id="218" stime="105.41" dur="0.63" conf="1.00"> travail </Word>
+<Word id="219" stime="106.15" dur="0.11" conf="0.93"> et </Word>
+<Word id="220" stime="106.27" dur="0.15" conf="0.87"> leur </Word>
+<Word id="221" stime="106.42" dur="0.19" conf="0.50"> aurait </Word>
+<Word id="222" stime="106.77" dur="0.23" conf="0.93"> permis </Word>
+<Word id="223" stime="107.01" dur="0.08" conf="0.93"> d' </Word>
+<Word id="224" stime="107.09" dur="0.66" conf="0.74"> économie </Word>
+<Word id="225" stime="108.56" dur="0.12" conf="0.58"> c' </Word>
+<Word id="226" stime="108.68" dur="0.21" conf="0.97"> était </Word>
+<Word id="227" stime="108.89" dur="0.84" conf="0.97"> constitué </Word>
+<Word id="228" stime="109.73" dur="0.15" conf="1.00"> de </Word>
+<Word id="229" stime="109.88" dur="0.54" conf="0.72"> petits </Word>
+<Word id="230" stime="110.42" dur="0.05" conf="0.88"> à </Word>
+<Word id="231" stime="110.47" dur="0.52" conf="0.76"> voir </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="111.520" etime="115.920" spkid="S10" lang="fre" lconf="1.00" trs="1">
+<Word id="232" stime="111.76" dur="0.12" conf="1.00"> que </Word>
+<Word id="233" stime="111.88" dur="0.15" conf="1.00"> la </Word>
+<Word id="234" stime="112.03" dur="0.81" conf="1.00"> dévaluation </Word>
+<Word id="235" stime="112.87" dur="0.15" conf="1.00"> du </Word>
+<Word id="236" stime="113.02" dur="0.51" conf="0.85"> franc </Word>
+<Word id="237" stime="113.68" dur="0.12" conf="0.94"> a </Word>
+<Word id="238" stime="113.80" dur="0.51" conf="0.97"> réduit </Word>
+<Word id="239" stime="114.34" dur="0.15" conf="0.71"> des </Word>
+<Word id="240" stime="114.50" dur="0.31" conf="0.44"> cas </Word>
+<Word id="241" stime="115.02" dur="0.17" conf="0.27"> et </Word>
+<Word id="242" stime="115.22" dur="0.20" conf="0.70"> qui </Word>
+<Word id="243" stime="115.42" dur="0.09" conf="0.48"> a </Word>
+<Word id="244" stime="115.52" dur="0.18" conf="0.55"> une </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="116.620" etime="121.050" spkid="S10" lang="fre" lconf="1.00" trs="1">
+<Word id="245" stime="116.89" dur="0.22" conf="1.00"> on </Word>
+<Word id="246" stime="117.13" dur="0.08" conf="0.97"> a </Word>
+<Word id="247" stime="117.21" dur="0.20" conf="0.75"> pas </Word>
+<Word id="248" stime="117.42" dur="0.86" conf="0.49"> revalorisé </Word>
+<Word id="249" stime="118.28" dur="0.12" conf="0.86"> il </Word>
+<Word id="250" stime="118.40" dur="0.11" conf="0.86"> est </Word>
+<Word id="251" stime="118.51" dur="0.45" conf="0.82"> ordonné </Word>
+<Word id="252" stime="118.96" dur="0.10" conf="0.57"> et </Word>
+<Word id="253" stime="119.07" dur="0.16" conf="0.88"> de </Word>
+<Word id="254" stime="119.23" dur="0.15" conf="0.52"> ses </Word>
+<Word id="255" stime="119.40" dur="0.31" conf="0.83"> prada </Word>
+<Word id="256" stime="119.73" dur="0.40" conf="0.40"> guère </Word>
+<Word id="257" stime="120.19" dur="0.84" conf="0.67"> économe </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="121.520" etime="125.300" spkid="S10" lang="fre" lconf="1.00" trs="1">
+<Word id="258" stime="121.76" dur="0.19" conf="0.76"> comme </Word>
+<Word id="259" stime="121.96" dur="0.27" conf="0.30"> monard </Word>
+<Word id="260" stime="122.28" dur="0.28" conf="0.41"> roda </Word>
+<Word id="261" stime="122.57" dur="0.53" conf="0.30"> localiser </Word>
+<Word id="262" stime="123.11" dur="0.09" conf="0.92"> et </Word>
+<Word id="263" stime="123.20" dur="0.15" conf="1.00"> les </Word>
+<Word id="264" stime="123.35" dur="0.81" conf="1.00"> traitements </Word>
+<Word id="265" stime="124.19" dur="0.09" conf="0.99"> et </Word>
+<Word id="266" stime="124.28" dur="0.12" conf="0.99"> les </Word>
+<Word id="267" stime="124.40" dur="0.90" conf="1.00"> salaires </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="125.890" etime="127.660" spkid="S10" lang="fre" lconf="1.00" trs="1">
+<Word id="268" stime="126.13" dur="0.17" conf="0.98"> est </Word>
+<Word id="269" stime="126.31" dur="0.39" conf="0.89"> -il </Word>
+<Word id="270" stime="126.72" dur="0.67" conf="1.00"> possible </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="127.900" etime="130.570" spkid="S10" lang="fre" lconf="1.00" trs="1">
+<Word id="271" stime="128.01" dur="0.05" conf="0.53"> d' </Word>
+<Word id="272" stime="128.19" dur="0.67" conf="0.97"> augmenter </Word>
+<Word id="273" stime="128.86" dur="0.21" conf="0.88"> leurs </Word>
+<Word id="274" stime="129.10" dur="0.57" conf="0.89"> charges </Word>
+<Word id="275" stime="129.67" dur="0.18" conf="0.99"> qui </Word>
+<Word id="276" stime="129.85" dur="0.09" conf="0.96"> se </Word>
+<Word id="277" stime="129.94" dur="0.39" conf="0.91"> cale </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="130.930" etime="133.300" spkid="S10" lang="fre" lconf="1.00" trs="1">
+<Word id="278" stime="131.20" dur="0.21" conf="0.99"> la </Word>
+<Word id="279" stime="131.42" dur="0.64" conf="0.94"> justice </Word>
+<Word id="280" stime="132.07" dur="0.32" conf="0.89"> aurait </Word>
+<Word id="281" stime="132.40" dur="0.18" conf="0.85"> été </Word>
+<Word id="282" stime="132.58" dur="0.45" conf="0.70"> grande </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="133.930" etime="138.720" spkid="S10" lang="fre" lconf="1.00" trs="1">
+<Word id="283" stime="134.20" dur="0.15" conf="1.00"> il </Word>
+<Word id="284" stime="134.35" dur="0.06" conf="1.00"> a </Word>
+<Word id="285" stime="134.41" dur="0.18" conf="1.00"> donc </Word>
+<Word id="286" stime="134.59" dur="0.33" conf="1.00"> fallu </Word>
+<Word id="287" stime="134.92" dur="0.63" conf="1.00"> rechercher </Word>
+<Word id="288" stime="135.55" dur="0.18" conf="1.00"> la </Word>
+<Word id="289" stime="135.73" dur="0.75" conf="1.00"> solution </Word>
+<Word id="290" stime="136.72" dur="0.12" conf="0.96"> de </Word>
+<Word id="291" stime="136.84" dur="0.06" conf="1.00"> l' </Word>
+<Word id="292" stime="136.90" dur="0.72" conf="1.00"> équilibre </Word>
+<Word id="293" stime="137.62" dur="1.08" conf="1.00"> budgétaire </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="139.370" etime="142.400" spkid="S10" lang="fre" lconf="1.00" trs="1">
+<Word id="294" stime="139.58" dur="0.21" conf="1.00"> dans </Word>
+<Word id="295" stime="139.79" dur="0.18" conf="1.00"> la </Word>
+<Word id="296" stime="139.97" dur="0.72" conf="1.00"> réduction </Word>
+<Word id="297" stime="140.73" dur="0.09" conf="0.50"> de </Word>
+<Word id="298" stime="140.84" dur="0.16" conf="0.44"> nos </Word>
+<Word id="299" stime="141.02" dur="0.37" conf="0.42"> propres </Word>
+<Word id="300" stime="141.40" dur="0.24" conf="0.21"> à </Word>
+<Word id="301" stime="141.68" dur="0.26" conf="0.51"> donner </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="143.410" etime="146.430" spkid="S166" lang="fre" lconf="1.00" trs="1">
+<Word id="302" stime="143.65" dur="0.12" conf="0.91"> la </Word>
+<Word id="303" stime="143.77" dur="0.56" conf="0.87"> nuit </Word>
+<Word id="304" stime="144.48" dur="0.28" conf="0.84"> était </Word>
+<Word id="305" stime="144.77" dur="0.27" conf="0.45"> de </Word>
+<Word id="306" stime="145.08" dur="0.28" conf="0.39"> bonne </Word>
+<Word id="307" stime="145.56" dur="0.26" conf="0.32"> coûte </Word>
+<Word id="308" stime="145.86" dur="0.27" conf="0.40"> euh </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="147.090" etime="148.950" spkid="S166" lang="fre" lconf="1.00" trs="1">
+<Word id="309" stime="147.39" dur="0.30" conf="0.86"> autant </Word>
+<Word id="310" stime="147.69" dur="0.31" conf="0.52"> besoin </Word>
+<Word id="311" stime="148.20" dur="0.51" conf="0.70"> réal </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="149.190" etime="154.710" spkid="S166" lang="fre" lconf="1.00" trs="1">
+<Word id="312" stime="149.40" dur="0.22" conf="0.77"> la </Word>
+<Word id="313" stime="149.66" dur="0.24" conf="0.42"> rend </Word>
+<Word id="314" stime="150.05" dur="0.43" conf="0.72"> encore </Word>
+<Word id="315" stime="150.50" dur="0.35" conf="0.46"> corée </Word>
+<Word id="316" stime="150.91" dur="0.30" conf="0.85"> pop </Word>
+<Word id="317" stime="152.13" dur="0.50" conf="1.00"> un </Word>
+<Word id="318" stime="152.73" dur="0.27" conf="1.00"> grand </Word>
+<Word id="319" stime="153.00" dur="0.48" conf="1.00"> nombre </Word>
+<Word id="320" stime="153.48" dur="0.15" conf="0.99"> de </Word>
+<Word id="321" stime="153.67" dur="0.92" conf="0.54"> pensionnaires </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="154.710" etime="165.030" spkid="S22" lang="fre" lconf="1.00" trs="1">
+<Word id="322" stime="155.01" dur="0.48" conf="0.28"> auxquelles </Word>
+<Word id="323" stime="156.15" dur="0.51" conf="1.00"> viennent </Word>
+<Word id="324" stime="156.66" dur="0.48" conf="0.94"> encore </Word>
+<Word id="325" stime="157.20" dur="0.15" conf="1.00"> s' </Word>
+<Word id="326" stime="157.35" dur="0.66" conf="1.00"> ajouter </Word>
+<Word id="327" stime="158.07" dur="0.24" conf="0.79"> au </Word>
+<Word id="328" stime="158.34" dur="0.17" conf="0.43"> bout </Word>
+<Word id="329" stime="158.51" dur="0.07" conf="0.86"> d' </Word>
+<Word id="330" stime="158.58" dur="0.75" conf="0.74"> auxiliaire </Word>
+<Word id="331" stime="160.50" dur="0.21" conf="1.00"> une </Word>
+<Word id="332" stime="160.74" dur="0.60" conf="1.00"> réduction </Word>
+<Word id="333" stime="161.37" dur="0.18" conf="1.00"> du </Word>
+<Word id="334" stime="161.55" dur="0.51" conf="1.00"> nombre </Word>
+<Word id="335" stime="162.09" dur="0.24" conf="0.98"> des </Word>
+<Word id="336" stime="162.33" dur="0.25" conf="1.00"> gens </Word>
+<Word id="337" stime="162.58" dur="0.23" conf="0.89"> âgés </Word>
+<Word id="338" stime="162.81" dur="0.24" conf="0.79"> des </Word>
+<Word id="339" stime="163.05" dur="0.48" conf="0.99"> autres </Word>
+<Word id="340" stime="163.59" dur="0.31" conf="0.83"> sans </Word>
+<Word id="341" stime="163.93" dur="0.35" conf="0.34"> poser </Word>
+<Word id="342" stime="164.31" dur="0.18" conf="0.71"> donc </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="165.500" etime="177.400" spkid="S22" lang="fre" lconf="1.00" trs="1">
+<Word id="343" stime="165.98" dur="0.30" conf="1.00"> mais </Word>
+<Word id="344" stime="167.57" dur="0.27" conf="0.99"> cette </Word>
+<Word id="345" stime="167.84" dur="0.63" conf="1.00"> réduction </Word>
+<Word id="346" stime="168.50" dur="0.23" conf="0.53"> étaient </Word>
+<Word id="347" stime="168.79" dur="0.97" conf="0.54"> insuffisantes </Word>
+<Word id="348" stime="170.60" dur="0.24" conf="1.00"> pour </Word>
+<Word id="349" stime="170.84" dur="0.66" conf="0.99"> réaliser </Word>
+<Word id="350" stime="171.53" dur="0.09" conf="0.98"> d' </Word>
+<Word id="351" stime="171.62" dur="0.78" conf="0.97"> équilibre </Word>
+<Word id="352" stime="172.82" dur="0.15" conf="0.98"> et </Word>
+<Word id="353" stime="172.98" dur="0.71" conf="0.99"> assurer </Word>
+<Word id="354" stime="173.72" dur="0.15" conf="1.00"> la </Word>
+<Word id="355" stime="173.87" dur="0.84" conf="1.00"> stabilité </Word>
+<Word id="356" stime="174.71" dur="0.15" conf="1.00"> du </Word>
+<Word id="357" stime="174.86" dur="0.30" conf="0.87"> franc </Word>
+<Word id="358" stime="176.33" dur="0.15" conf="1.00"> le </Word>
+<Word id="359" stime="176.48" dur="0.90" conf="0.97"> gouvernement </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="177.860" etime="194.330" spkid="S22" lang="fre" lconf="1.00" trs="1">
+<Word id="360" stime="178.13" dur="0.27" conf="0.84"> ado </Word>
+<Word id="361" stime="178.52" dur="0.52" conf="0.26"> saher </Word>
+<Word id="362" stime="179.30" dur="0.24" conf="0.99"> ce </Word>
+<Word id="363" stime="179.54" dur="0.15" conf="1.00"> qui </Word>
+<Word id="364" stime="179.69" dur="0.03" conf="1.00"> a </Word>
+<Word id="365" stime="179.72" dur="0.30" conf="1.00"> été </Word>
+<Word id="366" stime="180.02" dur="0.24" conf="1.00"> fait </Word>
+<Word id="367" stime="180.26" dur="0.21" conf="1.00"> dans </Word>
+<Word id="368" stime="180.47" dur="0.24" conf="0.99"> tous </Word>
+<Word id="369" stime="180.71" dur="0.15" conf="1.00"> les </Word>
+<Word id="370" stime="180.92" dur="0.45" conf="1.00"> pays </Word>
+<Word id="371" stime="181.55" dur="0.15" conf="0.34"> les </Word>
+<Word id="372" stime="181.76" dur="0.46" conf="0.37"> cailles </Word>
+<Word id="373" stime="182.87" dur="0.21" conf="1.00"> par </Word>
+<Word id="374" stime="183.08" dur="0.21" conf="1.00"> ces </Word>
+<Word id="375" stime="183.32" dur="0.30" conf="1.00"> temps </Word>
+<Word id="376" stime="183.65" dur="0.18" conf="1.00"> de </Word>
+<Word id="377" stime="183.83" dur="0.57" conf="1.00"> crise </Word>
+<Word id="378" stime="184.40" dur="0.69" conf="0.99"> mondiale </Word>
+<Word id="379" stime="185.78" dur="0.18" conf="1.00"> le </Word>
+<Word id="380" stime="185.99" dur="0.57" conf="0.98"> chiffre </Word>
+<Word id="381" stime="186.56" dur="0.15" conf="0.99"> des </Word>
+<Word id="382" stime="186.71" dur="0.66" conf="1.00"> dépenses </Word>
+<Word id="383" stime="187.37" dur="0.89" conf="1.00"> budgétaires </Word>
+<Word id="384" stime="188.87" dur="0.28" conf="0.63"> était </Word>
+<Word id="385" stime="189.21" dur="0.13" conf="0.82"> de </Word>
+<Word id="386" stime="189.35" dur="0.50" conf="0.95"> beaucoup </Word>
+<Word id="387" stime="189.86" dur="0.99" conf="0.35"> supérieur </Word>
+<Word id="388" stime="191.06" dur="0.15" conf="0.99"> à </Word>
+<Word id="389" stime="191.21" dur="0.25" conf="0.75"> ce </Word>
+<Word id="390" stime="191.54" dur="0.26" conf="0.52"> midi </Word>
+<Word id="391" stime="191.88" dur="0.30" conf="0.19"> cèdent </Word>
+<Word id="392" stime="193.33" dur="0.12" conf="0.98"> et </Word>
+<Word id="393" stime="193.48" dur="0.09" conf="0.96"> c' </Word>
+<Word id="394" stime="193.58" dur="0.20" conf="0.98"> est </Word>
+<Word id="395" stime="193.79" dur="0.31" conf="0.80"> ainsi </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="194.800" etime="211.250" spkid="S22" lang="fre" lconf="1.00" trs="1">
+<Word id="396" stime="195.01" dur="0.17" conf="0.97"> que </Word>
+<Word id="397" stime="195.19" dur="0.12" conf="1.00"> nous </Word>
+<Word id="398" stime="195.31" dur="0.15" conf="1.00"> nous </Word>
+<Word id="399" stime="195.46" dur="0.33" conf="1.00"> sommes </Word>
+<Word id="400" stime="195.82" dur="0.63" conf="1.00"> résignés </Word>
+<Word id="401" stime="196.48" dur="0.12" conf="0.85"> à </Word>
+<Word id="402" stime="196.60" dur="0.54" conf="0.66"> enterrer </Word>
+<Word id="403" stime="197.89" dur="0.24" conf="1.00"> dans </Word>
+<Word id="404" stime="198.13" dur="0.12" conf="1.00"> des </Word>
+<Word id="405" stime="198.25" dur="0.81" conf="1.00"> proportions </Word>
+<Word id="406" stime="199.06" dur="0.39" conf="1.00"> bien </Word>
+<Word id="407" stime="199.48" dur="0.15" conf="1.00"> plus </Word>
+<Word id="408" stime="199.63" dur="0.53" conf="0.49"> modérée </Word>
+<Word id="409" stime="200.16" dur="0.26" conf="0.64"> qu' </Word>
+<Word id="410" stime="200.41" dur="0.38" conf="0.66"> ailleurs </Word>
+<Word id="411" stime="201.52" dur="0.24" conf="1.00"> une </Word>
+<Word id="412" stime="201.76" dur="0.75" conf="1.00"> diminution </Word>
+<Word id="413" stime="202.54" dur="0.15" conf="1.00"> des </Word>
+<Word id="414" stime="202.72" dur="0.60" conf="0.99"> traitements </Word>
+<Word id="415" stime="203.77" dur="0.27" conf="0.98"> des </Word>
+<Word id="416" stime="204.07" dur="0.69" conf="1.00"> salaires </Word>
+<Word id="417" stime="204.76" dur="0.09" conf="1.00"> et </Word>
+<Word id="418" stime="204.85" dur="0.12" conf="1.00"> des </Word>
+<Word id="419" stime="204.97" dur="0.48" conf="1.00"> retraites </Word>
+<Word id="420" stime="206.53" dur="0.24" conf="1.00"> je </Word>
+<Word id="421" stime="206.77" dur="0.33" conf="1.00"> dois </Word>
+<Word id="422" stime="207.10" dur="0.48" conf="0.98"> ajouter </Word>
+<Word id="423" stime="207.58" dur="0.57" conf="1.00"> toutefois </Word>
+<Word id="424" stime="208.71" dur="0.49" conf="0.47"> qu' </Word>
+<Word id="425" stime="209.21" dur="0.08" conf="1.00"> en </Word>
+<Word id="426" stime="209.29" dur="0.09" conf="1.00"> ce </Word>
+<Word id="427" stime="209.38" dur="0.18" conf="1.00"> qui </Word>
+<Word id="428" stime="209.56" dur="0.81" conf="1.00"> concerne </Word>
+<Word id="429" stime="210.37" dur="0.17" conf="0.98"> les </Word>
+<Word id="430" stime="210.65" dur="0.51" conf="0.56"> trahir </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="211.250" etime="229.820" spkid="S22" lang="fre" lconf="1.00" trs="1">
+<Word id="431" stime="211.95" dur="0.20" conf="0.96"> il </Word>
+<Word id="432" stime="212.17" dur="0.07" conf="0.67"> a </Word>
+<Word id="433" stime="212.29" dur="0.27" conf="0.16"> paru </Word>
+<Word id="434" stime="212.60" dur="0.39" conf="0.74"> juge </Word>
+<Word id="435" stime="213.05" dur="0.06" conf="1.00"> au </Word>
+<Word id="436" stime="213.11" dur="0.69" conf="1.00"> gouvernement </Word>
+<Word id="437" stime="214.70" dur="0.45" conf="1.00"> après </Word>
+<Word id="438" stime="215.15" dur="0.24" conf="1.00"> une </Word>
+<Word id="439" stime="215.39" dur="0.48" conf="1.00"> nouvelle </Word>
+<Word id="440" stime="215.87" dur="0.45" conf="1.00"> étude </Word>
+<Word id="441" stime="216.35" dur="0.09" conf="1.00"> de </Word>
+<Word id="442" stime="216.44" dur="0.12" conf="1.00"> la </Word>
+<Word id="443" stime="216.56" dur="0.51" conf="1.00"> question </Word>
+<Word id="444" stime="218.00" dur="0.12" conf="1.00"> d' </Word>
+<Word id="445" stime="218.12" dur="0.81" conf="1.00"> envisager </Word>
+<Word id="446" stime="218.96" dur="0.15" conf="1.00"> des </Word>
+<Word id="447" stime="219.17" dur="0.60" conf="0.99"> retouches </Word>
+<Word id="448" stime="220.03" dur="0.65" conf="0.68"> décret-loi </Word>
+<Word id="449" stime="220.82" dur="0.12" conf="0.99"> en </Word>
+<Word id="450" stime="220.94" dur="0.33" conf="1.00"> cette </Word>
+<Word id="451" stime="221.27" dur="0.57" conf="1.00"> matière </Word>
+<Word id="452" stime="222.59" dur="0.72" conf="0.70"> retouche </Word>
+<Word id="453" stime="223.97" dur="0.15" conf="1.00"> qui </Word>
+<Word id="454" stime="224.12" dur="0.75" conf="1.00"> permettront </Word>
+<Word id="455" stime="224.87" dur="0.15" conf="1.00"> de </Word>
+<Word id="456" stime="225.05" dur="0.63" conf="1.00"> réduire </Word>
+<Word id="457" stime="225.68" dur="0.15" conf="1.00"> les </Word>
+<Word id="458" stime="225.83" dur="0.96" conf="0.89"> sacrifices </Word>
+<Word id="459" stime="227.36" dur="0.15" conf="0.69"> a </Word>
+<Word id="460" stime="227.51" dur="0.75" conf="0.69"> demandé </Word>
+<Word id="461" stime="228.38" dur="0.15" conf="0.98"> aux </Word>
+<Word id="462" stime="228.53" dur="0.66" conf="0.98"> retraités </Word>
+<Word id="463" stime="229.19" dur="0.15" conf="1.00"> de </Word>
+<Word id="464" stime="229.34" dur="0.06" conf="1.00"> l' </Word>
+<Word id="465" stime="229.40" dur="0.42" conf="1.00"> état </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="231.130" etime="235.900" spkid="S22" lang="fre" lconf="1.00" trs="1">
+<Word id="466" stime="231.37" dur="0.21" conf="1.00"> il </Word>
+<Word id="467" stime="231.58" dur="0.24" conf="1.00"> faut </Word>
+<Word id="468" stime="231.82" dur="0.18" conf="1.00"> que </Word>
+<Word id="469" stime="232.00" dur="0.18" conf="1.00"> le </Word>
+<Word id="470" stime="232.18" dur="0.27" conf="0.99"> bon </Word>
+<Word id="471" stime="232.45" dur="0.60" conf="1.00"> sens </Word>
+<Word id="472" stime="233.62" dur="0.27" conf="0.70"> soit </Word>
+<Word id="473" stime="233.89" dur="0.32" conf="0.90"> moins </Word>
+<Word id="474" stime="234.23" dur="0.46" conf="0.33"> répandue </Word>
+<Word id="475" stime="234.82" dur="0.19" conf="0.45"> qu' </Word>
+<Word id="476" stime="235.02" dur="0.15" conf="0.50"> on </Word>
+<Word id="477" stime="235.19" dur="0.17" conf="1.00"> le </Word>
+<Word id="478" stime="235.36" dur="0.54" conf="0.76"> dit </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="236.640" etime="252.390" spkid="S22" lang="fre" lconf="1.00" trs="1">
+<Word id="479" stime="236.64" dur="0.15" conf="0.98"> pour </Word>
+<Word id="480" stime="236.85" dur="0.12" conf="0.95"> qu' </Word>
+<Word id="481" stime="236.97" dur="0.12" conf="1.00"> on </Word>
+<Word id="482" stime="237.12" dur="0.09" conf="0.70"> est </Word>
+<Word id="483" stime="237.21" dur="0.18" conf="0.99"> pas </Word>
+<Word id="484" stime="237.43" dur="0.38" conf="0.35"> compris </Word>
+<Word id="485" stime="238.05" dur="0.18" conf="1.00"> dans </Word>
+<Word id="486" stime="238.26" dur="0.54" conf="1.00"> certains </Word>
+<Word id="487" stime="238.80" dur="0.57" conf="1.00"> milieux </Word>
+<Word id="488" stime="240.08" dur="0.09" conf="0.44"> de </Word>
+<Word id="489" stime="240.25" dur="0.26" conf="0.79"> la </Word>
+<Word id="490" stime="240.71" dur="0.41" conf="0.63"> réédition </Word>
+<Word id="491" stime="241.18" dur="0.68" conf="0.63"> serviteurs </Word>
+<Word id="492" stime="241.86" dur="0.15" conf="1.00"> de </Word>
+<Word id="493" stime="242.01" dur="0.06" conf="1.00"> l' </Word>
+<Word id="494" stime="242.07" dur="0.36" conf="1.00"> état </Word>
+<Word id="495" stime="243.24" dur="0.60" conf="1.00"> autant </Word>
+<Word id="496" stime="243.87" dur="0.12" conf="1.00"> que </Word>
+<Word id="497" stime="244.02" dur="0.57" conf="1.00"> celui </Word>
+<Word id="498" stime="244.59" dur="0.15" conf="1.00"> de </Word>
+<Word id="499" stime="244.74" dur="0.06" conf="1.00"> l' </Word>
+<Word id="500" stime="244.80" dur="0.27" conf="1.00"> état </Word>
+<Word id="501" stime="245.07" dur="0.25" conf="0.79"> lui </Word>
+<Word id="502" stime="245.33" dur="0.43" conf="0.40"> même </Word>
+<Word id="503" stime="246.43" dur="0.42" conf="0.64"> comment </Word>
+<Word id="504" stime="246.92" dur="0.23" conf="0.84"> est </Word>
+<Word id="505" stime="247.15" dur="0.11" conf="0.89"> un </Word>
+<Word id="506" stime="247.26" dur="0.24" conf="0.70"> acte </Word>
+<Word id="507" stime="247.52" dur="0.68" conf="0.98"> sérieusement </Word>
+<Word id="508" stime="248.85" dur="0.14" conf="0.92"> l' </Word>
+<Word id="509" stime="249.00" dur="0.75" conf="1.00"> adoption </Word>
+<Word id="510" stime="249.78" dur="0.15" conf="0.96"> des </Word>
+<Word id="511" stime="249.93" dur="0.84" conf="1.00"> mesures </Word>
+<Word id="512" stime="250.77" dur="0.18" conf="1.00"> que </Word>
+<Word id="513" stime="250.95" dur="0.12" conf="1.00"> nous </Word>
+<Word id="514" stime="251.07" dur="0.36" conf="1.00"> venons </Word>
+<Word id="515" stime="251.43" dur="0.11" conf="0.84"> de </Word>
+<Word id="516" stime="251.61" dur="0.63" conf="0.43"> prendre </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="253.030" etime="261.540" spkid="S22" lang="fre" lconf="1.00" trs="1">
+<Word id="517" stime="253.03" dur="0.04" conf="0.58"> on </Word>
+<Word id="518" stime="253.30" dur="0.46" conf="0.70"> ignorait </Word>
+<Word id="519" stime="253.76" dur="0.23" conf="0.75"> tout </Word>
+<Word id="520" stime="254.02" dur="0.18" conf="0.99"> dans </Word>
+<Word id="521" stime="254.20" dur="0.18" conf="0.65"> ces </Word>
+<Word id="522" stime="254.38" dur="0.48" conf="0.65"> milieux </Word>
+<Word id="523" stime="255.61" dur="0.18" conf="0.88"> la </Word>
+<Word id="524" stime="255.79" dur="0.88" conf="1.00"> situation </Word>
+<Word id="525" stime="256.69" dur="0.32" conf="0.57"> aussi </Word>
+<Word id="526" stime="257.07" dur="0.82" conf="1.00"> critique </Word>
+<Word id="527" stime="257.92" dur="0.15" conf="1.00"> des </Word>
+<Word id="528" stime="258.10" dur="0.66" conf="1.00"> finances </Word>
+<Word id="529" stime="258.76" dur="0.54" conf="1.00"> publiques </Word>
+<Word id="530" stime="260.41" dur="0.21" conf="1.00"> je </Word>
+<Word id="531" stime="260.62" dur="0.39" conf="0.91"> voudrais </Word>
+<Word id="532" stime="261.07" dur="0.45" conf="1.00"> croire </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="262.000" etime="265.270" spkid="S22" lang="fre" lconf="1.00" trs="1">
+<Word id="533" stime="262.24" dur="0.21" conf="1.00"> pour </Word>
+<Word id="534" stime="262.45" dur="0.45" conf="1.00"> trouver </Word>
+<Word id="535" stime="262.90" dur="0.12" conf="1.00"> une </Word>
+<Word id="536" stime="263.02" dur="0.72" conf="1.00"> excuse </Word>
+<Word id="537" stime="263.74" dur="0.09" conf="0.93"> à </Word>
+<Word id="538" stime="263.83" dur="0.21" conf="1.00"> ceux </Word>
+<Word id="539" stime="264.04" dur="0.18" conf="1.00"> qui </Word>
+<Word id="540" stime="264.22" dur="0.12" conf="1.00"> ont </Word>
+<Word id="541" stime="264.34" dur="0.92" conf="1.00"> résisté </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="267.500" etime="269.790" spkid="S22" lang="fre" lconf="1.00" trs="1">
+<Word id="542" stime="267.74" dur="0.48" conf="0.44"> connaissez </Word>
+<Word id="543" stime="268.25" dur="0.33" conf="1.00"> bien </Word>
+<Word id="544" stime="268.61" dur="0.27" conf="1.00"> cette </Word>
+<Word id="545" stime="268.88" dur="0.90" conf="1.00"> situation </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="270.250" etime="273.990" spkid="S22" lang="fre" lconf="1.00" trs="1">
+<Word id="546" stime="270.52" dur="0.15" conf="0.98"> et </Word>
+<Word id="547" stime="270.67" dur="0.12" conf="0.98"> il </Word>
+<Word id="548" stime="270.79" dur="0.09" conf="0.96"> a </Word>
+<Word id="549" stime="270.88" dur="0.12" conf="0.93"> des </Word>
+<Word id="550" stime="271.01" dur="0.35" conf="0.92"> trolls </Word>
+<Word id="551" stime="271.37" dur="0.74" conf="0.79"> sentiment </Word>
+<Word id="552" stime="272.17" dur="0.15" conf="1.00"> de </Word>
+<Word id="553" stime="272.32" dur="0.15" conf="0.99"> ses </Word>
+<Word id="554" stime="272.47" dur="1.50" conf="0.99"> responsabilités </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="274.340" etime="278.110" spkid="S22" lang="fre" lconf="1.00" trs="1">
+<Word id="555" stime="274.55" dur="0.22" conf="0.99"> pour </Word>
+<Word id="556" stime="274.77" dur="0.54" conf="0.80"> hésitera </Word>
+<Word id="557" stime="275.33" dur="0.69" conf="1.00"> prendre </Word>
+<Word id="558" stime="276.02" dur="0.15" conf="1.00"> les </Word>
+<Word id="559" stime="276.17" dur="0.84" conf="1.00"> mesures </Word>
+<Word id="560" stime="277.01" dur="0.18" conf="1.00"> qui </Word>
+<Word id="561" stime="277.19" dur="0.15" conf="1.00"> s' </Word>
+<Word id="562" stime="277.34" dur="0.37" conf="0.87"> imposent </Word>
+<Word id="563" stime="277.72" dur="0.30" conf="0.18"> avec </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="278.900" etime="287.570" spkid="S46" lang="fre" lconf="1.00" trs="1">
+<Word id="564" stime="279.17" dur="0.18" conf="1.00"> j' </Word>
+<Word id="565" stime="279.35" dur="0.06" conf="1.00"> ai </Word>
+<Word id="566" stime="279.41" dur="0.27" conf="0.99"> été </Word>
+<Word id="567" stime="279.68" dur="0.36" conf="1.00"> très </Word>
+<Word id="568" stime="280.04" dur="0.36" conf="0.99"> heureux </Word>
+<Word id="569" stime="280.43" dur="0.15" conf="1.00"> de </Word>
+<Word id="570" stime="280.58" dur="0.81" conf="1.00"> constater </Word>
+<Word id="571" stime="282.08" dur="0.15" conf="0.91"> que </Word>
+<Word id="572" stime="282.24" dur="0.19" conf="0.87"> les </Word>
+<Word id="573" stime="282.44" dur="0.35" conf="0.89"> anciens </Word>
+<Word id="574" stime="282.80" dur="0.57" conf="0.89"> combattants </Word>
+<Word id="575" stime="284.24" dur="0.18" conf="0.80"> en </Word>
+<Word id="576" stime="284.43" dur="0.65" conf="0.90"> apportant </Word>
+<Word id="577" stime="285.17" dur="0.90" conf="1.00"> volontairement </Word>
+<Word id="578" stime="286.10" dur="0.24" conf="0.61"> leur </Word>
+<Word id="579" stime="286.34" dur="1.23" conf="0.62"> contribution </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="287.630" etime="291.320" spkid="S46" lang="fre" lconf="1.00" trs="1">
+<Word id="580" stime="287.87" dur="0.12" conf="0.74"> à </Word>
+<Word id="581" stime="287.99" dur="0.15" conf="1.00"> l' </Word>
+<Word id="582" stime="288.23" dur="0.39" conf="0.98"> oeuvre </Word>
+<Word id="583" stime="288.62" dur="0.12" conf="1.00"> de </Word>
+<Word id="584" stime="288.74" dur="0.75" conf="1.00"> redressement </Word>
+<Word id="585" stime="289.52" dur="0.66" conf="0.99"> financier </Word>
+<Word id="586" stime="290.18" dur="0.09" conf="1.00"> de </Word>
+<Word id="587" stime="290.27" dur="0.12" conf="1.00"> la </Word>
+<Word id="588" stime="290.39" dur="0.63" conf="1.00"> france </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="291.480" etime="293.500" spkid="S46" lang="fre" lconf="1.00" trs="1">
+<Word id="589" stime="291.69" dur="0.15" conf="0.93"> c' </Word>
+<Word id="590" stime="291.86" dur="0.41" conf="0.46"> était </Word>
+<Word id="591" stime="292.53" dur="0.36" conf="1.00"> eux </Word>
+<Word id="592" stime="292.89" dur="0.60" conf="1.00"> aussi </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="293.760" etime="296.620" spkid="S46" lang="fre" lconf="1.00" trs="1">
+<Word id="593" stime="294.06" dur="0.42" conf="0.82"> rendu </Word>
+<Word id="594" stime="294.51" dur="0.54" conf="1.00"> compte </Word>
+<Word id="595" stime="295.08" dur="0.12" conf="0.70"> du </Word>
+<Word id="596" stime="295.20" dur="0.25" conf="0.54"> aurait </Word>
+<Word id="597" stime="295.47" dur="0.06" conf="0.95"> à </Word>
+<Word id="598" stime="295.53" dur="0.07" conf="0.96"> l' </Word>
+<Word id="599" stime="295.59" dur="0.27" conf="0.98"> état </Word>
+<Word id="600" stime="295.86" dur="0.15" conf="1.00"> de </Word>
+<Word id="601" stime="296.01" dur="0.33" conf="0.80"> choses </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="299.170" etime="301.110" spkid="S46" lang="fre" lconf="1.00" trs="1">
+<Word id="602" stime="299.43" dur="0.24" conf="0.83"> quant </Word>
+<Word id="603" stime="299.68" dur="0.09" conf="0.93"> aux </Word>
+<Word id="604" stime="299.77" dur="0.69" conf="0.87"> serviteurs </Word>
+<Word id="605" stime="300.46" dur="0.09" conf="1.00"> de </Word>
+<Word id="606" stime="300.55" dur="0.06" conf="1.00"> l' </Word>
+<Word id="607" stime="300.61" dur="0.48" conf="1.00"> état </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="301.710" etime="315.180" spkid="S46" lang="fre" lconf="1.00" trs="1">
+<Word id="608" stime="301.92" dur="0.51" conf="1.00"> certains </Word>
+<Word id="609" stime="302.43" dur="0.09" conf="1.00"> d' </Word>
+<Word id="610" stime="302.52" dur="0.36" conf="0.99"> entre </Word>
+<Word id="611" stime="302.88" dur="0.12" conf="0.98"> eux </Word>
+<Word id="612" stime="303.78" dur="0.21" conf="1.00"> ont </Word>
+<Word id="613" stime="304.02" dur="0.60" conf="0.99"> prêté </Word>
+<Word id="614" stime="304.65" dur="0.15" conf="1.00"> une </Word>
+<Word id="615" stime="304.80" dur="0.42" conf="1.00"> oreille </Word>
+<Word id="616" stime="305.22" dur="0.48" conf="0.95"> trop </Word>
+<Word id="617" stime="305.70" dur="0.68" conf="0.53"> crédules </Word>
+<Word id="618" stime="306.93" dur="0.11" conf="0.76"> à </Word>
+<Word id="619" stime="307.12" dur="0.26" conf="0.58"> ceux </Word>
+<Word id="620" stime="307.40" dur="0.15" conf="0.52"> qui </Word>
+<Word id="621" stime="307.54" dur="0.11" conf="0.48"> l' </Word>
+<Word id="622" stime="307.66" dur="0.26" conf="0.94"> auront </Word>
+<Word id="623" stime="307.95" dur="0.48" conf="0.55"> vanté </Word>
+<Word id="624" stime="308.43" dur="0.12" conf="1.00"> les </Word>
+<Word id="625" stime="308.55" dur="0.60" conf="1.00"> mérites </Word>
+<Word id="626" stime="309.18" dur="0.12" conf="0.97"> de </Word>
+<Word id="627" stime="309.30" dur="0.12" conf="0.96"> l' </Word>
+<Word id="628" stime="309.42" dur="0.78" conf="1.00"> inflation </Word>
+<Word id="629" stime="310.77" dur="0.21" conf="0.88"> c' </Word>
+<Word id="630" stime="310.98" dur="0.16" conf="0.87"> est </Word>
+<Word id="631" stime="311.13" dur="0.10" conf="0.86"> à </Word>
+<Word id="632" stime="311.24" dur="0.34" conf="0.87"> dire </Word>
+<Word id="633" stime="311.58" dur="0.09" conf="0.88"> à </Word>
+<Word id="634" stime="311.69" dur="0.33" conf="0.54"> parler </Word>
+<Word id="635" stime="312.06" dur="0.60" conf="0.55"> clair </Word>
+<Word id="636" stime="313.38" dur="0.15" conf="1.00"> de </Word>
+<Word id="637" stime="313.53" dur="0.15" conf="0.99"> la </Word>
+<Word id="638" stime="313.68" dur="0.87" conf="0.99"> dévaluation </Word>
+<Word id="639" stime="314.55" dur="0.18" conf="1.00"> du </Word>
+<Word id="640" stime="314.73" dur="0.45" conf="0.90"> franc </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="315.680" etime="320.050" spkid="S46" lang="fre" lconf="1.00" trs="1">
+<Word id="641" stime="315.92" dur="0.18" conf="1.00"> pour </Word>
+<Word id="642" stime="316.13" dur="0.72" conf="1.00"> remédier </Word>
+<Word id="643" stime="317.24" dur="0.09" conf="0.98"> à </Word>
+<Word id="644" stime="317.33" dur="0.15" conf="1.00"> la </Word>
+<Word id="645" stime="317.51" dur="0.82" conf="0.87"> fâcheuse </Word>
+<Word id="646" stime="318.38" dur="0.80" conf="0.69"> situation </Word>
+<Word id="647" stime="319.22" dur="0.12" conf="0.99"> de </Word>
+<Word id="648" stime="319.34" dur="0.12" conf="0.92"> nos </Word>
+<Word id="649" stime="319.46" dur="0.57" conf="0.63"> clients </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="320.570" etime="324.880" spkid="S108" lang="fre" lconf="1.00" trs="1">
+<Word id="650" stime="320.77" dur="0.10" conf="0.30"> chez </Word>
+<Word id="651" stime="320.97" dur="0.14" conf="1.00"> nous </Word>
+<Word id="652" stime="321.11" dur="0.24" conf="1.00"> les </Word>
+<Word id="653" stime="321.35" dur="0.36" conf="0.95"> avions </Word>
+<Word id="654" stime="321.71" dur="0.51" conf="0.90"> écouté </Word>
+<Word id="655" stime="323.24" dur="0.24" conf="1.00"> une </Word>
+<Word id="656" stime="323.48" dur="0.27" conf="0.92"> très </Word>
+<Word id="657" stime="323.75" dur="0.48" conf="0.98"> forte </Word>
+<Word id="658" stime="324.23" dur="0.45" conf="0.98"> baisse </Word>
+<Word id="659" stime="324.71" dur="0.15" conf="0.97"> du </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="324.880" etime="333.950" spkid="S52" lang="fre" lconf="1.00" trs="1">
+<Word id="660" stime="324.89" dur="0.41" conf="1.00"> pouvoir </Word>
+<Word id="661" stime="325.30" dur="0.09" conf="1.00"> d' </Word>
+<Word id="662" stime="325.39" dur="0.36" conf="1.00"> achat </Word>
+<Word id="663" stime="325.75" dur="0.15" conf="0.97"> des </Word>
+<Word id="664" stime="325.90" dur="0.75" conf="0.97"> salaires </Word>
+<Word id="665" stime="327.22" dur="0.39" conf="0.75"> aurait </Word>
+<Word id="666" stime="327.61" dur="0.27" conf="0.77"> été </Word>
+<Word id="667" stime="327.88" dur="0.15" conf="1.00"> la </Word>
+<Word id="668" stime="328.03" dur="1.14" conf="1.00"> conséquence </Word>
+<Word id="669" stime="329.17" dur="0.15" conf="1.00"> de </Word>
+<Word id="670" stime="329.32" dur="0.27" conf="0.99"> notre </Word>
+<Word id="671" stime="329.59" dur="0.50" conf="0.57"> ère </Word>
+<Word id="672" stime="331.09" dur="0.21" conf="0.99"> il </Word>
+<Word id="673" stime="331.30" dur="0.15" conf="0.98"> est </Word>
+<Word id="674" stime="331.45" dur="0.15" conf="0.96"> en </Word>
+<Word id="675" stime="331.60" dur="0.36" conf="0.96"> effet </Word>
+<Word id="676" stime="332.49" dur="0.15" conf="0.89"> et </Word>
+<Word id="677" stime="332.76" dur="0.09" conf="0.38"> de </Word>
+<Word id="678" stime="332.96" dur="0.98" conf="0.98"> comprendre </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="333.950" etime="343.910" spkid="S52" lang="fre" lconf="1.00" trs="1">
+<Word id="679" stime="334.25" dur="0.21" conf="1.00"> que </Word>
+<Word id="680" stime="334.46" dur="0.63" conf="1.00"> plus </Word>
+<Word id="681" stime="335.09" dur="0.11" conf="0.73"> on </Word>
+<Word id="682" stime="335.20" dur="0.25" conf="0.75"> aurait </Word>
+<Word id="683" stime="335.48" dur="0.33" conf="0.79"> donné </Word>
+<Word id="684" stime="335.81" dur="0.18" conf="0.98"> de </Word>
+<Word id="685" stime="336.03" dur="0.51" conf="0.68"> villiers </Word>
+<Word id="686" stime="337.05" dur="0.61" conf="0.32"> insuffisant </Word>
+<Word id="687" stime="337.84" dur="0.29" conf="0.50"> m' </Word>
+<Word id="688" stime="338.25" dur="0.66" conf="0.46"> engager </Word>
+<Word id="689" stime="339.50" dur="0.21" conf="1.00"> pour </Word>
+<Word id="690" stime="339.74" dur="0.66" conf="1.00"> compenser </Word>
+<Word id="691" stime="340.40" dur="0.12" conf="1.00"> la </Word>
+<Word id="692" stime="340.52" dur="0.90" conf="1.00"> diminution </Word>
+<Word id="693" stime="341.45" dur="0.15" conf="1.00"> du </Word>
+<Word id="694" stime="341.60" dur="0.48" conf="1.00"> pouvoir </Word>
+<Word id="695" stime="342.08" dur="0.09" conf="1.00"> d' </Word>
+<Word id="696" stime="342.17" dur="0.36" conf="1.00"> achat </Word>
+<Word id="697" stime="342.53" dur="0.15" conf="1.00"> des </Word>
+<Word id="698" stime="342.68" dur="0.75" conf="0.99"> salaires </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="343.910" etime="356.360" spkid="S52" lang="fre" lconf="1.00" trs="1">
+<Word id="699" stime="344.02" dur="0.46" conf="0.86"> moi </Word>
+<Word id="700" stime="344.50" dur="0.13" conf="0.44"> c' </Word>
+<Word id="701" stime="344.64" dur="0.14" conf="0.44"> est </Word>
+<Word id="702" stime="344.82" dur="0.27" conf="0.49"> big </Word>
+<Word id="703" stime="345.11" dur="0.36" conf="0.48"> et </Word>
+<Word id="704" stime="345.50" dur="0.34" conf="0.73"> aurait </Word>
+<Word id="705" stime="345.84" dur="0.17" conf="0.53"> pu </Word>
+<Word id="706" stime="346.01" dur="0.09" conf="0.99"> de </Word>
+<Word id="707" stime="346.10" dur="0.54" conf="0.51"> valeur </Word>
+<Word id="708" stime="347.51" dur="0.33" conf="0.32"> visant </Word>
+<Word id="709" stime="347.90" dur="0.26" conf="0.55"> très </Word>
+<Word id="710" stime="348.17" dur="0.51" conf="1.00"> bientôt </Word>
+<Word id="711" stime="348.77" dur="0.54" conf="0.94"> arriver </Word>
+<Word id="712" stime="349.97" dur="0.12" conf="0.99"> à </Word>
+<Word id="713" stime="350.09" dur="0.09" conf="0.98"> n' </Word>
+<Word id="714" stime="350.18" dur="0.33" conf="1.00"> être </Word>
+<Word id="715" stime="350.51" dur="0.42" conf="1.00"> plus </Word>
+<Word id="716" stime="351.59" dur="0.18" conf="1.00"> que </Word>
+<Word id="717" stime="351.77" dur="0.09" conf="1.00"> ce </Word>
+<Word id="718" stime="351.86" dur="0.15" conf="1.00"> que </Word>
+<Word id="719" stime="352.01" dur="0.06" conf="1.00"> l' </Word>
+<Word id="720" stime="352.07" dur="0.15" conf="1.00"> on </Word>
+<Word id="721" stime="352.22" dur="0.54" conf="1.00"> appelle </Word>
+<Word id="722" stime="352.76" dur="0.18" conf="1.00"> en </Word>
+<Word id="723" stime="352.97" dur="0.75" conf="1.00"> langage </Word>
+<Word id="724" stime="353.75" dur="0.87" conf="0.79"> vulgaire </Word>
+<Word id="725" stime="355.01" dur="0.15" conf="1.00"> de </Word>
+<Word id="726" stime="355.16" dur="0.12" conf="1.00"> la </Word>
+<Word id="727" stime="355.28" dur="0.30" conf="1.00"> monnaie </Word>
+<Word id="728" stime="355.58" dur="0.15" conf="1.00"> de </Word>
+<Word id="729" stime="355.73" dur="0.54" conf="1.00"> singe </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="356.360" etime="361.710" spkid="S52" lang="fre" lconf="1.00" trs="1">
+<Word id="730" stime="357.38" dur="0.21" conf="1.00"> nous </Word>
+<Word id="731" stime="357.59" dur="0.24" conf="1.00"> avons </Word>
+<Word id="732" stime="357.90" dur="0.27" conf="0.32"> y </Word>
+<Word id="733" stime="358.20" dur="0.65" conf="1.00"> connaître </Word>
+<Word id="734" stime="358.85" dur="0.36" conf="0.99"> cette </Word>
+<Word id="735" stime="359.21" dur="0.48" conf="1.00"> monnaie </Word>
+<Word id="736" stime="359.81" dur="0.24" conf="1.00"> il </Word>
+<Word id="737" stime="360.05" dur="0.06" conf="1.00"> y </Word>
+<Word id="738" stime="360.11" dur="0.12" conf="1.00"> a </Word>
+<Word id="739" stime="360.26" dur="0.45" conf="1.00"> quelques </Word>
+<Word id="740" stime="360.71" dur="0.27" conf="1.00"> années </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="361.710" etime="367.760" spkid="S52" lang="fre" lconf="1.00" trs="1">
+<Word id="741" stime="362.19" dur="0.15" conf="0.99"> je </Word>
+<Word id="742" stime="362.34" dur="0.11" conf="0.83"> n' </Word>
+<Word id="743" stime="362.46" dur="0.09" conf="0.87"> ai </Word>
+<Word id="744" stime="362.56" dur="0.23" conf="1.00"> pas </Word>
+<Word id="745" stime="362.79" dur="0.48" conf="0.77"> oublier </Word>
+<Word id="746" stime="364.26" dur="0.23" conf="0.95"> car </Word>
+<Word id="747" stime="364.49" dur="0.06" conf="0.97"> j' </Word>
+<Word id="748" stime="364.56" dur="0.22" conf="0.84"> étais </Word>
+<Word id="749" stime="364.80" dur="0.30" conf="1.00"> bien </Word>
+<Word id="750" stime="365.10" dur="0.54" conf="0.48"> placé </Word>
+<Word id="751" stime="365.67" dur="0.18" conf="1.00"> pour </Word>
+<Word id="752" stime="365.85" dur="0.07" conf="0.49"> m' </Word>
+<Word id="753" stime="365.92" dur="0.14" conf="0.97"> en </Word>
+<Word id="754" stime="366.06" dur="0.42" conf="1.00"> rendre </Word>
+<Word id="755" stime="366.48" dur="0.27" conf="1.00"> compte </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="367.760" etime="381.780" spkid="S52" lang="fre" lconf="1.00" trs="1">
+<Word id="756" stime="367.87" dur="0.14" conf="0.87"> j' </Word>
+<Word id="757" stime="368.01" dur="0.11" conf="0.88"> ai </Word>
+<Word id="758" stime="368.12" dur="0.54" conf="1.00"> encore </Word>
+<Word id="759" stime="368.81" dur="0.33" conf="1.00"> moins </Word>
+<Word id="760" stime="369.14" dur="0.46" conf="0.88"> oublier </Word>
+<Word id="761" stime="369.60" dur="0.17" conf="0.88"> que </Word>
+<Word id="762" stime="370.43" dur="0.21" conf="1.00"> les </Word>
+<Word id="763" stime="370.69" dur="0.42" conf="0.38"> hongrois </Word>
+<Word id="764" stime="371.26" dur="0.17" conf="0.72"> ce </Word>
+<Word id="765" stime="371.44" dur="0.18" conf="0.97"> que </Word>
+<Word id="766" stime="371.63" dur="0.10" conf="0.51"> j' </Word>
+<Word id="767" stime="371.77" dur="0.28" conf="0.82"> alors </Word>
+<Word id="768" stime="372.06" dur="0.38" conf="0.20"> éprouvé </Word>
+<Word id="769" stime="373.19" dur="0.20" conf="0.71"> je </Word>
+<Word id="770" stime="373.45" dur="0.16" conf="0.62"> ne </Word>
+<Word id="771" stime="373.85" dur="0.21" conf="0.22"> veux </Word>
+<Word id="772" stime="374.08" dur="0.25" conf="0.75"> pas </Word>
+<Word id="773" stime="374.39" dur="0.09" conf="1.00"> que </Word>
+<Word id="774" stime="374.48" dur="0.36" conf="1.00"> notre </Word>
+<Word id="775" stime="374.84" dur="0.54" conf="1.00"> pays </Word>
+<Word id="776" stime="375.95" dur="0.42" conf="0.96"> soit </Word>
+<Word id="777" stime="376.37" dur="0.74" conf="0.42"> exposé </Word>
+<Word id="778" stime="377.12" dur="0.09" conf="0.97"> à </Word>
+<Word id="779" stime="377.21" dur="0.12" conf="1.00"> la </Word>
+<Word id="780" stime="377.33" dur="1.02" conf="1.00"> catastrophe </Word>
+<Word id="781" stime="379.01" dur="0.36" conf="1.00"> alors </Word>
+<Word id="782" stime="379.37" dur="0.54" conf="0.46"> éviter </Word>
+<Word id="783" stime="379.97" dur="0.45" conf="1.00"> grâce </Word>
+<Word id="784" stime="380.42" dur="0.09" conf="1.00"> à </Word>
+<Word id="785" stime="380.51" dur="0.06" conf="1.00"> l' </Word>
+<Word id="786" stime="380.57" dur="0.68" conf="1.00"> énergie </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="381.780" etime="392.160" spkid="S52" lang="fre" lconf="1.00" trs="1">
+<Word id="787" stime="381.90" dur="0.12" conf="0.99"> et </Word>
+<Word id="788" stime="382.02" dur="0.09" conf="1.00"> aux </Word>
+<Word id="789" stime="382.11" dur="0.72" conf="0.99"> décisions </Word>
+<Word id="790" stime="382.83" dur="0.15" conf="1.00"> de </Word>
+<Word id="791" stime="382.98" dur="0.33" conf="1.00"> monsieur </Word>
+<Word id="792" stime="383.31" dur="0.42" conf="1.00"> raymond </Word>
+<Word id="793" stime="383.73" dur="0.72" conf="1.00"> poincaré </Word>
+<Word id="794" stime="385.08" dur="0.15" conf="0.95"> et </Word>
+<Word id="795" stime="385.23" dur="0.12" conf="1.00"> du </Word>
+<Word id="796" stime="385.38" dur="0.72" conf="1.00"> gouvernement </Word>
+<Word id="797" stime="386.16" dur="0.06" conf="1.00"> d' </Word>
+<Word id="798" stime="386.22" dur="0.36" conf="1.00"> union </Word>
+<Word id="799" stime="386.58" dur="0.81" conf="1.00"> nationale </Word>
+<Word id="800" stime="387.39" dur="0.06" conf="1.00"> qu' </Word>
+<Word id="801" stime="387.45" dur="0.15" conf="1.00"> il </Word>
+<Word id="802" stime="387.60" dur="0.66" conf="0.99"> présidait </Word>
+<Word id="803" stime="388.83" dur="0.24" conf="1.00"> car </Word>
+<Word id="804" stime="389.13" dur="0.39" conf="1.00"> cette </Word>
+<Word id="805" stime="389.52" dur="0.36" conf="1.00"> fois </Word>
+<Word id="806" stime="390.42" dur="0.15" conf="0.96"> ce </Word>
+<Word id="807" stime="390.60" dur="0.27" conf="0.99"> serait </Word>
+<Word id="808" stime="390.87" dur="0.51" conf="0.98"> terrible </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="392.160" etime="411.020" spkid="S52" lang="fre" lconf="1.00" trs="1">
+<Word id="809" stime="392.37" dur="0.18" conf="0.95"> je </Word>
+<Word id="810" stime="392.55" dur="0.30" conf="0.92"> travaille </Word>
+<Word id="811" stime="392.85" dur="0.18" conf="0.96"> dans </Word>
+<Word id="812" stime="393.03" dur="0.21" conf="1.00"> tout </Word>
+<Word id="813" stime="393.24" dur="0.15" conf="1.00"> mon </Word>
+<Word id="814" stime="393.39" dur="0.66" conf="1.00"> possible </Word>
+<Word id="815" stime="394.80" dur="0.21" conf="1.00"> pour </Word>
+<Word id="816" stime="395.01" dur="0.66" conf="1.00"> éviter </Word>
+<Word id="817" stime="395.67" dur="0.18" conf="1.00"> une </Word>
+<Word id="818" stime="395.88" dur="0.76" conf="1.00"> catastrophe </Word>
+<Word id="819" stime="396.66" dur="0.36" conf="0.28"> par </Word>
+<Word id="820" stime="398.34" dur="0.36" conf="1.00"> notre </Word>
+<Word id="821" stime="398.70" dur="0.41" conf="0.52"> petite </Word>
+<Word id="822" stime="399.11" dur="0.30" conf="0.63"> rend </Word>
+<Word id="823" stime="399.42" dur="0.06" conf="0.89"> à </Word>
+<Word id="824" stime="399.48" dur="0.42" conf="0.98"> quatre </Word>
+<Word id="825" stime="399.90" dur="0.45" conf="0.98"> sous </Word>
+<Word id="826" stime="400.37" dur="0.17" conf="0.75"> vaut </Word>
+<Word id="827" stime="400.54" dur="0.12" conf="0.75"> de </Word>
+<Word id="828" stime="400.66" dur="0.09" conf="0.75"> l' </Word>
+<Word id="829" stime="400.75" dur="0.28" conf="0.76"> or </Word>
+<Word id="830" stime="402.00" dur="0.12" conf="1.00"> nous </Word>
+<Word id="831" stime="402.12" dur="0.39" conf="1.00"> devons </Word>
+<Word id="832" stime="402.57" dur="0.18" conf="0.93"> tout </Word>
+<Word id="833" stime="402.75" dur="0.51" conf="1.00"> faire </Word>
+<Word id="834" stime="403.86" dur="0.18" conf="1.00"> pour </Word>
+<Word id="835" stime="404.09" dur="0.12" conf="0.35"> une </Word>
+<Word id="836" stime="404.22" dur="0.36" conf="0.96"> garde </Word>
+<Word id="837" stime="404.61" dur="0.18" conf="1.00"> sa </Word>
+<Word id="838" stime="404.79" dur="0.48" conf="1.00"> valeur </Word>
+<Word id="839" stime="406.08" dur="0.11" conf="0.73"> qui </Word>
+<Word id="840" stime="406.20" dur="0.21" conf="1.00"> nous </Word>
+<Word id="841" stime="406.41" dur="0.09" conf="1.00"> a </Word>
+<Word id="842" stime="406.50" dur="0.51" conf="1.00"> déjà </Word>
+<Word id="843" stime="407.01" dur="0.63" conf="0.99"> coûté </Word>
+<Word id="844" stime="407.74" dur="0.26" conf="0.54"> cent </Word>
+<Word id="845" stime="408.03" dur="0.12" conf="1.00"> de </Word>
+<Word id="846" stime="408.19" dur="0.50" conf="0.62"> sacrifier </Word>
+<Word id="847" stime="409.90" dur="0.56" conf="0.29"> sale </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="411.020" etime="419.490" spkid="S52" lang="fre" lconf="1.00" trs="1">
+<Word id="848" stime="411.14" dur="0.12" conf="0.92"> et </Word>
+<Word id="849" stime="411.29" dur="1.14" conf="0.89"> spéculateurs </Word>
+<Word id="850" stime="412.52" dur="0.15" conf="0.99"> peu </Word>
+<Word id="851" stime="412.70" dur="0.90" conf="0.99"> scrupuleux </Word>
+<Word id="852" stime="414.38" dur="0.84" conf="1.00"> cherchant </Word>
+<Word id="853" stime="415.22" dur="0.16" conf="1.00"> à </Word>
+<Word id="854" stime="415.46" dur="0.51" conf="0.77"> vérifier </Word>
+<Word id="855" stime="416.00" dur="0.23" conf="0.77"> la </Word>
+<Word id="856" stime="416.27" dur="0.72" conf="0.99"> fortune </Word>
+<Word id="857" stime="417.53" dur="0.27" conf="1.00"> sur </Word>
+<Word id="858" stime="417.80" dur="0.17" conf="0.95"> la </Word>
+<Word id="859" stime="417.97" dur="0.21" conf="0.53"> remet </Word>
+<Word id="860" stime="418.22" dur="0.20" conf="0.87"> une </Word>
+<Word id="861" stime="418.43" dur="0.78" conf="0.89"> general </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="419.490" etime="421.610" spkid="S52" lang="fre" lconf="1.00" trs="1">
+<Word id="862" stime="419.95" dur="0.34" conf="0.54"> peuvent </Word>
+<Word id="863" stime="420.38" dur="0.65" conf="0.37"> désiré </Word>
+<Word id="864" stime="421.08" dur="0.18" conf="0.88"> la </Word>
+<Word id="865" stime="421.26" dur="0.31" conf="0.63"> débâcle </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="421.610" etime="435.500" spkid="S67" lang="fre" lconf="1.00" trs="1">
+<Word id="866" stime="421.61" dur="0.12" conf="0.49"> une </Word>
+<Word id="867" stime="421.74" dur="0.38" conf="0.68"> action </Word>
+<Word id="868" stime="422.12" dur="0.12" conf="0.97"> de </Word>
+<Word id="869" stime="422.24" dur="0.32" conf="0.94"> notre </Word>
+<Word id="870" stime="422.61" dur="0.30" conf="0.78"> franc </Word>
+<Word id="871" stime="424.02" dur="0.13" conf="0.99"> il </Word>
+<Word id="872" stime="424.16" dur="0.06" conf="1.00"> n' </Word>
+<Word id="873" stime="424.22" dur="0.06" conf="1.00"> y </Word>
+<Word id="874" stime="424.28" dur="0.09" conf="1.00"> a </Word>
+<Word id="875" stime="424.37" dur="0.30" conf="1.00"> pas </Word>
+<Word id="876" stime="424.67" dur="0.06" conf="0.94"> à </Word>
+<Word id="877" stime="424.73" dur="0.45" conf="0.99"> compter </Word>
+<Word id="878" stime="425.18" dur="0.27" conf="1.00"> sur </Word>
+<Word id="879" stime="425.45" dur="0.36" conf="1.00"> moi </Word>
+<Word id="880" stime="426.39" dur="0.13" conf="0.71"> mais </Word>
+<Word id="881" stime="426.54" dur="0.28" conf="0.83"> sur </Word>
+<Word id="882" stime="426.88" dur="0.05" conf="0.49"> euh </Word>
+<Word id="883" stime="426.94" dur="0.08" conf="0.68"> le </Word>
+<Word id="884" stime="427.02" dur="0.80" conf="0.96"> gouvernement </Word>
+<Word id="885" stime="427.88" dur="0.12" conf="1.00"> que </Word>
+<Word id="886" stime="428.00" dur="0.12" conf="1.00"> je </Word>
+<Word id="887" stime="428.13" dur="0.64" conf="0.92"> préside </Word>
+<Word id="888" stime="429.53" dur="0.20" conf="1.00"> pour </Word>
+<Word id="889" stime="429.76" dur="0.32" conf="0.89"> faire </Word>
+<Word id="890" stime="430.08" dur="0.15" conf="0.87"> le </Word>
+<Word id="891" stime="430.25" dur="0.29" conf="0.88"> jeu </Word>
+<Word id="892" stime="430.58" dur="0.18" conf="1.00"> de </Word>
+<Word id="893" stime="430.76" dur="0.18" conf="1.00"> ce </Word>
+<Word id="894" stime="430.94" dur="0.48" conf="1.00"> genre </Word>
+<Word id="895" stime="431.42" dur="0.12" conf="1.00"> de </Word>
+<Word id="896" stime="431.57" dur="1.05" conf="0.99"> spéculateurs </Word>
+<Word id="897" stime="433.36" dur="0.51" conf="0.79"> épaulards </Word>
+<Word id="898" stime="433.99" dur="0.42" conf="0.36"> réparer </Word>
+<Word id="899" stime="434.44" dur="0.15" conf="0.73"> et </Word>
+<Word id="900" stime="434.60" dur="0.15" conf="1.00"> de </Word>
+<Word id="901" stime="434.75" dur="0.27" conf="0.99"> gros </Word>
+<Word id="902" stime="435.02" dur="0.48" conf="0.98"> profits </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="437.430" etime="439.800" spkid="S67" lang="fre" lconf="1.00" trs="1">
+<Word id="903" stime="437.70" dur="0.12" conf="1.00"> il </Word>
+<Word id="904" stime="437.82" dur="0.06" conf="0.99"> n' </Word>
+<Word id="905" stime="437.88" dur="0.06" conf="1.00"> y </Word>
+<Word id="906" stime="437.94" dur="0.09" conf="1.00"> a </Word>
+<Word id="907" stime="438.03" dur="0.15" conf="1.00"> pas </Word>
+<Word id="908" stime="438.18" dur="0.21" conf="1.00"> non </Word>
+<Word id="909" stime="438.42" dur="0.27" conf="1.00"> plus </Word>
+<Word id="910" stime="438.69" dur="0.06" conf="0.98"> à </Word>
+<Word id="911" stime="438.75" dur="0.39" conf="0.99"> compter </Word>
+<Word id="912" stime="439.14" dur="0.27" conf="1.00"> sur </Word>
+<Word id="913" stime="439.41" dur="0.39" conf="1.00"> moi </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="440.580" etime="456.770" spkid="S67" lang="fre" lconf="1.00" trs="1">
+<Word id="914" stime="440.82" dur="0.18" conf="1.00"> pour </Word>
+<Word id="915" stime="441.11" dur="0.33" conf="0.44"> au </Word>
+<Word id="916" stime="441.45" dur="0.28" conf="0.45"> niger </Word>
+<Word id="917" stime="441.75" dur="0.24" conf="0.99"> toutes </Word>
+<Word id="918" stime="441.99" dur="0.15" conf="1.00"> les </Word>
+<Word id="919" stime="442.14" dur="0.80" conf="1.00"> tentatives </Word>
+<Word id="920" stime="443.77" dur="0.12" conf="0.97"> qui </Word>
+<Word id="921" stime="443.91" dur="0.57" conf="0.99"> tendraient </Word>
+<Word id="922" stime="444.48" dur="0.09" conf="0.98"> à </Word>
+<Word id="923" stime="444.57" dur="0.47" conf="0.93"> placer </Word>
+<Word id="924" stime="445.07" dur="0.23" conf="0.92"> des </Word>
+<Word id="925" stime="445.31" dur="0.43" conf="0.92"> intérêts </Word>
+<Word id="926" stime="446.16" dur="0.51" conf="0.32"> pétroliers </Word>
+<Word id="927" stime="447.46" dur="0.09" conf="0.93"> ou </Word>
+<Word id="928" stime="447.56" dur="0.13" conf="0.98"> des </Word>
+<Word id="929" stime="447.69" dur="0.20" conf="0.93"> gens </Word>
+<Word id="930" stime="447.90" dur="0.14" conf="0.55"> qui </Word>
+<Word id="931" stime="448.04" dur="0.29" conf="0.46"> aurait </Word>
+<Word id="932" stime="448.33" dur="0.75" conf="0.50"> collecté </Word>
+<Word id="933" stime="449.28" dur="0.56" conf="0.39"> permanent </Word>
+<Word id="934" stime="449.85" dur="0.71" conf="0.58"> égoïste </Word>
+<Word id="935" stime="451.18" dur="0.17" conf="0.51"> au </Word>
+<Word id="936" stime="451.53" dur="0.44" conf="0.76"> dessus </Word>
+<Word id="937" stime="451.99" dur="0.13" conf="0.42"> d' </Word>
+<Word id="938" stime="452.19" dur="0.43" conf="0.43"> acquérir </Word>
+<Word id="939" stime="452.65" dur="0.86" conf="0.35"> nationales </Word>
+<Word id="940" stime="454.08" dur="0.15" conf="0.87"> et </Word>
+<Word id="941" stime="454.24" dur="0.10" conf="0.73"> à </Word>
+<Word id="942" stime="454.64" dur="0.32" conf="0.52"> qui </Word>
+<Word id="943" stime="455.22" dur="0.49" conf="0.49"> celui-ci </Word>
+<Word id="944" stime="456.04" dur="0.15" conf="0.85"> à </Word>
+<Word id="945" stime="456.27" dur="0.48" conf="0.98"> cela </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="457.590" etime="461.240" spkid="S67" lang="fre" lconf="1.00" trs="1">
+<Word id="946" stime="457.92" dur="0.21" conf="1.00"> il </Word>
+<Word id="947" stime="458.13" dur="0.15" conf="1.00"> est </Word>
+<Word id="948" stime="458.31" dur="0.99" conf="1.00"> inadmissible </Word>
+<Word id="949" stime="459.84" dur="0.11" conf="0.76"> que </Word>
+<Word id="950" stime="460.16" dur="0.13" conf="0.90"> de </Word>
+<Word id="951" stime="460.29" dur="0.51" conf="1.00"> petits </Word>
+<Word id="952" stime="460.80" dur="0.42" conf="0.99"> états </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="461.330" etime="466.890" spkid="S67" lang="fre" lconf="1.00" trs="1">
+<Word id="953" stime="461.60" dur="0.18" conf="0.97"> le </Word>
+<Word id="954" stime="461.79" dur="0.49" conf="0.89"> songeant </Word>
+<Word id="955" stime="462.30" dur="0.09" conf="0.92"> qu' </Word>
+<Word id="956" stime="462.40" dur="0.07" conf="0.82"> à </Word>
+<Word id="957" stime="462.47" dur="0.16" conf="0.53"> eux- </Word>
+<Word id="958" stime="462.66" dur="0.43" conf="0.80"> mêmes </Word>
+<Word id="959" stime="463.82" dur="0.24" conf="0.24"> hussein </Word>
+<Word id="960" stime="464.15" dur="0.20" conf="0.30"> sa </Word>
+<Word id="961" stime="464.37" dur="0.56" conf="0.38"> carrière </Word>
+<Word id="962" stime="464.96" dur="0.18" conf="1.00"> dans </Word>
+<Word id="963" stime="465.14" dur="0.12" conf="0.63"> le </Word>
+<Word id="964" stime="465.29" dur="0.39" conf="0.67"> grand </Word>
+<Word id="965" stime="465.70" dur="0.33" conf="0.59"> étape </Word>
+<Word id="966" stime="466.05" dur="0.27" conf="0.71"> rend </Word>
+<Word id="967" stime="466.37" dur="0.26" conf="0.57"> -elle </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="467.190" etime="471.120" spkid="S67" lang="fre" lconf="1.00" trs="1">
+<Word id="968" stime="467.40" dur="0.24" conf="1.00"> pour </Word>
+<Word id="969" stime="467.64" dur="0.09" conf="0.94"> le </Word>
+<Word id="970" stime="467.76" dur="0.48" conf="0.45"> dominer </Word>
+<Word id="971" stime="468.27" dur="0.13" conf="0.71"> d' </Word>
+<Word id="972" stime="468.41" dur="0.49" conf="0.70"> abord </Word>
+<Word id="973" stime="469.50" dur="0.15" conf="1.00"> pour </Word>
+<Word id="974" stime="469.68" dur="0.11" conf="0.84"> l' </Word>
+<Word id="975" stime="469.80" dur="0.53" conf="0.76"> abolir </Word>
+<Word id="976" stime="470.35" dur="0.76" conf="0.92"> ensuite </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="471.770" etime="476.220" spkid="S67" lang="fre" lconf="1.00" trs="1">
+<Word id="977" stime="472.16" dur="0.21" conf="1.00"> pour </Word>
+<Word id="978" stime="472.37" dur="0.12" conf="0.97"> que </Word>
+<Word id="979" stime="472.49" dur="0.10" conf="0.87"> l' </Word>
+<Word id="980" stime="472.59" dur="0.32" conf="0.78"> étape </Word>
+<Word id="981" stime="472.94" dur="0.60" conf="0.27"> rentrer </Word>
+<Word id="982" stime="474.14" dur="0.30" conf="0.82"> soient </Word>
+<Word id="983" stime="474.47" dur="0.96" conf="0.78"> considérés </Word>
+<Word id="984" stime="475.47" dur="0.14" conf="0.98"> et </Word>
+<Word id="985" stime="475.63" dur="0.25" conf="0.15"> après </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="476.220" etime="486.990" spkid="S166" lang="fre" lconf="1.00" trs="1">
+<Word id="986" stime="476.22" dur="0.24" conf="1.00"> et </Word>
+<Word id="987" stime="476.49" dur="0.15" conf="0.93"> au </Word>
+<Word id="988" stime="476.64" dur="0.48" conf="1.00"> dehors </Word>
+<Word id="989" stime="477.89" dur="0.21" conf="0.43"> mais </Word>
+<Word id="990" stime="478.15" dur="0.32" conf="0.78"> faut </Word>
+<Word id="991" stime="478.49" dur="0.20" conf="0.42"> à </Word>
+<Word id="992" stime="478.87" dur="0.36" conf="0.32"> qu' </Word>
+<Word id="993" stime="479.89" dur="0.17" conf="0.46"> ils </Word>
+<Word id="994" stime="480.21" dur="0.27" conf="0.61"> soient </Word>
+<Word id="995" stime="480.51" dur="0.86" conf="0.38"> respectés </Word>
+<Word id="996" stime="481.42" dur="0.13" conf="0.63"> et </Word>
+<Word id="997" stime="481.55" dur="0.62" conf="0.40"> considéré </Word>
+<Word id="998" stime="482.17" dur="0.28" conf="0.50"> au </Word>
+<Word id="999" stime="482.45" dur="0.55" conf="0.57"> dedans </Word>
+<Word id="1000" stime="483.03" dur="0.21" conf="0.99"> par </Word>
+<Word id="1001" stime="483.24" dur="0.18" conf="0.99"> tout </Word>
+<Word id="1002" stime="483.42" dur="0.09" conf="1.00"> le </Word>
+<Word id="1003" stime="483.51" dur="0.51" conf="1.00"> monde </Word>
+<Word id="1004" stime="484.56" dur="0.12" conf="0.84"> et </Word>
+<Word id="1005" stime="484.71" dur="0.84" conf="1.00"> notamment </Word>
+<Word id="1006" stime="485.58" dur="0.21" conf="0.88"> par </Word>
+<Word id="1007" stime="485.87" dur="0.19" conf="0.60"> écrit </Word>
+<Word id="1008" stime="486.09" dur="0.13" conf="0.59"> les </Word>
+<Word id="1009" stime="486.45" dur="0.49" conf="0.31"> mort </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="487.540" etime="491.730" spkid="S166" lang="fre" lconf="1.00" trs="1">
+<Word id="1010" stime="487.81" dur="0.12" conf="1.00"> il </Word>
+<Word id="1011" stime="487.93" dur="0.15" conf="1.00"> est </Word>
+<Word id="1012" stime="488.11" dur="0.87" conf="1.00"> inadmissible </Word>
+<Word id="1013" stime="489.73" dur="0.12" conf="1.00"> qu' </Word>
+<Word id="1014" stime="489.85" dur="0.14" conf="1.00"> on </Word>
+<Word id="1015" stime="490.03" dur="0.39" conf="1.00"> puisse </Word>
+<Word id="1016" stime="490.51" dur="0.24" conf="0.95"> pas </Word>
+<Word id="1017" stime="490.95" dur="0.71" conf="0.64"> surprenant </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="492.170" etime="500.170" spkid="S166" lang="fre" lconf="1.00" trs="1">
+<Word id="1018" stime="492.35" dur="0.04" conf="0.61"> il </Word>
+<Word id="1019" stime="492.40" dur="0.02" conf="0.61"> y </Word>
+<Word id="1020" stime="492.54" dur="0.10" conf="0.31"> et </Word>
+<Word id="1021" stime="492.65" dur="0.31" conf="0.73"> encore </Word>
+<Word id="1022" stime="492.99" dur="0.05" conf="0.89"> au </Word>
+<Word id="1023" stime="493.04" dur="0.39" conf="0.99"> moins </Word>
+<Word id="1024" stime="493.62" dur="0.30" conf="0.39"> ne </Word>
+<Word id="1025" stime="493.93" dur="0.19" conf="0.74"> peut </Word>
+<Word id="1026" stime="494.16" dur="0.30" conf="0.98"> pas </Word>
+<Word id="1027" stime="494.58" dur="0.30" conf="0.22"> parler </Word>
+<Word id="1028" stime="495.30" dur="0.19" conf="0.65"> de </Word>
+<Word id="1029" stime="495.68" dur="0.23" conf="0.34"> ça </Word>
+<Word id="1030" stime="496.14" dur="0.22" conf="0.66"> et </Word>
+<Word id="1031" stime="496.37" dur="0.41" conf="0.87"> contre </Word>
+<Word id="1032" stime="496.79" dur="0.21" conf="0.74"> des </Word>
+<Word id="1033" stime="497.01" dur="0.46" conf="0.74"> mesures </Word>
+<Word id="1034" stime="497.53" dur="0.30" conf="0.66"> très </Word>
+<Word id="1035" stime="498.40" dur="0.19" conf="0.77"> en </Word>
+<Word id="1036" stime="498.70" dur="0.26" conf="0.75"> vue </Word>
+<Word id="1037" stime="499.01" dur="0.12" conf="1.00"> de </Word>
+<Word id="1038" stime="499.13" dur="0.07" conf="0.92"> l' </Word>
+<Word id="1039" stime="499.20" dur="0.36" conf="0.77"> intérêt </Word>
+<Word id="1040" stime="499.59" dur="0.56" conf="0.82"> national </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="500.170" etime="516.080" spkid="S132" lang="fre" lconf="1.00" trs="1">
+<Word id="1041" stime="501.01" dur="0.15" conf="1.00"> il </Word>
+<Word id="1042" stime="501.16" dur="0.09" conf="1.00"> est </Word>
+<Word id="1043" stime="501.31" dur="0.93" conf="1.00"> inadmissible </Word>
+<Word id="1044" stime="502.24" dur="0.09" conf="0.99"> qu' </Word>
+<Word id="1045" stime="502.33" dur="0.12" conf="1.00"> on </Word>
+<Word id="1046" stime="502.45" dur="0.42" conf="1.00"> cherche </Word>
+<Word id="1047" stime="502.87" dur="0.05" conf="0.84"> à </Word>
+<Word id="1048" stime="502.92" dur="0.16" conf="0.43"> vous </Word>
+<Word id="1049" stime="503.08" dur="0.48" conf="0.19"> brimé </Word>
+<Word id="1050" stime="503.59" dur="0.20" conf="0.88"> mes </Word>
+<Word id="1051" stime="503.80" dur="0.21" conf="0.98"> chers </Word>
+<Word id="1052" stime="504.01" dur="0.78" conf="0.99"> concitoyens </Word>
+<Word id="1053" stime="505.63" dur="0.28" conf="0.93"> anna </Word>
+<Word id="1054" stime="505.97" dur="0.41" conf="0.93"> terron </Word>
+<Word id="1055" stime="506.43" dur="0.25" conf="0.65"> pas </Word>
+<Word id="1056" stime="506.71" dur="0.15" conf="0.98"> des </Word>
+<Word id="1057" stime="506.86" dur="0.66" conf="0.99"> services </Word>
+<Word id="1058" stime="507.52" dur="0.60" conf="0.92"> publics </Word>
+<Word id="1059" stime="508.81" dur="0.12" conf="0.98"> que </Word>
+<Word id="1060" stime="508.93" dur="0.24" conf="1.00"> vous </Word>
+<Word id="1061" stime="509.17" dur="0.18" conf="1.00"> avez </Word>
+<Word id="1062" stime="509.35" dur="0.15" conf="1.00"> le </Word>
+<Word id="1063" stime="509.50" dur="0.36" conf="1.00"> droit </Word>
+<Word id="1064" stime="509.86" dur="0.12" conf="1.00"> de </Word>
+<Word id="1065" stime="509.98" dur="0.60" conf="1.00"> vouloir </Word>
+<Word id="1066" stime="510.58" dur="0.84" conf="0.74"> excellent </Word>
+<Word id="1067" stime="511.51" dur="0.15" conf="0.63"> et </Word>
+<Word id="1068" stime="511.66" dur="0.57" conf="0.76"> constant </Word>
+<Word id="1069" stime="513.40" dur="0.66" conf="1.00"> certains </Word>
+<Word id="1070" stime="514.06" dur="0.66" conf="0.99"> incidents </Word>
+<Word id="1071" stime="514.75" dur="0.15" conf="1.00"> de </Word>
+<Word id="1072" stime="514.90" dur="0.18" conf="1.00"> ces </Word>
+<Word id="1073" stime="515.11" dur="0.51" conf="1.00"> derniers </Word>
+<Word id="1074" stime="515.62" dur="0.45" conf="1.00"> jours </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="516.080" etime="523.790" spkid="S132" lang="fre" lconf="1.00" trs="1">
+<Word id="1075" stime="516.78" dur="0.26" conf="0.89"> mon </Word>
+<Word id="1076" stime="517.06" dur="0.28" conf="0.72"> rêve </Word>
+<Word id="1077" stime="517.34" dur="0.13" conf="0.56"> et </Word>
+<Word id="1078" stime="517.59" dur="0.77" conf="1.00"> malheureusement </Word>
+<Word id="1079" stime="519.20" dur="0.29" conf="1.00"> il </Word>
+<Word id="1080" stime="519.50" dur="0.06" conf="1.00"> y </Word>
+<Word id="1081" stime="519.56" dur="0.06" conf="0.99"> a </Word>
+<Word id="1082" stime="519.62" dur="0.09" conf="0.98"> des </Word>
+<Word id="1083" stime="519.76" dur="0.20" conf="0.71"> états </Word>
+<Word id="1084" stime="519.98" dur="0.54" conf="0.77"> côté </Word>
+<Word id="1085" stime="520.55" dur="0.15" conf="1.00"> du </Word>
+<Word id="1086" stime="520.70" dur="0.87" conf="1.00"> redressement </Word>
+<Word id="1087" stime="521.57" dur="0.15" conf="1.00"> de </Word>
+<Word id="1088" stime="521.72" dur="0.36" conf="1.00"> notre </Word>
+<Word id="1089" stime="522.08" dur="0.72" conf="1.00"> situation </Word>
+<Word id="1090" stime="522.83" dur="0.96" conf="1.00"> financière </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="523.790" etime="541.940" spkid="S132" lang="fre" lconf="1.00" trs="1">
+<Word id="1091" stime="524.48" dur="0.15" conf="1.00"> d' </Word>
+<Word id="1092" stime="524.63" dur="0.51" conf="0.98"> autres </Word>
+<Word id="1093" stime="525.14" dur="1.02" conf="1.00"> redressements </Word>
+<Word id="1094" stime="526.16" dur="0.72" conf="1.00"> importants </Word>
+<Word id="1095" stime="526.88" dur="0.57" conf="0.53"> affaire </Word>
+<Word id="1096" stime="527.99" dur="0.15" conf="0.97"> et </Word>
+<Word id="1097" stime="528.17" dur="0.78" conf="1.00"> notamment </Word>
+<Word id="1098" stime="529.40" dur="0.48" conf="1.00"> celui </Word>
+<Word id="1099" stime="529.91" dur="0.09" conf="1.00"> de </Word>
+<Word id="1100" stime="530.00" dur="0.06" conf="1.00"> l' </Word>
+<Word id="1101" stime="530.06" dur="0.72" conf="1.00"> autorité </Word>
+<Word id="1102" stime="530.78" dur="1.08" conf="0.99"> gouvernementale </Word>
+<Word id="1103" stime="532.85" dur="0.15" conf="0.80"> le </Word>
+<Word id="1104" stime="533.00" dur="0.75" conf="0.98"> gouvernement </Word>
+<Word id="1105" stime="533.78" dur="0.12" conf="1.00"> que </Word>
+<Word id="1106" stime="533.93" dur="0.06" conf="0.96"> j' </Word>
+<Word id="1107" stime="533.99" dur="0.05" conf="0.97"> ai </Word>
+<Word id="1108" stime="534.06" dur="0.05" conf="1.00"> l' </Word>
+<Word id="1109" stime="534.11" dur="0.42" conf="1.00"> honneur </Word>
+<Word id="1110" stime="534.53" dur="0.12" conf="1.00"> de </Word>
+<Word id="1111" stime="534.68" dur="0.66" conf="1.00"> présider </Word>
+<Word id="1112" stime="536.06" dur="0.15" conf="0.75"> est </Word>
+<Word id="1113" stime="536.28" dur="0.59" conf="0.67"> résolu </Word>
+<Word id="1114" stime="536.87" dur="0.21" conf="0.65"> allez </Word>
+<Word id="1115" stime="537.12" dur="0.50" conf="0.26"> opéré </Word>
+<Word id="1116" stime="537.71" dur="0.48" conf="1.00"> avec </Word>
+<Word id="1117" stime="538.25" dur="0.75" conf="1.00"> fermeté </Word>
+<Word id="1118" stime="539.63" dur="0.12" conf="1.00"> et </Word>
+<Word id="1119" stime="539.75" dur="0.09" conf="1.00"> d' </Word>
+<Word id="1120" stime="539.84" dur="0.12" conf="1.00"> une </Word>
+<Word id="1121" stime="539.96" dur="0.72" conf="1.00"> manière </Word>
+<Word id="1122" stime="540.68" dur="0.66" conf="0.90"> continue </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="541.940" etime="551.860" spkid="S132" lang="fre" lconf="1.00" trs="1">
+<Word id="1123" stime="542.39" dur="0.18" conf="1.00"> je </Word>
+<Word id="1124" stime="542.57" dur="0.21" conf="1.00"> suis </Word>
+<Word id="1125" stime="542.78" dur="0.75" conf="0.90"> convaincu </Word>
+<Word id="1126" stime="544.28" dur="0.15" conf="1.00"> que </Word>
+<Word id="1127" stime="544.43" dur="0.06" conf="0.99"> l' </Word>
+<Word id="1128" stime="544.49" dur="0.51" conf="0.99"> immense </Word>
+<Word id="1129" stime="545.00" dur="0.69" conf="1.00"> majorité </Word>
+<Word id="1130" stime="545.69" dur="0.15" conf="1.00"> du </Word>
+<Word id="1131" stime="545.84" dur="0.54" conf="0.99"> pays </Word>
+<Word id="1132" stime="546.92" dur="0.24" conf="0.97"> nous </Word>
+<Word id="1133" stime="547.16" dur="0.60" conf="0.71"> approuvera </Word>
+<Word id="1134" stime="548.05" dur="0.12" conf="0.88"> et </Word>
+<Word id="1135" stime="548.18" dur="0.12" conf="0.89"> nous </Word>
+<Word id="1136" stime="548.30" dur="0.75" conf="0.99"> soutiendra </Word>
+<Word id="1137" stime="550.01" dur="0.42" conf="0.99"> sans </Word>
+<Word id="1138" stime="550.43" dur="0.60" conf="0.97"> autorité </Word>
+<Word id="1139" stime="551.03" dur="0.12" conf="0.98"> au </Word>
+<Word id="1140" stime="551.15" dur="0.69" conf="0.98"> gouvernement </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="552.470" etime="554.870" spkid="S132" lang="fre" lconf="1.00" trs="1">
+<Word id="1141" stime="552.68" dur="0.12" conf="1.00"> l' </Word>
+<Word id="1142" stime="552.80" dur="0.72" conf="1.00"> anarchie </Word>
+<Word id="1143" stime="553.55" dur="0.08" conf="0.42"> et </Word>
+<Word id="1144" stime="553.63" dur="0.52" conf="0.75"> proche </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="554.870" etime="565.220" spkid="S132" lang="fre" lconf="1.00" trs="1">
+<Word id="1145" stime="555.05" dur="0.22" conf="0.92"> je </Word>
+<Word id="1146" stime="555.27" dur="0.12" conf="0.92"> ne </Word>
+<Word id="1147" stime="555.56" dur="0.34" conf="0.35"> serai </Word>
+<Word id="1148" stime="555.91" dur="0.27" conf="0.97"> pas </Word>
+<Word id="1149" stime="556.21" dur="0.12" conf="0.91"> de </Word>
+<Word id="1150" stime="556.33" dur="0.14" conf="0.52"> l' </Word>
+<Word id="1151" stime="556.48" dur="0.21" conf="0.35"> aurait </Word>
+<Word id="1152" stime="556.72" dur="0.40" conf="0.68"> été </Word>
+<Word id="1153" stime="557.99" dur="0.09" conf="1.00"> l' </Word>
+<Word id="1154" stime="558.08" dur="0.71" conf="1.00"> anarchie </Word>
+<Word id="1155" stime="559.21" dur="0.57" conf="0.46"> conduit </Word>
+<Word id="1156" stime="559.79" dur="0.06" conf="0.97"> à </Word>
+<Word id="1157" stime="559.85" dur="0.14" conf="0.96"> la </Word>
+<Word id="1158" stime="559.99" dur="0.28" conf="0.96"> guerre </Word>
+<Word id="1159" stime="560.31" dur="0.53" conf="0.54"> cyril </Word>
+<Word id="1160" stime="561.67" dur="0.46" conf="0.62"> élaguer </Word>
+<Word id="1161" stime="562.35" dur="0.65" conf="0.78"> cyril </Word>
+<Word id="1162" stime="563.22" dur="0.16" conf="0.47"> à </Word>
+<Word id="1163" stime="563.48" dur="0.28" conf="0.54"> la </Word>
+<Word id="1164" stime="563.77" dur="0.39" conf="0.44"> religion </Word>
+<Word id="1165" stime="564.23" dur="0.63" conf="0.29"> étrangère </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="565.220" etime="580.260" spkid="S132" lang="fre" lconf="1.00" trs="1">
+<Word id="1166" stime="565.81" dur="0.17" conf="0.97"> de </Word>
+<Word id="1167" stime="565.99" dur="0.08" conf="0.75"> l' </Word>
+<Word id="1168" stime="566.08" dur="0.43" conf="0.44"> une </Word>
+<Word id="1169" stime="566.63" dur="0.09" conf="0.97"> et </Word>
+<Word id="1170" stime="566.72" dur="0.13" conf="0.88"> de </Word>
+<Word id="1171" stime="566.87" dur="0.08" conf="0.99"> l' </Word>
+<Word id="1172" stime="566.95" dur="0.31" conf="0.69"> autre </Word>
+<Word id="1173" stime="568.14" dur="0.14" conf="0.77"> je </Word>
+<Word id="1174" stime="568.31" dur="0.17" conf="0.30"> deux </Word>
+<Word id="1175" stime="568.56" dur="0.35" conf="0.27"> employés </Word>
+<Word id="1176" stime="568.97" dur="0.20" conf="0.61"> à </Word>
+<Word id="1177" stime="569.22" dur="0.15" conf="0.71"> tout </Word>
+<Word id="1178" stime="569.38" dur="0.10" conf="0.72"> ce </Word>
+<Word id="1179" stime="569.48" dur="0.08" conf="0.83"> qu' </Word>
+<Word id="1180" stime="569.56" dur="0.09" conf="0.84"> il </Word>
+<Word id="1181" stime="569.65" dur="0.05" conf="0.78"> n' </Word>
+<Word id="1182" stime="569.70" dur="0.04" conf="0.79"> y </Word>
+<Word id="1183" stime="569.75" dur="0.19" conf="0.92"> aura </Word>
+<Word id="1184" stime="569.94" dur="0.24" conf="0.93"> est </Word>
+<Word id="1185" stime="570.29" dur="0.42" conf="0.46"> defar </Word>
+<Word id="1186" stime="571.48" dur="0.23" conf="0.67"> à </Word>
+<Word id="1187" stime="571.72" dur="0.49" conf="0.67"> préserver </Word>
+<Word id="1188" stime="572.21" dur="0.15" conf="0.99"> la </Word>
+<Word id="1189" stime="572.38" dur="0.30" conf="0.97"> france </Word>
+<Word id="1190" stime="573.96" dur="0.07" conf="0.76"> n' </Word>
+<Word id="1191" stime="574.04" dur="0.60" conf="0.79"> excuse </Word>
+<Word id="1192" stime="574.67" dur="0.21" conf="0.98"> mes </Word>
+<Word id="1193" stime="574.88" dur="0.33" conf="1.00"> chers </Word>
+<Word id="1194" stime="575.21" dur="0.33" conf="1.00"> amis </Word>
+<Word id="1195" stime="576.25" dur="0.23" conf="0.83"> de </Word>
+<Word id="1196" stime="576.48" dur="0.24" conf="0.31"> mettre </Word>
+<Word id="1197" stime="576.73" dur="0.41" conf="0.87"> trente </Word>
+<Word id="1198" stime="577.15" dur="0.67" conf="0.36"> étendue </Word>
+<Word id="1199" stime="577.85" dur="0.27" conf="1.00"> sur </Word>
+<Word id="1200" stime="578.18" dur="0.30" conf="0.96"> quelques </Word>
+<Word id="1201" stime="578.48" dur="0.19" conf="0.88"> heures </Word>
+<Word id="1202" stime="578.66" dur="0.15" conf="0.85"> la </Word>
+<Word id="1203" stime="578.83" dur="0.54" conf="0.43"> incidents </Word>
+<Word id="1204" stime="579.38" dur="0.51" conf="0.57"> récents </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="580.260" etime="589.430" spkid="S132" lang="fre" lconf="1.00" trs="1">
+<Word id="1205" stime="580.62" dur="0.14" conf="0.87"> qui </Word>
+<Word id="1206" stime="580.77" dur="0.05" conf="0.87"> m' </Word>
+<Word id="1207" stime="580.83" dur="0.11" conf="0.62"> ont </Word>
+<Word id="1208" stime="580.95" dur="0.18" conf="1.00"> fait </Word>
+<Word id="1209" stime="581.13" dur="0.30" conf="1.00"> beaucoup </Word>
+<Word id="1210" stime="581.43" dur="0.06" conf="1.00"> de </Word>
+<Word id="1211" stime="581.49" dur="0.33" conf="0.88"> paris </Word>
+<Word id="1212" stime="582.78" dur="0.20" conf="1.00"> mais </Word>
+<Word id="1213" stime="582.98" dur="0.08" conf="0.80"> j' </Word>
+<Word id="1214" stime="583.06" dur="0.11" conf="0.81"> en </Word>
+<Word id="1215" stime="583.17" dur="0.24" conf="0.92"> avais </Word>
+<Word id="1216" stime="583.41" dur="0.39" conf="0.99"> gros </Word>
+<Word id="1217" stime="583.83" dur="0.24" conf="1.00"> sur </Word>
+<Word id="1218" stime="584.07" dur="0.12" conf="1.00"> le </Word>
+<Word id="1219" stime="584.19" dur="0.29" conf="0.90"> coeur </Word>
+<Word id="1220" stime="585.35" dur="0.21" conf="0.99"> je </Word>
+<Word id="1221" stime="585.57" dur="0.06" conf="0.96"> me </Word>
+<Word id="1222" stime="585.63" dur="0.21" conf="0.88"> sens </Word>
+<Word id="1223" stime="585.84" dur="0.78" conf="0.51"> réconforter </Word>
+<Word id="1224" stime="587.40" dur="0.09" conf="1.00"> d' </Word>
+<Word id="1225" stime="587.49" dur="0.30" conf="1.00"> avoir </Word>
+<Word id="1226" stime="587.82" dur="0.13" conf="0.57"> pu </Word>
+<Word id="1227" stime="588.00" dur="0.35" conf="0.32"> vridi </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="589.430" etime="593.530" spkid="S132" lang="fre" lconf="1.00" trs="1">
+<Word id="1228" stime="589.67" dur="0.18" conf="0.99"> ce </Word>
+<Word id="1229" stime="589.85" dur="0.15" conf="1.00"> qui </Word>
+<Word id="1230" stime="590.00" dur="0.09" conf="0.96"> m' </Word>
+<Word id="1231" stime="590.09" dur="0.48" conf="0.83"> encourage </Word>
+<Word id="1232" stime="590.60" dur="0.45" conf="1.00"> aussi </Word>
+<Word id="1233" stime="591.86" dur="0.09" conf="0.92"> c' </Word>
+<Word id="1234" stime="592.01" dur="0.06" conf="0.93"> est </Word>
+<Word id="1235" stime="592.07" dur="0.21" conf="1.00"> que </Word>
+<Word id="1236" stime="592.28" dur="0.30" conf="1.00"> toutes </Word>
+<Word id="1237" stime="592.58" dur="0.18" conf="1.00"> les </Word>
+<Word id="1238" stime="592.76" dur="0.72" conf="1.00"> mesures </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="593.530" etime="595.920" spkid="S52" lang="fre" lconf="1.00" trs="1">
+<Word id="1239" stime="593.54" dur="0.23" conf="0.77"> les </Word>
+<Word id="1240" stime="593.79" dur="0.69" conf="0.88"> décisions </Word>
+<Word id="1241" stime="594.52" dur="0.15" conf="1.00"> que </Word>
+<Word id="1242" stime="594.67" dur="0.21" conf="1.00"> nous </Word>
+<Word id="1243" stime="594.88" dur="0.27" conf="1.00"> avons </Word>
+<Word id="1244" stime="595.15" dur="0.71" conf="0.56"> prises </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="595.920" etime="614.040" spkid="S52" lang="fre" lconf="1.00" trs="1">
+<Word id="1245" stime="596.43" dur="0.18" conf="0.87"> ont </Word>
+<Word id="1246" stime="596.61" dur="0.42" conf="1.00"> déjà </Word>
+<Word id="1247" stime="597.06" dur="0.60" conf="0.93"> produit </Word>
+<Word id="1248" stime="597.69" dur="0.51" conf="1.00"> quelques </Word>
+<Word id="1249" stime="598.30" dur="0.77" conf="0.95"> résultats </Word>
+<Word id="1250" stime="600.02" dur="0.18" conf="0.89"> et </Word>
+<Word id="1251" stime="600.20" dur="0.04" conf="0.57"> de </Word>
+<Word id="1252" stime="600.24" dur="0.20" conf="0.60"> gens </Word>
+<Word id="1253" stime="600.45" dur="0.33" conf="0.95"> ramener </Word>
+<Word id="1254" stime="600.78" dur="0.12" conf="1.00"> la </Word>
+<Word id="1255" stime="600.90" dur="0.84" conf="1.00"> confiance </Word>
+<Word id="1256" stime="602.37" dur="0.12" conf="0.87"> et </Word>
+<Word id="1257" stime="602.49" dur="0.26" conf="0.87"> celle </Word>
+<Word id="1258" stime="602.78" dur="0.16" conf="0.65"> ci </Word>
+<Word id="1259" stime="602.96" dur="0.12" conf="0.59"> s' </Word>
+<Word id="1260" stime="603.09" dur="0.11" conf="0.73"> est </Word>
+<Word id="1261" stime="603.20" dur="0.88" conf="0.67"> manifestée </Word>
+<Word id="1262" stime="604.74" dur="0.24" conf="1.00"> par </Word>
+<Word id="1263" stime="604.98" dur="0.18" conf="1.00"> une </Word>
+<Word id="1264" stime="605.16" dur="0.36" conf="1.00"> hausse </Word>
+<Word id="1265" stime="605.52" dur="0.90" conf="1.00"> importante </Word>
+<Word id="1266" stime="606.45" dur="0.29" conf="0.56"> guère </Word>
+<Word id="1267" stime="606.75" dur="0.09" conf="1.00"> en </Word>
+<Word id="1268" stime="606.93" dur="0.42" conf="1.00"> france </Word>
+<Word id="1269" stime="607.35" dur="0.13" conf="0.59"> a </Word>
+<Word id="1270" stime="607.49" dur="0.17" conf="0.47"> été </Word>
+<Word id="1271" stime="608.57" dur="0.21" conf="0.51"> au </Word>
+<Word id="1272" stime="608.83" dur="0.19" conf="0.43"> ceux </Word>
+<Word id="1273" stime="609.04" dur="0.50" conf="0.69"> causés </Word>
+<Word id="1274" stime="610.11" dur="0.18" conf="1.00"> je </Word>
+<Word id="1275" stime="610.29" dur="0.15" conf="0.99"> peux </Word>
+<Word id="1276" stime="610.47" dur="0.24" conf="1.00"> vous </Word>
+<Word id="1277" stime="610.71" dur="0.09" conf="0.83"> en </Word>
+<Word id="1278" stime="610.81" dur="0.32" conf="0.81"> donner </Word>
+<Word id="1279" stime="611.16" dur="0.09" conf="0.97"> l' </Word>
+<Word id="1280" stime="611.25" dur="0.72" conf="0.97"> assurance </Word>
+<Word id="1281" stime="612.66" dur="0.20" conf="0.66"> sans </Word>
+<Word id="1282" stime="612.87" dur="0.54" conf="0.97"> soutien </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="614.040" etime="630.600" spkid="S99" lang="fre" lconf="1.00" trs="1">
+<Word id="1283" stime="614.04" dur="0.93" conf="1.00"> uniquement </Word>
+<Word id="1284" stime="615.00" dur="0.21" conf="1.00"> par </Word>
+<Word id="1285" stime="615.21" dur="0.27" conf="1.00"> des </Word>
+<Word id="1286" stime="615.48" dur="0.45" conf="0.96"> achats </Word>
+<Word id="1287" stime="615.96" dur="0.12" conf="1.00"> de </Word>
+<Word id="1288" stime="616.08" dur="0.48" conf="1.00"> petits </Word>
+<Word id="1289" stime="616.56" dur="0.51" conf="1.00"> épargnants </Word>
+<Word id="1290" stime="618.20" dur="0.58" conf="0.95"> lors </Word>
+<Word id="1291" stime="618.81" dur="0.06" conf="0.89"> de </Word>
+<Word id="1292" stime="619.25" dur="0.17" conf="0.47"> ces </Word>
+<Word id="1293" stime="619.48" dur="0.35" conf="0.69"> réunions </Word>
+<Word id="1294" stime="619.83" dur="0.17" conf="0.76"> il </Word>
+<Word id="1295" stime="620.00" dur="0.23" conf="0.80"> a </Word>
+<Word id="1296" stime="620.26" dur="0.26" conf="0.67"> plu </Word>
+<Word id="1297" stime="620.53" dur="0.11" conf="0.90"> et </Word>
+<Word id="1298" stime="620.64" dur="0.06" conf="0.99"> à </Word>
+<Word id="1299" stime="620.70" dur="0.15" conf="1.00"> la </Word>
+<Word id="1300" stime="620.85" dur="0.30" conf="1.00"> banque </Word>
+<Word id="1301" stime="621.15" dur="0.15" conf="1.00"> de </Word>
+<Word id="1302" stime="621.30" dur="0.42" conf="1.00"> france </Word>
+<Word id="1303" stime="622.53" dur="0.27" conf="0.95"> cent </Word>
+<Word id="1304" stime="622.80" dur="0.25" conf="0.71"> dix </Word>
+<Word id="1305" stime="623.09" dur="0.57" conf="0.91"> millions </Word>
+<Word id="1306" stime="623.66" dur="0.18" conf="0.73"> en </Word>
+<Word id="1307" stime="623.87" dur="0.25" conf="1.00"> cinq </Word>
+<Word id="1308" stime="624.12" dur="0.39" conf="1.00"> jours </Word>
+<Word id="1309" stime="625.38" dur="0.24" conf="0.99"> le </Word>
+<Word id="1310" stime="625.68" dur="0.51" conf="0.28"> principal </Word>
+<Word id="1311" stime="626.38" dur="0.13" conf="0.61"> est </Word>
+<Word id="1312" stime="626.52" dur="0.31" conf="0.80"> déjà </Word>
+<Word id="1313" stime="626.83" dur="0.53" conf="0.41"> père </Word>
+<Word id="1314" stime="627.39" dur="0.66" conf="0.85"> reprennent </Word>
+<Word id="1315" stime="628.75" dur="0.44" conf="1.00"> ainsi </Word>
+<Word id="1316" stime="629.19" dur="0.12" conf="1.00"> qu' </Word>
+<Word id="1317" stime="629.31" dur="0.09" conf="1.00"> en </Word>
+<Word id="1318" stime="629.40" dur="0.87" conf="0.66"> témoigne </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="630.600" etime="637.390" spkid="S99" lang="fre" lconf="1.00" trs="1">
+<Word id="1319" stime="630.81" dur="0.21" conf="1.00"> une </Word>
+<Word id="1320" stime="631.02" dur="0.82" conf="1.00"> amélioration </Word>
+<Word id="1321" stime="631.84" dur="0.26" conf="0.85"> très </Word>
+<Word id="1322" stime="632.13" dur="0.74" conf="0.90"> sensible </Word>
+<Word id="1323" stime="632.88" dur="0.14" conf="0.72"> des </Word>
+<Word id="1324" stime="633.03" dur="0.66" conf="0.58"> recouvrements </Word>
+<Word id="1325" stime="633.69" dur="0.92" conf="0.61"> budgétaire </Word>
+<Word id="1326" stime="635.11" dur="0.20" conf="0.90"> et </Word>
+<Word id="1327" stime="635.32" dur="0.04" conf="0.73"> de </Word>
+<Word id="1328" stime="635.40" dur="0.16" conf="0.97"> la </Word>
+<Word id="1329" stime="635.58" dur="0.68" conf="0.92"> balance </Word>
+<Word id="1330" stime="636.33" dur="0.84" conf="0.96"> commerciale </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="637.830" etime="642.710" spkid="S99" lang="fre" lconf="1.00" trs="1">
+<Word id="1331" stime="638.07" dur="0.15" conf="1.00"> il </Word>
+<Word id="1332" stime="638.22" dur="0.09" conf="1.00"> n' </Word>
+<Word id="1333" stime="638.31" dur="0.06" conf="1.00"> est </Word>
+<Word id="1334" stime="638.37" dur="0.18" conf="1.00"> pas </Word>
+<Word id="1335" stime="638.55" dur="0.39" conf="0.97"> douteux </Word>
+<Word id="1336" stime="639.69" dur="0.18" conf="1.00"> que </Word>
+<Word id="1337" stime="639.87" dur="0.12" conf="1.00"> la </Word>
+<Word id="1338" stime="639.99" dur="0.96" conf="1.00"> circulation </Word>
+<Word id="1339" stime="640.98" dur="0.15" conf="0.99"> des </Word>
+<Word id="1340" stime="641.16" dur="0.48" conf="1.00"> capitaux </Word>
+<Word id="1341" stime="641.64" dur="0.33" conf="1.00"> plus </Word>
+<Word id="1342" stime="641.97" dur="0.72" conf="0.64"> important </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="643.060" etime="649.290" spkid="S99" lang="fre" lconf="1.00" trs="1">
+<Word id="1343" stime="643.30" dur="0.66" conf="0.99"> permettra </Word>
+<Word id="1344" stime="643.99" dur="0.19" conf="0.46"> de </Word>
+<Word id="1345" stime="644.23" dur="0.17" conf="0.71"> à </Word>
+<Word id="1346" stime="644.46" dur="0.58" conf="1.00"> tenir </Word>
+<Word id="1347" stime="645.04" dur="0.06" conf="0.69"> et </Word>
+<Word id="1348" stime="645.10" dur="0.18" conf="1.00"> de </Word>
+<Word id="1349" stime="645.31" dur="0.69" conf="1.00"> développer </Word>
+<Word id="1350" stime="646.60" dur="0.24" conf="1.00"> les </Word>
+<Word id="1351" stime="646.87" dur="0.79" conf="0.99"> résultats </Word>
+<Word id="1352" stime="647.71" dur="0.33" conf="0.98"> déjà </Word>
+<Word id="1353" stime="648.07" dur="0.60" conf="0.89"> présents </Word>
+<Word id="1354" stime="648.67" dur="0.18" conf="0.88"> à </Word>
+<Word id="1355" stime="648.91" dur="0.36" conf="0.93"> qui </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="651.610" etime="659.810" spkid="S99" lang="fre" lconf="1.00" trs="1">
+<Word id="1356" stime="651.88" dur="0.28" conf="1.00"> nous </Word>
+<Word id="1357" stime="652.18" dur="0.51" conf="1.00"> occupons </Word>
+<Word id="1358" stime="652.69" dur="0.17" conf="0.99"> de </Word>
+<Word id="1359" stime="652.86" dur="0.32" conf="0.65"> faire </Word>
+<Word id="1360" stime="653.22" dur="0.39" conf="0.64"> baisser </Word>
+<Word id="1361" stime="653.62" dur="0.15" conf="0.98"> le </Word>
+<Word id="1362" stime="653.80" dur="0.20" conf="0.58"> prix </Word>
+<Word id="1363" stime="654.00" dur="0.05" conf="0.65"> de </Word>
+<Word id="1364" stime="654.05" dur="0.11" conf="0.64"> la </Word>
+<Word id="1365" stime="654.16" dur="0.14" conf="0.33"> dix </Word>
+<Word id="1366" stime="655.54" dur="0.27" conf="1.00"> pour </Word>
+<Word id="1367" stime="655.81" dur="0.09" conf="1.00"> y </Word>
+<Word id="1368" stime="655.90" dur="0.45" conf="1.00"> arriver </Word>
+<Word id="1369" stime="657.10" dur="0.15" conf="1.00"> j' </Word>
+<Word id="1370" stime="657.25" dur="0.06" conf="0.91"> ai </Word>
+<Word id="1371" stime="657.31" dur="0.41" conf="1.00"> besoin </Word>
+<Word id="1372" stime="657.73" dur="0.15" conf="0.45"> du </Word>
+<Word id="1373" stime="657.93" dur="0.56" conf="0.75"> concours </Word>
+<Word id="1374" stime="658.59" dur="0.18" conf="0.87"> de </Word>
+<Word id="1375" stime="658.80" dur="0.28" conf="0.96"> tous </Word>
+<Word id="1376" stime="659.08" dur="0.18" conf="0.98"> les </Word>
+<Word id="1377" stime="659.29" dur="0.51" conf="0.98"> commerçants </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="660.460" etime="665.960" spkid="S99" lang="fre" lconf="1.00" trs="1">
+<Word id="1378" stime="660.70" dur="0.09" conf="0.90"> et </Word>
+<Word id="1379" stime="660.81" dur="0.16" conf="0.81"> je </Word>
+<Word id="1380" stime="661.01" dur="0.24" conf="0.70"> fais </Word>
+<Word id="1381" stime="661.25" dur="0.35" conf="0.81"> appel </Word>
+<Word id="1382" stime="661.60" dur="0.12" conf="1.00"> à </Word>
+<Word id="1383" stime="661.72" dur="0.30" conf="1.00"> eux </Word>
+<Word id="1384" stime="662.62" dur="0.18" conf="1.00"> pour </Word>
+<Word id="1385" stime="662.80" dur="0.12" conf="1.00"> le </Word>
+<Word id="1386" stime="662.97" dur="0.73" conf="0.90"> seconder </Word>
+<Word id="1387" stime="663.79" dur="1.07" conf="0.97"> patriotiquement </Word>
+<Word id="1388" stime="664.86" dur="0.24" conf="0.46"> damas </Word>
+<Word id="1389" stime="665.15" dur="0.29" conf="0.22"> page </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="665.960" etime="684.980" spkid="S108" lang="fre" lconf="1.00" trs="1">
+<Word id="1390" stime="666.11" dur="0.15" conf="1.00"> la </Word>
+<Word id="1391" stime="666.26" dur="0.90" conf="0.56"> configuration </Word>
+<Word id="1392" stime="667.19" dur="0.54" conf="1.00"> générale </Word>
+<Word id="1393" stime="667.76" dur="0.15" conf="1.00"> de </Word>
+<Word id="1394" stime="667.91" dur="0.09" conf="1.00"> la </Word>
+<Word id="1395" stime="668.00" dur="0.69" conf="1.00"> boulangerie </Word>
+<Word id="1396" stime="669.53" dur="0.33" conf="1.00"> avec </Word>
+<Word id="1397" stime="669.86" dur="0.51" conf="1.00"> laquelle </Word>
+<Word id="1398" stime="670.37" dur="0.20" conf="1.00"> je </Word>
+<Word id="1399" stime="670.58" dur="0.06" conf="0.99"> me </Word>
+<Word id="1400" stime="670.64" dur="0.30" conf="1.00"> suis </Word>
+<Word id="1401" stime="670.94" dur="0.69" conf="0.95"> entretenu </Word>
+<Word id="1402" stime="671.63" dur="0.21" conf="1.00"> tout </Word>
+<Word id="1403" stime="671.85" dur="0.68" conf="0.96"> récemment </Word>
+<Word id="1404" stime="673.10" dur="0.15" conf="0.99"> à </Word>
+<Word id="1405" stime="673.25" dur="0.54" conf="1.00"> donner </Word>
+<Word id="1406" stime="673.82" dur="0.15" conf="1.00"> le </Word>
+<Word id="1407" stime="673.97" dur="0.21" conf="1.00"> bon </Word>
+<Word id="1408" stime="674.18" dur="0.57" conf="1.00"> exemple </Word>
+<Word id="1409" stime="675.59" dur="0.09" conf="1.00"> j' </Word>
+<Word id="1410" stime="675.68" dur="0.48" conf="1.00"> espère </Word>
+<Word id="1411" stime="676.16" dur="0.33" conf="1.00"> bien </Word>
+<Word id="1412" stime="676.55" dur="0.12" conf="1.00"> que </Word>
+<Word id="1413" stime="676.67" dur="0.24" conf="0.98"> cet </Word>
+<Word id="1414" stime="676.91" dur="0.69" conf="1.00"> exemple </Word>
+<Word id="1415" stime="677.60" dur="0.27" conf="0.92"> sera </Word>
+<Word id="1416" stime="677.87" dur="0.51" conf="0.47"> suivi </Word>
+<Word id="1417" stime="679.13" dur="0.15" conf="0.99"> et </Word>
+<Word id="1418" stime="679.28" dur="0.15" conf="1.00"> que </Word>
+<Word id="1419" stime="679.43" dur="0.18" conf="1.00"> je </Word>
+<Word id="1420" stime="679.61" dur="0.33" conf="0.98"> pourrai </Word>
+<Word id="1421" stime="679.94" dur="0.52" conf="0.96"> porter </Word>
+<Word id="1422" stime="680.49" dur="0.08" conf="0.99"> d' </Word>
+<Word id="1423" stime="680.57" dur="0.27" conf="0.99"> autres </Word>
+<Word id="1424" stime="680.84" dur="0.99" conf="0.92"> confédérations </Word>
+<Word id="1425" stime="681.83" dur="0.15" conf="0.98"> de </Word>
+<Word id="1426" stime="681.98" dur="0.69" conf="0.89"> commerçants </Word>
+<Word id="1427" stime="683.06" dur="0.12" conf="1.00"> au </Word>
+<Word id="1428" stime="683.18" dur="0.36" conf="1.00"> tableau </Word>
+<Word id="1429" stime="683.54" dur="0.04" conf="0.98"> d' </Word>
+<Word id="1430" stime="683.58" dur="0.38" conf="0.98"> honneur </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="684.980" etime="698.710" spkid="S108" lang="fre" lconf="1.00" trs="1">
+<Word id="1431" stime="685.43" dur="0.12" conf="1.00"> nous </Word>
+<Word id="1432" stime="685.56" dur="0.87" conf="0.97"> parlons </Word>
+<Word id="1433" stime="686.45" dur="0.09" conf="1.00"> en </Word>
+<Word id="1434" stime="686.54" dur="0.24" conf="1.00"> ce </Word>
+<Word id="1435" stime="686.78" dur="0.39" conf="1.00"> moment </Word>
+<Word id="1436" stime="688.04" dur="0.15" conf="1.00"> les </Word>
+<Word id="1437" stime="688.19" dur="0.63" conf="1.00"> mesures </Word>
+<Word id="1438" stime="688.85" dur="0.60" conf="1.00"> propres </Word>
+<Word id="1439" stime="689.45" dur="0.08" conf="0.75"> à </Word>
+<Word id="1440" stime="689.53" dur="0.34" conf="0.76"> donner </Word>
+<Word id="1441" stime="689.90" dur="0.75" conf="1.00"> prochainement </Word>
+<Word id="1442" stime="690.68" dur="0.15" conf="1.00"> du </Word>
+<Word id="1443" stime="690.83" dur="0.54" conf="1.00"> travail </Word>
+<Word id="1444" stime="691.91" dur="0.27" conf="1.00"> aux </Word>
+<Word id="1445" stime="692.18" dur="0.54" conf="0.98"> ouvriers </Word>
+<Word id="1446" stime="693.41" dur="0.18" conf="1.00"> dans </Word>
+<Word id="1447" stime="693.59" dur="0.05" conf="0.71"> l' </Word>
+<Word id="1448" stime="693.64" dur="0.28" conf="0.68"> écart </Word>
+<Word id="1449" stime="693.94" dur="0.15" conf="0.75"> qui </Word>
+<Word id="1450" stime="694.10" dur="0.10" conf="0.41"> est </Word>
+<Word id="1451" stime="694.20" dur="0.08" conf="0.98"> de </Word>
+<Word id="1452" stime="694.28" dur="0.12" conf="1.00"> la </Word>
+<Word id="1453" stime="694.40" dur="0.60" conf="1.00"> france </Word>
+<Word id="1454" stime="695.54" dur="0.09" conf="0.94"> où </Word>
+<Word id="1455" stime="695.63" dur="0.12" conf="1.00"> le </Word>
+<Word id="1456" stime="695.75" dur="0.78" conf="1.00"> chômage </Word>
+<Word id="1457" stime="696.53" dur="0.03" conf="0.85"> est </Word>
+<Word id="1458" stime="696.56" dur="0.15" conf="1.00"> le </Word>
+<Word id="1459" stime="696.71" dur="0.20" conf="0.97"> plus </Word>
+<Word id="1460" stime="696.92" dur="0.39" conf="0.91"> grand </Word>
+<Word id="1461" stime="697.31" dur="0.12" conf="0.98"> et </Word>
+<Word id="1462" stime="697.43" dur="0.12" conf="1.00"> le </Word>
+<Word id="1463" stime="697.55" dur="0.18" conf="1.00"> plus </Word>
+<Word id="1464" stime="697.73" dur="0.45" conf="0.96"> douloureux </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="698.710" etime="713.280" spkid="S108" lang="fre" lconf="1.00" trs="1">
+<Word id="1465" stime="699.25" dur="0.15" conf="1.00"> la </Word>
+<Word id="1466" stime="699.40" dur="1.17" conf="1.00"> réorganisation </Word>
+<Word id="1467" stime="700.57" dur="0.12" conf="1.00"> des </Word>
+<Word id="1468" stime="700.72" dur="0.30" conf="1.00"> chemins </Word>
+<Word id="1469" stime="701.05" dur="0.09" conf="0.99"> de </Word>
+<Word id="1470" stime="701.14" dur="0.48" conf="0.99"> fer </Word>
+<Word id="1471" stime="702.04" dur="0.12" conf="1.00"> et </Word>
+<Word id="1472" stime="702.16" dur="0.12" conf="0.89"> des </Word>
+<Word id="1473" stime="702.28" dur="0.75" conf="0.94"> transports </Word>
+<Word id="1474" stime="703.06" dur="0.51" conf="0.93"> publics </Word>
+<Word id="1475" stime="704.44" dur="0.12" conf="1.00"> que </Word>
+<Word id="1476" stime="704.56" dur="0.06" conf="1.00"> le </Word>
+<Word id="1477" stime="704.65" dur="0.81" conf="1.00"> gouvernement </Word>
+<Word id="1478" stime="705.49" dur="0.18" conf="0.94"> vient </Word>
+<Word id="1479" stime="705.67" dur="0.15" conf="1.00"> de </Word>
+<Word id="1480" stime="705.82" dur="0.51" conf="1.00"> faire </Word>
+<Word id="1481" stime="706.96" dur="0.24" conf="0.99"> tout </Word>
+<Word id="1482" stime="707.20" dur="0.15" conf="1.00"> en </Word>
+<Word id="1483" stime="707.35" dur="0.72" conf="1.00"> réalisant </Word>
+<Word id="1484" stime="708.07" dur="0.18" conf="0.98"> dans </Word>
+<Word id="1485" stime="708.25" dur="0.15" conf="1.00"> les </Word>
+<Word id="1486" stime="708.40" dur="0.63" conf="1.00"> dépenses </Word>
+<Word id="1487" stime="709.03" dur="0.06" conf="0.99"> d' </Word>
+<Word id="1488" stime="709.09" dur="0.96" conf="0.89"> exploitation </Word>
+<Word id="1489" stime="710.68" dur="0.18" conf="1.00"> une </Word>
+<Word id="1490" stime="710.86" dur="0.63" conf="1.00"> économie </Word>
+<Word id="1491" stime="711.52" dur="0.15" conf="1.00"> de </Word>
+<Word id="1492" stime="711.67" dur="0.18" conf="1.00"> deux </Word>
+<Word id="1493" stime="711.85" dur="0.54" conf="1.00"> milliards </Word>
+<Word id="1494" stime="712.39" dur="0.15" conf="1.00"> de </Word>
+<Word id="1495" stime="712.54" dur="0.33" conf="1.00"> francs </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="713.280" etime="720.870" spkid="S108" lang="fre" lconf="1.00" trs="1">
+<Word id="1496" stime="713.73" dur="0.73" conf="0.70"> assurera </Word>
+<Word id="1497" stime="714.60" dur="0.24" conf="1.00"> une </Word>
+<Word id="1498" stime="714.87" dur="0.90" conf="1.00"> collaboration </Word>
+<Word id="1499" stime="715.77" dur="0.96" conf="0.73"> judicieuse </Word>
+<Word id="1500" stime="716.76" dur="0.36" conf="0.31"> durera </Word>
+<Word id="1501" stime="717.14" dur="0.25" conf="0.26"> agathe </Word>
+<Word id="1502" stime="717.42" dur="0.15" conf="1.00"> la </Word>
+<Word id="1503" stime="717.57" dur="0.39" conf="1.00"> route </Word>
+<Word id="1504" stime="718.56" dur="0.15" conf="1.00"> au </Word>
+<Word id="1505" stime="718.71" dur="0.57" conf="1.00"> profit </Word>
+<Word id="1506" stime="719.28" dur="0.15" conf="1.00"> de </Word>
+<Word id="1507" stime="719.43" dur="0.21" conf="0.99"> tous </Word>
+<Word id="1508" stime="719.64" dur="0.18" conf="1.00"> les </Word>
+<Word id="1509" stime="719.82" dur="0.51" conf="0.99"> usagers </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="720.870" etime="733.190" spkid="S108" lang="fre" lconf="1.00" trs="1">
+<Word id="1510" stime="721.29" dur="0.19" conf="0.79"> en </Word>
+<Word id="1511" stime="721.57" dur="0.19" conf="0.68"> deux </Word>
+<Word id="1512" stime="721.77" dur="0.33" conf="0.83"> mois </Word>
+<Word id="1513" stime="722.91" dur="1.05" conf="1.00"> progressivement </Word>
+<Word id="1514" stime="724.68" dur="0.30" conf="1.00"> avec </Word>
+<Word id="1515" stime="725.04" dur="0.56" conf="0.95"> méthode </Word>
+<Word id="1516" stime="725.64" dur="0.21" conf="0.91"> et </Word>
+<Word id="1517" stime="725.94" dur="0.33" conf="0.96"> sans </Word>
+<Word id="1518" stime="726.36" dur="0.33" conf="0.99"> arrêt </Word>
+<Word id="1519" stime="727.39" dur="0.15" conf="0.79"> le </Word>
+<Word id="1520" stime="727.59" dur="0.70" conf="0.78"> gouvernement </Word>
+<Word id="1521" stime="728.29" dur="0.28" conf="0.46"> angolais </Word>
+<Word id="1522" stime="728.58" dur="0.07" conf="0.47"> le </Word>
+<Word id="1523" stime="728.66" dur="0.27" conf="0.57"> voit </Word>
+<Word id="1524" stime="728.94" dur="0.33" conf="0.51"> gueye </Word>
+<Word id="1525" stime="729.75" dur="0.15" conf="1.00"> a </Word>
+<Word id="1526" stime="729.90" dur="0.48" conf="1.00"> déjà </Word>
+<Word id="1527" stime="730.38" dur="0.84" conf="0.95"> réalisé </Word>
+<Word id="1528" stime="731.31" dur="0.37" conf="0.89"> une </Word>
+<Word id="1529" stime="731.93" dur="0.51" conf="0.52"> importante </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="733.190" etime="740.510" spkid="S108" lang="fre" lconf="1.00" trs="1">
+<Word id="1530" stime="733.67" dur="0.18" conf="0.98"> il </Word>
+<Word id="1531" stime="733.85" dur="0.72" conf="0.93"> poursuivra </Word>
+<Word id="1532" stime="734.59" dur="0.24" conf="0.72"> son </Word>
+<Word id="1533" stime="734.88" dur="0.38" conf="0.49"> cadre </Word>
+<Word id="1534" stime="735.27" dur="0.17" conf="0.38"> d' </Word>
+<Word id="1535" stime="735.45" dur="0.44" conf="0.27"> intérêt </Word>
+<Word id="1536" stime="735.89" dur="0.87" conf="0.48"> national </Word>
+<Word id="1537" stime="737.30" dur="0.39" conf="1.00"> avec </Word>
+<Word id="1538" stime="737.69" dur="0.21" conf="0.98"> la </Word>
+<Word id="1539" stime="737.93" dur="0.18" conf="1.00"> la </Word>
+<Word id="1540" stime="738.11" dur="0.81" conf="1.00"> méthode </Word>
+<Word id="1541" stime="739.00" dur="0.08" conf="0.80"> et </Word>
+<Word id="1542" stime="739.09" dur="0.10" conf="0.71"> le </Word>
+<Word id="1543" stime="739.21" dur="0.39" conf="0.56"> mali </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="740.510" etime="744.760" spkid="S108" lang="fre" lconf="1.00" trs="1">
+<Word id="1544" stime="741.20" dur="0.15" conf="1.00"> le </Word>
+<Word id="1545" stime="741.35" dur="0.78" conf="1.00"> gouvernement </Word>
+<Word id="1546" stime="742.97" dur="0.09" conf="0.97"> n' </Word>
+<Word id="1547" stime="743.06" dur="0.09" conf="0.97"> a </Word>
+<Word id="1548" stime="743.15" dur="0.21" conf="0.97"> pas </Word>
+<Word id="1549" stime="743.36" dur="0.18" conf="0.54"> vu </Word>
+<Word id="1550" stime="743.57" dur="0.29" conf="0.25"> ça </Word>
+<Word id="1551" stime="743.89" dur="0.38" conf="0.73"> non </Word>
+<Word id="1552" stime="744.58" dur="0.15" conf="0.95"> plus </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="744.760" etime="753.280" spkid="S120" lang="fre" lconf="1.00" trs="1">
+<Word id="1553" stime="744.76" dur="0.13" conf="0.45"> et </Word>
+<Word id="1554" stime="744.90" dur="0.13" conf="0.29"> les </Word>
+<Word id="1555" stime="745.05" dur="0.61" conf="0.67"> questions </Word>
+<Word id="1556" stime="745.77" dur="0.69" conf="0.33"> hattéria </Word>
+<Word id="1557" stime="747.43" dur="0.18" conf="1.00"> il </Word>
+<Word id="1558" stime="747.61" dur="0.10" conf="1.00"> a </Word>
+<Word id="1559" stime="747.71" dur="0.14" conf="0.68"> dû </Word>
+<Word id="1560" stime="747.88" dur="0.50" conf="0.99"> également </Word>
+<Word id="1561" stime="748.39" dur="0.35" conf="0.48"> donner </Word>
+<Word id="1562" stime="748.74" dur="0.21" conf="0.98"> une </Word>
+<Word id="1563" stime="748.96" dur="0.66" conf="1.00"> attention </Word>
+<Word id="1564" stime="749.71" dur="0.83" conf="0.91"> vigilante </Word>
+<Word id="1565" stime="751.12" dur="0.16" conf="0.71"> aux </Word>
+<Word id="1566" stime="751.34" dur="0.58" conf="0.52"> problèmes </Word>
+<Word id="1567" stime="751.99" dur="1.27" conf="0.43"> extérieur </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="753.280" etime="770.560" spkid="S120" lang="fre" lconf="1.00" trs="1">
+<Word id="1568" stime="753.49" dur="0.15" conf="0.62"> ils </Word>
+<Word id="1569" stime="753.64" dur="0.24" conf="1.00"> sont </Word>
+<Word id="1570" stime="753.88" dur="0.15" conf="0.88"> les </Word>
+<Word id="1571" stime="754.03" dur="0.30" conf="1.00"> plus </Word>
+<Word id="1572" stime="754.33" dur="0.75" conf="0.97"> importants </Word>
+<Word id="1573" stime="755.11" dur="0.12" conf="0.96"> et </Word>
+<Word id="1574" stime="755.23" dur="0.15" conf="0.90"> des </Word>
+<Word id="1575" stime="755.41" dur="0.15" conf="1.00"> plus </Word>
+<Word id="1576" stime="755.56" dur="0.72" conf="0.52"> complexe </Word>
+<Word id="1577" stime="756.28" dur="0.06" conf="0.79"> à </Word>
+<Word id="1578" stime="757.42" dur="0.12" conf="1.00"> l' </Word>
+<Word id="1579" stime="757.54" dur="0.54" conf="1.00"> europe </Word>
+<Word id="1580" stime="758.08" dur="0.06" conf="1.00"> et </Word>
+<Word id="1581" stime="758.14" dur="0.12" conf="1.00"> le </Word>
+<Word id="1582" stime="758.26" dur="0.63" conf="1.00"> monde </Word>
+<Word id="1583" stime="759.41" dur="0.18" conf="0.49"> si </Word>
+<Word id="1584" stime="759.77" dur="0.70" conf="0.99"> réellement </Word>
+<Word id="1585" stime="760.48" dur="0.48" conf="0.91"> éprouvée </Word>
+<Word id="1586" stime="760.99" dur="0.21" conf="1.00"> par </Word>
+<Word id="1587" stime="761.20" dur="0.09" conf="1.00"> la </Word>
+<Word id="1588" stime="761.29" dur="0.54" conf="1.00"> guerre </Word>
+<Word id="1589" stime="762.50" dur="0.06" conf="0.97"> n' </Word>
+<Word id="1590" stime="762.58" dur="0.09" conf="0.98"> ont </Word>
+<Word id="1591" stime="762.67" dur="0.30" conf="1.00"> pas </Word>
+<Word id="1592" stime="762.97" dur="0.63" conf="1.00"> encore </Word>
+<Word id="1593" stime="763.63" dur="0.69" conf="0.86"> retrouver </Word>
+<Word id="1594" stime="764.35" dur="0.21" conf="0.99"> leur </Word>
+<Word id="1595" stime="764.56" dur="0.60" conf="0.99"> équilibre </Word>
+<Word id="1596" stime="766.10" dur="0.19" conf="0.92"> ils </Word>
+<Word id="1597" stime="766.29" dur="0.56" conf="0.94"> exigent </Word>
+<Word id="1598" stime="766.86" dur="0.16" conf="0.96"> en </Word>
+<Word id="1599" stime="767.05" dur="0.42" conf="1.00"> beaucoup </Word>
+<Word id="1600" stime="767.47" dur="0.09" conf="0.97"> d' </Word>
+<Word id="1601" stime="767.56" dur="0.51" conf="0.97"> endroits </Word>
+<Word id="1602" stime="768.60" dur="0.20" conf="0.98"> de </Word>
+<Word id="1603" stime="768.84" dur="0.30" conf="0.74"> et </Word>
+<Word id="1604" stime="769.17" dur="0.18" conf="0.87"> les </Word>
+<Word id="1605" stime="769.36" dur="0.66" conf="0.84"> agitations </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="770.560" etime="784.430" spkid="S120" lang="fre" lconf="1.00" trs="1">
+<Word id="1606" stime="771.13" dur="0.14" conf="0.82"> la </Word>
+<Word id="1607" stime="771.44" dur="0.53" conf="0.64"> france </Word>
+<Word id="1608" stime="772.72" dur="0.14" conf="0.92"> il </Word>
+<Word id="1609" stime="772.86" dur="0.04" conf="0.98"> y </Word>
+<Word id="1610" stime="772.90" dur="0.09" conf="1.00"> a </Word>
+<Word id="1611" stime="772.99" dur="0.14" conf="0.73"> plus </Word>
+<Word id="1612" stime="773.13" dur="0.18" conf="0.73"> de </Word>
+<Word id="1613" stime="773.34" dur="0.59" conf="0.72"> raison </Word>
+<Word id="1614" stime="773.98" dur="0.10" conf="0.55"> qu' </Word>
+<Word id="1615" stime="774.08" dur="0.26" conf="0.56"> aucun </Word>
+<Word id="1616" stime="774.34" dur="0.32" conf="0.56"> autre </Word>
+<Word id="1617" stime="774.67" dur="0.48" conf="1.00"> pays </Word>
+<Word id="1618" stime="775.78" dur="0.16" conf="0.99"> de </Word>
+<Word id="1619" stime="776.07" dur="0.13" conf="0.49"> je </Word>
+<Word id="1620" stime="776.23" dur="0.42" conf="0.39"> dirais </Word>
+<Word id="1621" stime="776.93" dur="0.60" conf="0.55"> passionnément </Word>
+<Word id="1622" stime="777.58" dur="0.18" conf="0.99"> le </Word>
+<Word id="1623" stime="777.76" dur="0.57" conf="0.99"> matin </Word>
+<Word id="1624" stime="778.33" dur="0.12" conf="1.00"> de </Word>
+<Word id="1625" stime="778.45" dur="0.10" conf="0.59"> l' </Word>
+<Word id="1626" stime="778.55" dur="0.32" conf="0.56"> apec </Word>
+<Word id="1627" stime="779.59" dur="0.39" conf="0.30"> car </Word>
+<Word id="1628" stime="780.15" dur="0.22" conf="0.60"> quand </Word>
+<Word id="1629" stime="780.39" dur="0.13" conf="0.82"> un </Word>
+<Word id="1630" stime="780.54" dur="0.48" conf="0.98"> pays </Word>
+<Word id="1631" stime="781.06" dur="0.06" conf="1.00"> n' </Word>
+<Word id="1632" stime="781.12" dur="0.09" conf="1.00"> a </Word>
+<Word id="1633" stime="781.21" dur="0.27" conf="0.99"> plus </Word>
+<Word id="1634" stime="781.51" dur="0.45" conf="0.99"> souffert </Word>
+<Word id="1635" stime="782.00" dur="0.33" conf="0.19"> karelle </Word>
+<Word id="1636" stime="782.47" dur="0.21" conf="1.00"> des </Word>
+<Word id="1637" stime="782.68" dur="0.36" conf="1.00"> horreurs </Word>
+<Word id="1638" stime="783.04" dur="0.09" conf="1.00"> de </Word>
+<Word id="1639" stime="783.13" dur="0.12" conf="1.00"> la </Word>
+<Word id="1640" stime="783.25" dur="0.42" conf="1.00"> guerre </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="784.430" etime="787.350" spkid="S126" lang="fre" lconf="1.00" trs="1">
+<Word id="1641" stime="784.55" dur="0.33" conf="0.97"> nous </Word>
+<Word id="1642" stime="784.97" dur="0.18" conf="1.00"> les </Word>
+<Word id="1643" stime="785.22" dur="0.50" conf="0.69"> opérations </Word>
+<Word id="1644" stime="785.79" dur="0.50" conf="0.83"> hakima </Word>
+<Word id="1645" stime="786.73" dur="0.46" conf="0.76"> une </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="787.350" etime="802.000" spkid="S126" lang="fre" lconf="1.00" trs="1">
+<Word id="1646" stime="787.75" dur="0.27" conf="0.56"> envers </Word>
+<Word id="1647" stime="788.13" dur="0.36" conf="0.57"> ce </Word>
+<Word id="1648" stime="788.99" dur="0.12" conf="0.97"> qu' </Word>
+<Word id="1649" stime="789.12" dur="0.05" conf="1.00"> on </Word>
+<Word id="1650" stime="789.17" dur="0.07" conf="0.43"> a </Word>
+<Word id="1651" stime="789.24" dur="0.30" conf="0.42"> parlé </Word>
+<Word id="1652" stime="789.55" dur="0.26" conf="0.86"> car </Word>
+<Word id="1653" stime="789.82" dur="0.30" conf="0.88"> elle </Word>
+<Word id="1654" stime="790.14" dur="0.06" conf="0.98"> a </Word>
+<Word id="1655" stime="790.20" dur="0.27" conf="0.98"> été </Word>
+<Word id="1656" stime="790.47" dur="0.77" conf="0.74"> contraint </Word>
+<Word id="1657" stime="791.28" dur="0.15" conf="1.00"> de </Word>
+<Word id="1658" stime="791.43" dur="0.12" conf="0.99"> se </Word>
+<Word id="1659" stime="791.55" dur="0.63" conf="0.99"> défendre </Word>
+<Word id="1660" stime="793.20" dur="0.25" conf="0.92"> elle </Word>
+<Word id="1661" stime="793.46" dur="0.15" conf="0.78"> ne </Word>
+<Word id="1662" stime="793.61" dur="0.21" conf="0.56"> donne </Word>
+<Word id="1663" stime="793.82" dur="0.37" conf="0.68"> à </Word>
+<Word id="1664" stime="794.22" dur="0.18" conf="0.82"> des </Word>
+<Word id="1665" stime="794.52" dur="0.37" conf="0.20"> libre </Word>
+<Word id="1666" stime="794.98" dur="0.20" conf="0.88"> en </Word>
+<Word id="1667" stime="795.21" dur="0.54" conf="0.99"> parfait </Word>
+<Word id="1668" stime="795.75" dur="0.42" conf="1.00"> accord </Word>
+<Word id="1669" stime="796.71" dur="0.39" conf="1.00"> avec </Word>
+<Word id="1670" stime="797.10" dur="0.18" conf="1.00"> tout </Word>
+<Word id="1671" stime="797.28" dur="0.06" conf="1.00"> le </Word>
+<Word id="1672" stime="797.34" dur="0.57" conf="1.00"> monde </Word>
+<Word id="1673" stime="798.87" dur="0.15" conf="0.87"> est </Word>
+<Word id="1674" stime="799.05" dur="0.18" conf="0.95"> ce </Word>
+<Word id="1675" stime="799.23" dur="0.62" conf="0.96"> désir </Word>
+<Word id="1676" stime="799.91" dur="0.18" conf="0.95"> de </Word>
+<Word id="1677" stime="800.10" dur="0.42" conf="0.95"> paix </Word>
+<Word id="1678" stime="800.57" dur="0.12" conf="0.47"> est </Word>
+<Word id="1679" stime="800.69" dur="0.08" conf="0.85"> d' </Word>
+<Word id="1680" stime="800.78" dur="0.58" conf="0.82"> accord </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="802.000" etime="808.590" spkid="S126" lang="fre" lconf="1.00" trs="1">
+<Word id="1681" stime="802.00" dur="0.30" conf="1.00"> le </Word>
+<Word id="1682" stime="802.30" dur="0.38" conf="0.79"> sauraient </Word>
+<Word id="1683" stime="802.68" dur="0.20" conf="0.73"> lier </Word>
+<Word id="1684" stime="802.88" dur="0.26" conf="0.43"> tort </Word>
+<Word id="1685" stime="803.14" dur="0.51" conf="0.53"> oublier </Word>
+<Word id="1686" stime="803.68" dur="0.12" conf="1.00"> les </Word>
+<Word id="1687" stime="803.80" dur="0.51" conf="1.00"> leçons </Word>
+<Word id="1688" stime="804.34" dur="0.18" conf="1.00"> du </Word>
+<Word id="1689" stime="804.55" dur="0.48" conf="1.00"> passé </Word>
+<Word id="1690" stime="805.78" dur="0.16" conf="0.75"> il </Word>
+<Word id="1691" stime="806.03" dur="0.09" conf="0.72"> est </Word>
+<Word id="1692" stime="806.15" dur="0.30" conf="0.60"> content </Word>
+<Word id="1693" stime="806.80" dur="0.09" conf="0.97"> de </Word>
+<Word id="1694" stime="806.89" dur="0.12" conf="1.00"> la </Word>
+<Word id="1695" stime="807.01" dur="0.57" conf="0.96"> prudence </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="808.590" etime="823.620" spkid="S126" lang="fre" lconf="1.00" trs="1">
+<Word id="1696" stime="808.80" dur="0.12" conf="0.95"> et </Word>
+<Word id="1697" stime="808.95" dur="0.57" conf="0.99"> pourquoi </Word>
+<Word id="1698" stime="810.24" dur="0.21" conf="0.92"> elle </Word>
+<Word id="1699" stime="810.49" dur="0.31" conf="0.66"> donne </Word>
+<Word id="1700" stime="810.82" dur="0.31" conf="0.68"> à </Word>
+<Word id="1701" stime="811.32" dur="0.87" conf="0.92"> réfléchir </Word>
+<Word id="1702" stime="813.06" dur="0.67" conf="0.35"> intéressé </Word>
+<Word id="1703" stime="813.83" dur="0.23" conf="0.37"> dit </Word>
+<Word id="1704" stime="814.11" dur="0.21" conf="1.00"> de </Word>
+<Word id="1705" stime="814.56" dur="0.24" conf="0.11"> valeurs </Word>
+<Word id="1706" stime="814.84" dur="0.12" conf="0.97"> qui </Word>
+<Word id="1707" stime="814.96" dur="0.29" conf="0.94"> ont </Word>
+<Word id="1708" stime="815.64" dur="0.19" conf="0.68"> ou </Word>
+<Word id="1709" stime="815.88" dur="1.05" conf="0.80"> propositions </Word>
+<Word id="1710" stime="817.67" dur="0.21" conf="0.98"> dont </Word>
+<Word id="1711" stime="817.89" dur="0.08" conf="0.36"> le </Word>
+<Word id="1712" stime="817.97" dur="0.24" conf="0.35"> haka </Word>
+<Word id="1713" stime="818.21" dur="0.11" conf="0.54"> et </Word>
+<Word id="1714" stime="818.32" dur="0.24" conf="0.54"> trois </Word>
+<Word id="1715" stime="818.57" dur="0.22" conf="0.50"> autres </Word>
+<Word id="1716" stime="818.82" dur="0.21" conf="0.73"> quoi </Word>
+<Word id="1717" stime="819.03" dur="0.22" conf="0.92"> on </Word>
+<Word id="1718" stime="819.30" dur="0.18" conf="0.91"> commence </Word>
+<Word id="1719" stime="819.54" dur="0.19" conf="0.99"> par </Word>
+<Word id="1720" stime="819.73" dur="0.05" conf="0.65"> la </Word>
+<Word id="1721" stime="819.78" dur="0.21" conf="0.84"> peur </Word>
+<Word id="1722" stime="819.99" dur="0.07" conf="0.87"> et </Word>
+<Word id="1723" stime="820.09" dur="0.18" conf="0.36"> l' </Word>
+<Word id="1724" stime="820.48" dur="0.20" conf="0.31"> est </Word>
+<Word id="1725" stime="820.72" dur="0.23" conf="0.49"> le </Word>
+<Word id="1726" stime="820.98" dur="0.36" conf="0.37"> sens </Word>
+<Word id="1727" stime="821.68" dur="0.13" conf="0.73"> et </Word>
+<Word id="1728" stime="821.88" dur="0.15" conf="0.70"> de </Word>
+<Word id="1729" stime="822.12" dur="0.12" conf="0.56"> et </Word>
+<Word id="1730" stime="822.27" dur="0.12" conf="0.59"> qu' </Word>
+<Word id="1731" stime="822.39" dur="0.20" conf="0.78"> on </Word>
+<Word id="1732" stime="822.66" dur="0.24" conf="0.54"> salue </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="823.620" etime="831.010" spkid="S132" lang="fre" lconf="1.00" trs="1">
+<Word id="1733" stime="823.62" dur="0.38" conf="0.98"> quand </Word>
+<Word id="1734" stime="824.00" dur="0.09" conf="0.98"> on </Word>
+<Word id="1735" stime="824.09" dur="0.16" conf="0.86"> lui </Word>
+<Word id="1736" stime="824.25" dur="0.93" conf="0.98"> suggère </Word>
+<Word id="1737" stime="825.66" dur="0.18" conf="1.00"> de </Word>
+<Word id="1738" stime="825.84" dur="0.69" conf="1.00"> réduire </Word>
+<Word id="1739" stime="826.53" dur="0.69" conf="1.00"> encore </Word>
+<Word id="1740" stime="827.25" dur="0.25" conf="0.65"> ces </Word>
+<Word id="1741" stime="827.57" dur="0.56" conf="0.49"> jargonnant </Word>
+<Word id="1742" stime="828.87" dur="0.63" conf="1.00"> déjà </Word>
+<Word id="1743" stime="829.71" dur="0.54" conf="1.00"> fortement </Word>
+<Word id="1744" stime="830.25" dur="0.75" conf="0.55"> diminué </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="831.010" etime="848.230" spkid="S132" lang="fre" lconf="1.00" trs="1">
+<Word id="1745" stime="831.70" dur="0.12" conf="1.00"> au </Word>
+<Word id="1746" stime="831.82" dur="0.39" conf="1.00"> moment </Word>
+<Word id="1747" stime="832.21" dur="0.47" conf="1.00"> même </Word>
+<Word id="1748" stime="832.69" dur="0.24" conf="0.99"> ceux </Word>
+<Word id="1749" stime="832.93" dur="0.18" conf="1.00"> qui </Word>
+<Word id="1750" stime="833.11" dur="0.09" conf="1.00"> ont </Word>
+<Word id="1751" stime="833.20" dur="0.51" conf="0.99"> ravagé </Word>
+<Word id="1752" stime="833.71" dur="0.24" conf="1.00"> son </Word>
+<Word id="1753" stime="833.98" dur="0.87" conf="1.00"> territoire </Word>
+<Word id="1754" stime="835.42" dur="0.12" conf="0.93"> et </Word>
+<Word id="1755" stime="835.54" dur="0.41" conf="0.97"> contre </Word>
+<Word id="1756" stime="835.95" dur="0.49" conf="0.70"> lesquels </Word>
+<Word id="1757" stime="836.47" dur="0.14" conf="0.98"> elle </Word>
+<Word id="1758" stime="836.62" dur="0.06" conf="1.00"> a </Word>
+<Word id="1759" stime="836.68" dur="0.18" conf="1.00"> dû </Word>
+<Word id="1760" stime="836.86" dur="0.18" conf="1.00"> se </Word>
+<Word id="1761" stime="837.04" dur="0.69" conf="1.00"> défendre </Word>
+<Word id="1762" stime="837.73" dur="0.27" conf="1.00"> avec </Word>
+<Word id="1763" stime="838.00" dur="0.06" conf="1.00"> l' </Word>
+<Word id="1764" stime="838.06" dur="0.48" conf="1.00"> énergie </Word>
+<Word id="1765" stime="838.54" dur="0.15" conf="1.00"> du </Word>
+<Word id="1766" stime="838.69" dur="0.93" conf="1.00"> désespoir </Word>
+<Word id="1767" stime="840.25" dur="0.84" conf="0.83"> augmente </Word>
+<Word id="1768" stime="841.21" dur="1.14" conf="1.00"> considérablement </Word>
+<Word id="1769" stime="842.39" dur="0.21" conf="0.30"> d' </Word>
+<Word id="1770" stime="843.03" dur="0.41" conf="0.25"> ont </Word>
+<Word id="1771" stime="843.86" dur="0.79" conf="0.45"> contrairement </Word>
+<Word id="1772" stime="844.68" dur="0.09" conf="0.93"> au </Word>
+<Word id="1773" stime="844.78" dur="0.47" conf="0.93"> traité </Word>
+<Word id="1774" stime="845.26" dur="0.15" conf="0.99"> de </Word>
+<Word id="1775" stime="845.41" dur="0.42" conf="0.99"> paix </Word>
+<Word id="1776" stime="846.19" dur="0.18" conf="0.90"> et </Word>
+<Word id="1777" stime="846.37" dur="0.42" conf="1.00"> sans </Word>
+<Word id="1778" stime="846.79" dur="0.39" conf="1.00"> aucune </Word>
+<Word id="1779" stime="847.18" dur="1.05" conf="1.00"> autorisation </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="848.960" etime="865.320" spkid="S132" lang="fre" lconf="1.00" trs="1">
+<Word id="1780" stime="849.20" dur="0.18" conf="0.90"> tout </Word>
+<Word id="1781" stime="849.38" dur="0.12" conf="0.98"> le </Word>
+<Word id="1782" stime="849.50" dur="0.19" conf="0.49"> nom </Word>
+<Word id="1783" stime="849.71" dur="0.33" conf="0.53"> de </Word>
+<Word id="1784" stime="850.04" dur="0.81" conf="0.98"> comprendra </Word>
+<Word id="1785" stime="851.67" dur="0.08" conf="0.94"> qu' </Word>
+<Word id="1786" stime="851.75" dur="0.18" conf="0.78"> elle </Word>
+<Word id="1787" stime="851.93" dur="0.54" conf="0.78"> éprouve </Word>
+<Word id="1788" stime="852.47" dur="0.12" conf="1.00"> le </Word>
+<Word id="1789" stime="852.59" dur="0.63" conf="1.00"> besoin </Word>
+<Word id="1790" stime="853.25" dur="0.06" conf="1.00"> d' </Word>
+<Word id="1791" stime="853.31" dur="0.24" conf="1.00"> une </Word>
+<Word id="1792" stime="853.55" dur="0.18" conf="1.00"> plus </Word>
+<Word id="1793" stime="853.73" dur="0.60" conf="1.00"> grande </Word>
+<Word id="1794" stime="854.33" dur="0.84" conf="1.00"> sécurité </Word>
+<Word id="1795" stime="856.01" dur="0.31" conf="0.80"> claude </Word>
+<Word id="1796" stime="856.32" dur="0.42" conf="0.56"> oma </Word>
+<Word id="1797" stime="856.79" dur="0.15" conf="0.64"> de </Word>
+<Word id="1798" stime="856.96" dur="0.25" conf="1.00"> des </Word>
+<Word id="1799" stime="857.21" dur="0.99" conf="1.00"> éclaircissements </Word>
+<Word id="1800" stime="858.95" dur="0.15" conf="0.95"> et </Word>
+<Word id="1801" stime="859.10" dur="0.11" conf="0.91"> qu' </Word>
+<Word id="1802" stime="859.21" dur="0.17" conf="0.76"> elle </Word>
+<Word id="1803" stime="859.38" dur="0.53" conf="0.80"> cherche </Word>
+<Word id="1804" stime="859.94" dur="0.09" conf="1.00"> à </Word>
+<Word id="1805" stime="860.03" dur="0.78" conf="1.00"> obtenir </Word>
+<Word id="1806" stime="861.38" dur="0.30" conf="1.00"> des </Word>
+<Word id="1807" stime="861.68" dur="0.65" conf="1.00"> garanties </Word>
+<Word id="1808" stime="862.37" dur="0.12" conf="1.00"> de </Word>
+<Word id="1809" stime="862.49" dur="0.27" conf="1.00"> plus </Word>
+<Word id="1810" stime="862.76" dur="0.15" conf="1.00"> en </Word>
+<Word id="1811" stime="862.94" dur="0.27" conf="1.00"> plus </Word>
+<Word id="1812" stime="863.24" dur="1.02" conf="0.89"> précises </Word>
+<Word id="1813" stime="864.26" dur="0.11" conf="0.81"> et </Word>
+<Word id="1814" stime="864.38" dur="0.69" conf="0.66"> sérieux </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="865.950" etime="883.200" spkid="S132" lang="fre" lconf="1.00" trs="1">
+<Word id="1815" stime="866.19" dur="0.21" conf="1.00"> la </Word>
+<Word id="1816" stime="866.40" dur="0.63" conf="1.00"> france </Word>
+<Word id="1817" stime="867.09" dur="0.60" conf="0.99"> xavier </Word>
+<Word id="1818" stime="867.99" dur="0.15" conf="0.61"> est </Word>
+<Word id="1819" stime="868.17" dur="0.23" conf="0.52"> dure </Word>
+<Word id="1820" stime="868.43" dur="0.14" conf="0.84"> et </Word>
+<Word id="1821" stime="869.56" dur="0.17" conf="0.89"> elle </Word>
+<Word id="1822" stime="869.78" dur="0.10" conf="0.90"> a </Word>
+<Word id="1823" stime="869.88" dur="0.84" conf="1.00"> conscience </Word>
+<Word id="1824" stime="871.25" dur="0.15" conf="0.75"> de </Word>
+<Word id="1825" stime="871.55" dur="0.79" conf="0.44"> représenter </Word>
+<Word id="1826" stime="872.34" dur="0.15" conf="1.00"> dans </Word>
+<Word id="1827" stime="872.49" dur="0.12" conf="1.00"> le </Word>
+<Word id="1828" stime="872.61" dur="0.60" conf="1.00"> monde </Word>
+<Word id="1829" stime="873.75" dur="0.21" conf="1.00"> par </Word>
+<Word id="1830" stime="873.96" dur="0.24" conf="1.00"> son </Word>
+<Word id="1831" stime="874.20" dur="0.30" conf="0.78"> grand </Word>
+<Word id="1832" stime="874.50" dur="0.57" conf="0.29"> passé </Word>
+<Word id="1833" stime="875.79" dur="0.18" conf="1.00"> par </Word>
+<Word id="1834" stime="875.97" dur="0.18" conf="1.00"> sa </Word>
+<Word id="1835" stime="876.15" dur="0.72" conf="1.00"> culture </Word>
+<Word id="1836" stime="877.61" dur="0.15" conf="0.71"> par </Word>
+<Word id="1837" stime="877.77" dur="0.21" conf="0.92"> les </Word>
+<Word id="1838" stime="878.01" dur="0.98" conf="0.95"> témoignages </Word>
+<Word id="1839" stime="878.99" dur="0.05" conf="0.90"> qu' </Word>
+<Word id="1840" stime="879.05" dur="0.16" conf="0.90"> elle </Word>
+<Word id="1841" stime="879.21" dur="0.06" conf="0.95"> a </Word>
+<Word id="1842" stime="879.27" dur="0.30" conf="0.75"> donné </Word>
+<Word id="1843" stime="879.57" dur="0.12" conf="1.00"> de </Word>
+<Word id="1844" stime="879.69" dur="0.24" conf="0.97"> son </Word>
+<Word id="1845" stime="879.97" dur="0.71" conf="0.63"> courage </Word>
+<Word id="1846" stime="881.19" dur="0.12" conf="0.88"> et </Word>
+<Word id="1847" stime="881.31" dur="0.36" conf="1.00"> aussi </Word>
+<Word id="1848" stime="881.67" dur="0.06" conf="0.96"> de </Word>
+<Word id="1849" stime="881.73" dur="0.21" conf="1.00"> son </Word>
+<Word id="1850" stime="881.94" dur="0.81" conf="0.61"> agrégation </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="883.200" etime="888.210" spkid="S132" lang="fre" lconf="1.00" trs="1">
+<Word id="1851" stime="883.64" dur="0.20" conf="0.95"> par </Word>
+<Word id="1852" stime="883.85" dur="0.16" conf="0.89"> la </Word>
+<Word id="1853" stime="884.01" dur="0.28" conf="0.14"> route </Word>
+<Word id="1854" stime="884.34" dur="0.90" conf="0.65"> civilisation </Word>
+<Word id="1855" stime="885.26" dur="0.13" conf="0.79"> qu' </Word>
+<Word id="1856" stime="885.40" dur="0.20" conf="0.43"> elle </Word>
+<Word id="1857" stime="885.61" dur="0.17" conf="0.45"> veut </Word>
+<Word id="1858" stime="885.80" dur="0.91" conf="1.00"> maintenir </Word>
+<Word id="1859" stime="886.80" dur="0.15" conf="0.97"> et </Word>
+<Word id="1860" stime="886.98" dur="0.78" conf="1.00"> défendre </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="888.210" etime="890.220" spkid="S132" lang="fre" lconf="1.00" trs="1">
+<Word id="1861" stime="888.48" dur="0.15" conf="0.89"> un </Word>
+<Word id="1862" stime="888.63" dur="0.52" conf="0.97"> élément </Word>
+<Word id="1863" stime="889.21" dur="0.09" conf="0.90"> qui </Word>
+<Word id="1864" stime="889.35" dur="0.14" conf="0.92"> est </Word>
+<Word id="1865" stime="889.53" dur="0.69" conf="0.99"> important </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="890.430" etime="901.830" spkid="S132" lang="fre" lconf="1.00" trs="1">
+<Word id="1866" stime="890.67" dur="0.18" conf="1.00"> de </Word>
+<Word id="1867" stime="890.85" dur="0.36" conf="0.99"> part </Word>
+<Word id="1868" stime="891.42" dur="0.12" conf="1.00"> et </Word>
+<Word id="1869" stime="891.54" dur="0.06" conf="0.98"> d' </Word>
+<Word id="1870" stime="891.60" dur="0.10" conf="0.91"> autre </Word>
+<Word id="1871" stime="891.75" dur="0.44" conf="0.46"> progressent </Word>
+<Word id="1872" stime="893.32" dur="0.18" conf="0.70"> elle </Word>
+<Word id="1873" stime="893.52" dur="0.22" conf="0.86"> une </Word>
+<Word id="1874" stime="893.78" dur="0.41" conf="0.85"> bonne </Word>
+<Word id="1875" stime="894.27" dur="0.30" conf="0.86"> idée </Word>
+<Word id="1876" stime="894.57" dur="0.05" conf="0.45"> a </Word>
+<Word id="1877" stime="894.63" dur="0.15" conf="0.46"> été </Word>
+<Word id="1878" stime="894.81" dur="0.54" conf="0.48"> dominé </Word>
+<Word id="1879" stime="896.13" dur="0.22" conf="0.14"> mieux </Word>
+<Word id="1880" stime="896.37" dur="0.69" conf="0.99"> déchoir </Word>
+<Word id="1881" stime="897.41" dur="0.25" conf="0.23"> miss </Word>
+<Word id="1882" stime="897.68" dur="0.62" conf="0.28"> abandonner </Word>
+<Word id="1883" stime="899.29" dur="0.20" conf="0.73"> elle </Word>
+<Word id="1884" stime="899.54" dur="0.20" conf="0.87"> ne </Word>
+<Word id="1885" stime="899.74" dur="0.19" conf="0.38"> veut </Word>
+<Word id="1886" stime="899.97" dur="0.33" conf="0.56"> écume </Word>
+<Word id="1887" stime="900.30" dur="0.36" conf="0.44"> irriguer </Word>
+<Word id="1888" stime="900.68" dur="0.60" conf="0.80"> personne </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="901.830" etime="905.710" spkid="S132" lang="fre" lconf="1.00" trs="1">
+<Word id="1889" stime="902.40" dur="0.29" conf="0.99"> elle </Word>
+<Word id="1890" stime="902.70" dur="0.46" conf="0.89"> tient </Word>
+<Word id="1891" stime="903.28" dur="0.13" conf="0.92"> à </Word>
+<Word id="1892" stime="903.42" dur="0.73" conf="0.94"> conserver </Word>
+<Word id="1893" stime="904.17" dur="0.15" conf="1.00"> la </Word>
+<Word id="1894" stime="904.32" dur="1.38" conf="0.99"> considération </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="905.710" etime="922.770" spkid="S132" lang="fre" lconf="1.00" trs="1">
+<Word id="1895" stime="906.06" dur="0.19" conf="0.54"> leurs </Word>
+<Word id="1896" stime="906.31" dur="0.61" conf="0.53"> respects </Word>
+<Word id="1897" stime="907.45" dur="0.09" conf="0.99"> et </Word>
+<Word id="1898" stime="907.54" dur="0.24" conf="1.00"> les </Word>
+<Word id="1899" stime="907.78" dur="0.19" conf="0.93"> amis </Word>
+<Word id="1900" stime="908.00" dur="0.31" conf="0.26"> vieilles </Word>
+<Word id="1901" stime="908.83" dur="0.09" conf="0.88"> qu' </Word>
+<Word id="1902" stime="908.96" dur="0.19" conf="0.90"> elle </Word>
+<Word id="1903" stime="909.16" dur="0.06" conf="0.97"> a </Word>
+<Word id="1904" stime="909.22" dur="0.48" conf="0.96"> trouvé </Word>
+<Word id="1905" stime="909.70" dur="0.30" conf="0.96"> tout </Word>
+<Word id="1906" stime="910.00" dur="0.27" conf="0.80"> près </Word>
+<Word id="1907" stime="910.27" dur="0.09" conf="0.83"> d' </Word>
+<Word id="1908" stime="910.36" dur="0.24" conf="0.48"> art </Word>
+<Word id="1909" stime="910.63" dur="0.18" conf="1.00"> dans </Word>
+<Word id="1910" stime="910.81" dur="0.06" conf="1.00"> le </Word>
+<Word id="1911" stime="910.87" dur="0.33" conf="1.00"> monde </Word>
+<Word id="1912" stime="912.22" dur="0.09" conf="0.76"> c' </Word>
+<Word id="1913" stime="912.37" dur="0.11" conf="0.79"> est </Word>
+<Word id="1914" stime="912.61" dur="0.14" conf="0.50"> de </Word>
+<Word id="1915" stime="912.77" dur="0.53" conf="0.94"> france </Word>
+<Word id="1916" stime="913.32" dur="0.21" conf="0.64"> nos </Word>
+<Word id="1917" stime="913.55" dur="0.48" conf="0.65"> amis </Word>
+<Word id="1918" stime="914.68" dur="0.14" conf="1.00"> que </Word>
+<Word id="1919" stime="914.84" dur="0.42" conf="0.67"> jamais </Word>
+<Word id="1920" stime="915.40" dur="0.09" conf="0.95"> au </Word>
+<Word id="1921" stime="915.49" dur="0.36" conf="0.99"> dessus </Word>
+<Word id="1922" stime="915.85" dur="0.12" conf="1.00"> de </Word>
+<Word id="1923" stime="915.97" dur="0.27" conf="0.96"> tout </Word>
+<Word id="1924" stime="917.05" dur="0.34" conf="0.88"> acquis </Word>
+<Word id="1925" stime="917.44" dur="0.15" conf="0.98"> je </Word>
+<Word id="1926" stime="917.59" dur="0.12" conf="0.91"> me </Word>
+<Word id="1927" stime="917.73" dur="0.28" conf="0.37"> chagrine </Word>
+<Word id="1928" stime="918.05" dur="0.39" conf="0.14"> agriculteur </Word>
+<Word id="1929" stime="918.45" dur="0.25" conf="0.87"> moi </Word>
+<Word id="1930" stime="918.71" dur="0.29" conf="0.86"> même </Word>
+<Word id="1931" stime="919.02" dur="0.08" conf="0.81"> s' </Word>
+<Word id="1932" stime="919.11" dur="0.16" conf="0.75"> il </Word>
+<Word id="1933" stime="919.26" dur="0.08" conf="0.63"> le </Word>
+<Word id="1934" stime="919.38" dur="0.31" conf="0.67"> fallait </Word>
+<Word id="1935" stime="920.65" dur="0.08" conf="0.93"> j' </Word>
+<Word id="1936" stime="920.77" dur="0.09" conf="0.93"> ai </Word>
+<Word id="1937" stime="920.86" dur="0.93" conf="0.99"> conscience </Word>
+<Word id="1938" stime="921.81" dur="0.25" conf="0.76"> doit </Word>
+<Word id="1939" stime="922.20" dur="0.44" conf="0.60"> servir </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="922.770" etime="939.980" spkid="S153" lang="fre" lconf="1.00" trs="1">
+<Word id="1940" stime="922.78" dur="0.49" conf="0.36"> maman </Word>
+<Word id="1941" stime="924.30" dur="0.09" conf="0.99"> je </Word>
+<Word id="1942" stime="924.39" dur="0.31" conf="0.85"> vais </Word>
+<Word id="1943" stime="924.80" dur="0.15" conf="0.69"> me </Word>
+<Word id="1944" stime="925.00" dur="0.66" conf="0.85"> souvenir </Word>
+<Word id="1945" stime="926.24" dur="0.09" conf="0.87"> qu' </Word>
+<Word id="1946" stime="926.38" dur="0.16" conf="0.89"> elle </Word>
+<Word id="1947" stime="926.55" dur="0.09" conf="0.97"> a </Word>
+<Word id="1948" stime="926.64" dur="0.28" conf="0.97"> été </Word>
+<Word id="1949" stime="926.93" dur="0.31" conf="0.66"> très </Word>
+<Word id="1950" stime="928.50" dur="0.18" conf="1.00"> je </Word>
+<Word id="1951" stime="928.68" dur="0.57" conf="1.00"> demande </Word>
+<Word id="1952" stime="929.25" dur="0.06" conf="1.00"> à </Word>
+<Word id="1953" stime="929.31" dur="0.24" conf="1.00"> tous </Word>
+<Word id="1954" stime="929.55" dur="0.12" conf="1.00"> les </Word>
+<Word id="1955" stime="929.72" dur="0.57" conf="0.94"> français </Word>
+<Word id="1956" stime="931.11" dur="0.45" conf="0.97"> oublier </Word>
+<Word id="1957" stime="931.56" dur="0.21" conf="0.95"> leurs </Word>
+<Word id="1958" stime="931.78" dur="0.70" conf="0.95"> querelles </Word>
+<Word id="1959" stime="932.79" dur="0.15" conf="0.97"> et </Word>
+<Word id="1960" stime="932.94" dur="0.18" conf="0.99"> leurs </Word>
+<Word id="1961" stime="933.15" dur="0.63" conf="1.00"> divisions </Word>
+<Word id="1962" stime="933.78" dur="0.57" conf="0.79"> anciennes </Word>
+<Word id="1963" stime="935.10" dur="0.18" conf="1.00"> qui </Word>
+<Word id="1964" stime="935.28" dur="0.39" conf="1.00"> sont </Word>
+<Word id="1965" stime="935.67" dur="0.15" conf="1.00"> le </Word>
+<Word id="1966" stime="935.82" dur="0.21" conf="1.00"> plus </Word>
+<Word id="1967" stime="936.15" dur="0.39" conf="1.00"> souvent </Word>
+<Word id="1968" stime="936.54" dur="0.63" conf="0.77"> causées </Word>
+<Word id="1969" stime="937.71" dur="0.19" conf="1.00"> par </Word>
+<Word id="1970" stime="937.92" dur="0.16" conf="1.00"> des </Word>
+<Word id="1971" stime="938.09" dur="0.65" conf="0.71"> différences </Word>
+<Word id="1972" stime="938.76" dur="0.15" conf="1.00"> de </Word>
+<Word id="1973" stime="938.91" dur="0.69" conf="0.99"> tempérament </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="939.980" etime="953.130" spkid="S153" lang="fre" lconf="1.00" trs="1">
+<Word id="1974" stime="940.35" dur="0.17" conf="0.94"> par </Word>
+<Word id="1975" stime="940.60" dur="0.15" conf="0.74"> des </Word>
+<Word id="1976" stime="940.75" dur="0.18" conf="0.95"> gens </Word>
+<Word id="1977" stime="940.95" dur="0.63" conf="0.38"> de </Word>
+<Word id="1978" stime="941.96" dur="0.57" conf="0.76"> mutuelle </Word>
+<Word id="1979" stime="943.28" dur="0.19" conf="0.40"> je </Word>
+<Word id="1980" stime="943.50" dur="0.35" conf="0.40"> crois </Word>
+<Word id="1981" stime="943.85" dur="0.51" conf="0.89"> aussi </Word>
+<Word id="1982" stime="944.39" dur="0.24" conf="0.99"> par </Word>
+<Word id="1983" stime="944.63" dur="0.21" conf="0.97"> des </Word>
+<Word id="1984" stime="944.85" dur="0.85" conf="0.93"> rivalités </Word>
+<Word id="1985" stime="946.25" dur="0.11" conf="0.71"> ou </Word>
+<Word id="1986" stime="946.36" dur="0.28" conf="0.59"> des </Word>
+<Word id="1987" stime="946.64" dur="0.54" conf="0.99"> ambitions </Word>
+<Word id="1988" stime="947.18" dur="0.12" conf="0.96"> de </Word>
+<Word id="1989" stime="947.30" dur="0.69" conf="0.56"> personne </Word>
+<Word id="1990" stime="948.62" dur="0.09" conf="1.00"> et </Word>
+<Word id="1991" stime="948.74" dur="0.33" conf="1.00"> non </Word>
+<Word id="1992" stime="949.10" dur="0.21" conf="0.98"> par </Word>
+<Word id="1993" stime="949.31" dur="0.18" conf="1.00"> des </Word>
+<Word id="1994" stime="949.52" dur="0.78" conf="1.00"> divergences </Word>
+<Word id="1995" stime="950.30" dur="0.12" conf="1.00"> de </Word>
+<Word id="1996" stime="950.42" dur="0.33" conf="0.91"> vues </Word>
+<Word id="1997" stime="951.20" dur="0.18" conf="1.00"> sur </Word>
+<Word id="1998" stime="951.38" dur="0.18" conf="0.98"> les </Word>
+<Word id="1999" stime="951.56" dur="0.29" conf="0.71"> idées </Word>
+<Word id="2000" stime="951.90" dur="0.60" conf="0.46"> essentiel </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="953.130" etime="959.570" spkid="S153" lang="fre" lconf="1.00" trs="1">
+<Word id="2001" stime="953.64" dur="0.40" conf="0.53"> oublier </Word>
+<Word id="2002" stime="954.06" dur="0.19" conf="0.91"> tout </Word>
+<Word id="2003" stime="954.25" dur="0.32" conf="0.88"> cela </Word>
+<Word id="2004" stime="955.35" dur="0.42" conf="0.97"> unissez </Word>
+<Word id="2005" stime="955.80" dur="0.27" conf="0.99"> vous </Word>
+<Word id="2006" stime="956.76" dur="0.42" conf="1.00"> croyez </Word>
+<Word id="2007" stime="957.18" dur="0.36" conf="0.65"> moi </Word>
+<Word id="2008" stime="957.99" dur="0.12" conf="0.82"> et </Word>
+<Word id="2009" stime="958.11" dur="0.41" conf="0.52"> entendait </Word>
+<Word id="2010" stime="958.53" dur="0.18" conf="0.93"> mon </Word>
+<Word id="2011" stime="958.71" dur="0.38" conf="0.91"> appel </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="959.570" etime="971.440" spkid="S153" lang="fre" lconf="1.00" trs="1">
+<Word id="2012" stime="960.06" dur="0.11" conf="0.59"> les </Word>
+<Word id="2013" stime="960.27" dur="0.59" conf="0.65"> français </Word>
+<Word id="2014" stime="961.49" dur="0.15" conf="1.00"> qui </Word>
+<Word id="2015" stime="961.80" dur="0.48" conf="0.63"> combattent </Word>
+<Word id="2016" stime="962.38" dur="0.60" conf="0.94"> aujourd'hui </Word>
+<Word id="2017" stime="963.05" dur="0.18" conf="1.00"> pour </Word>
+<Word id="2018" stime="963.23" dur="0.30" conf="1.00"> autre </Word>
+<Word id="2019" stime="963.53" dur="0.48" conf="1.00"> chose </Word>
+<Word id="2020" stime="964.01" dur="0.12" conf="0.95"> que </Word>
+<Word id="2021" stime="964.13" dur="0.24" conf="0.98"> pour </Word>
+<Word id="2022" stime="964.37" dur="0.06" conf="1.00"> l' </Word>
+<Word id="2023" stime="964.43" dur="0.33" conf="1.00"> union </Word>
+<Word id="2024" stime="964.79" dur="0.87" conf="0.99"> nationale </Word>
+<Word id="2025" stime="966.22" dur="0.40" conf="0.21"> reinfeld </Word>
+<Word id="2026" stime="966.73" dur="0.12" conf="0.50"> à </Word>
+<Word id="2027" stime="966.91" dur="0.17" conf="0.72"> la </Word>
+<Word id="2028" stime="967.10" dur="0.33" conf="0.45"> fois </Word>
+<Word id="2029" stime="967.43" dur="0.33" conf="0.99"> leurs </Word>
+<Word id="2030" stime="967.76" dur="0.42" conf="0.98"> intérêts </Word>
+<Word id="2031" stime="968.18" dur="0.70" conf="0.98"> personnels </Word>
+<Word id="2032" stime="968.88" dur="0.04" conf="0.52"> et </Word>
+<Word id="2033" stime="969.47" dur="0.12" conf="1.00"> et </Word>
+<Word id="2034" stime="969.60" dur="0.17" conf="1.00"> les </Word>
+<Word id="2035" stime="969.89" dur="0.45" conf="1.00"> intérêts </Word>
+<Word id="2036" stime="970.37" dur="0.12" conf="1.00"> de </Word>
+<Word id="2037" stime="970.49" dur="0.18" conf="0.84"> leur </Word>
+<Word id="2038" stime="970.73" dur="0.33" conf="1.00"> pays </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="971.440" etime="980.210" spkid="S153" lang="fre" lconf="1.00" trs="1">
+<Word id="2039" stime="972.01" dur="0.15" conf="1.00"> la </Word>
+<Word id="2040" stime="972.16" dur="0.75" conf="0.99"> division </Word>
+<Word id="2041" stime="972.91" dur="0.15" conf="1.00"> dans </Word>
+<Word id="2042" stime="973.06" dur="0.15" conf="1.00"> la </Word>
+<Word id="2043" stime="973.21" dur="0.69" conf="1.00"> nation </Word>
+<Word id="2044" stime="974.37" dur="0.12" conf="0.98"> c' </Word>
+<Word id="2045" stime="974.50" dur="0.06" conf="0.98"> est </Word>
+<Word id="2046" stime="974.56" dur="0.24" conf="0.92"> le </Word>
+<Word id="2047" stime="974.86" dur="0.42" conf="0.55"> maintien </Word>
+<Word id="2048" stime="975.31" dur="0.20" conf="1.00"> de </Word>
+<Word id="2049" stime="975.52" dur="0.12" conf="1.00"> la </Word>
+<Word id="2050" stime="975.64" dur="0.51" conf="0.99"> nation </Word>
+<Word id="2051" stime="976.77" dur="0.42" conf="0.57"> meules </Word>
+<Word id="2052" stime="977.71" dur="0.19" conf="0.53"> les </Word>
+<Word id="2053" stime="977.98" dur="0.25" conf="0.52"> voudra </Word>
+<Word id="2054" stime="978.26" dur="0.75" conf="0.69"> participer </Word>
+<Word id="2055" stime="979.02" dur="0.33" conf="0.63"> à </Word>
+<Word id="2056" stime="979.40" dur="0.25" conf="0.46"> cette </Word>
+<Word id="2057" stime="979.66" dur="0.27" conf="0.47"> une </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="980.900" etime="983.220" spkid="S166" lang="fre" lconf="1.00" trs="1">
+<Word id="2058" stime="980.90" dur="0.78" conf="0.92"> confiance </Word>
+<Word id="2059" stime="981.69" dur="0.18" conf="0.81"> en </Word>
+<Word id="2060" stime="981.89" dur="0.27" conf="1.00"> vous </Word>
+<Word id="2061" stime="982.16" dur="0.15" conf="1.00"> mes </Word>
+<Word id="2062" stime="982.31" dur="0.33" conf="1.00"> chers </Word>
+<Word id="2063" stime="982.64" dur="0.33" conf="1.00"> amis </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="983.490" etime="985.380" spkid="S166" lang="fre" lconf="1.00" trs="1">
+<Word id="2064" stime="983.73" dur="0.18" conf="0.53"> car </Word>
+<Word id="2065" stime="983.95" dur="0.26" conf="0.44"> le </Word>
+<Word id="2066" stime="984.54" dur="0.16" conf="0.71"> ma </Word>
+<Word id="2067" stime="984.75" dur="0.63" conf="1.00"> force </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="985.640" etime="987.600" spkid="S166" lang="fre" lconf="1.00" trs="1">
+<Word id="2068" stime="985.92" dur="0.07" conf="0.37"> et </Word>
+<Word id="2069" stime="986.04" dur="0.12" conf="0.65"> la </Word>
+<Word id="2070" stime="986.18" dur="0.51" conf="0.96"> raison </Word>
+<Word id="2071" stime="986.72" dur="0.06" conf="0.90"> d' </Word>
+<Word id="2072" stime="986.84" dur="0.21" conf="1.00"> être </Word>
+<Word id="2073" stime="987.04" dur="0.03" conf="0.57"> au </Word>
+<Word id="2074" stime="987.08" dur="0.51" conf="0.92"> pouvoir </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

@@ -1,0 +1,23 @@
+Please assist with reviewing and correcting errors in texts produced by automatic transcription (OCR) of historical documents. Your task is to carefully examine the following text and correct any mistakes introduced by the OCR software. The text to correct appears after the segment "TEXT TO CORRECT:". Please place the corrected version of the text after the "CORRECTED TEXT:" segment. Do not write anything else than the corrected text.
+
+TEXT TO CORRECT:
+Wir erſchrecken nicht blos vor der Zerriſſenheit, die ausaus ihrem Kamm hervor Ein Berg noch weit in den Aetherrauf hinarbeiten, ihn, wie man heut zu Tage ſagt, packendzu machen.
+
+CORRECTED TEXT:
+— 28Bir erfhresen niht blos vor ber Berriffenbeit, die au$ auß ihrem SRamm berdor GEin Berg noh mweit in ben Yether vauf hinarbeiten, ihn, wie man beut zu Zage fagt, padenb ju maden.
+
+TEXT TO CORRECT:
+JchGott zu erweitern, da die kleinen Erlebniſſe ſichSchwaͤrmeriſches und gutmuͤthig Edles in denund muthwillig zutraulicher Stimmung begannſchlug ihm gelegentlich die Fauſt in's Geſicht,im Hintergrunde ſtand, heranrief und ſagte:mehr von ſeinem Vater konnte erzaͤhlen hoͤren,Wenigſtens fuhr Heinrich wie ein wahrereigenthuͤmlichen Reiz, ich nahm Partei fuͤr ſiemanche Zierde, manches Fenſter und Geſims vonunterhalten ſchienen, indem ſie in einem großendern zu Tage traten, da machte er große Augenwendig, und daß deren in vierzig MillionenStube nie mehr betreten duͤrfe.
+
+CORRECTED TEXT:
+— Sch Öott zu ermweitern, da bdie fleinen CGrfebniffe {tch Schwärmerifehes unbd qutmütbig Coleg in ben und muthwillig zutraulier Stimmung begann IÖlug ibm gelegentlich bdie Zauft in's Geficht, im $intergrunde ffanbdb, beranrief unbd fagte: mehr von feinem Bater fonnte erzäblen bören, SSenigftens fubhr Qceinrih wie ein wabrer eigenthuüumlichen Reiz, i nahm Partei für fie mandhe Bierde, mandhes „Zenfter und Öeftmä von unterbalten {tenen, indem ffe in einem großen dern zu Zagqe trafen, da machte er große ugen mwenbdig , unbd daß beren in vierzig Deillionen Etube nic mehr betreten durfe.
+
+TEXT TO CORRECT:
+wird man denn nicht geblendet vonſoll vielmehr durch ein recht ehrwürdiges tantenhaftesAus meinem Bühnenleben.
+
+CORRECTED TEXT:
+— wird man deinm nicdt geblenbdet von \VIC vichmebr durd ein rot ebrwürbiges tantenbaftes Aus meinen Bilfnenleben.
+
+TEXT TO CORRECT:
+{{TEXT}}
+CORRECTED TEXT:

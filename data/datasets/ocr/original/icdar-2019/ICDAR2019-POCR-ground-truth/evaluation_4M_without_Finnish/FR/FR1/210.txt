@@ -1,0 +1,3 @@
+[OCR_toInput] alia similis et taliter signa pro episcopo et capitulo ecclesie Cathedralis Luconsis
+[OCR_aligned] alia similis et taliter sign@@a pro episcopo et capitulo ecclesie Cathedralis Luc@o@@nsis@
+[ GS_aligned] Alia similis et taliter signata pro episcopo et capitulo ecclesie cathedralis Lucionensis.

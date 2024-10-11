@@ -1,0 +1,23 @@
+Prosimy o pomoc w przeglądaniu i poprawianiu błędów w tekstach powstałych w wyniku automatycznej transkrypcji (OCR) dokumentów historycznych. Twoim zadaniem jest uważne przeanalizowanie poniższego tekstu i poprawienie wszelkich błędów wprowadzonych przez oprogramowanie OCR. Tekst do poprawienia pojawia się po segmencie "TEKST DO POPRAWIENIA:". Umieść poprawioną wersję tekstu po segmencie "POPRAWIONY TEKST:". Nie należy wpisywać niczego innego niż poprawiony tekst.
+
+TEKST DO POPRAWIENIA:
+No text
+
+POPRAWIONY TEKST:
+No text
+
+TEKST DO POPRAWIENIA:
+No text
+
+POPRAWIONY TEKST:
+No text
+
+TEKST DO POPRAWIENIA:
+No text
+
+POPRAWIONY TEKST:
+No text
+
+TEKST DO POPRAWIENIA:
+{{TEXT}}
+POPRAWIONY TEKST:

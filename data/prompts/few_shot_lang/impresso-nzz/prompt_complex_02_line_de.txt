@@ -1,0 +1,23 @@
+Bitte unterstützen Sie bei der Überprüfung und Korrektur von Fehlern im aus historischen Dokumenten extrahierten OCR-Text. Ihre Aufgabe besteht darin, den folgenden Text sorgfältig zu prüfen und etwaige Fehler zu beheben, die durch die OCR-Software eingeführt wurden. Der zu korrigierende Text erscheint nach dem Abschnitt "ZU KORRIGIERENDER TEXT". Bitte platzieren Sie die korrigierte Version des Textes nach dem Abschnitt "KORRIGIERTER TEXT". Schreiben Sie nichts anderes als den korrigierten Text.
+
+ZU KORRIGIERENDER TEXT:
+wohl als Thurgaus, die Eingabe von noch nicht vollendeten Berichten
+
+KORRIGIERTER TEXT:
+wohl als Thurgaus, die Eingabe von noch nicht vollendeten Berichten
+
+ZU KORRIGIERENDER TEXT:
+—rr—~r Kadolf Home --- -----
+
+KORRIGIERTER TEXT:
+Radolf Mosse
+
+ZU KORRIGIERENDER TEXT:
+oder !>/» Bot.)
+
+KORRIGIERTER TEXT:
+oder 1½ Sgr.)
+
+ZU KORRIGIERENDER TEXT:
+{{TEXT}}
+KORRIGIERTER TEXT:

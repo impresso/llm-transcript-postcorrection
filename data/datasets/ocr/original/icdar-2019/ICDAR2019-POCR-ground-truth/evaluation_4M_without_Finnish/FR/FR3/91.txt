@@ -1,0 +1,3 @@
+[OCR_toInput] ! F ' ,T:? UNI h X5' UhilL lu Article Vie Prix € I otal Thon bl.inc tlO ligne 5,5/ 0,685 kg 16,90 11,5 #001- 11,5: TOTAL : On eypece : 11,5 H rendre : 0,0 le ,x ü HT TVA Total 5,50 10,98 0,60 11,5 Utl: Maverick MERCI ET A BIENTÔT 
+[OCR_aligned] ! F ' ,T:? UNI h X5' UhilL lu Article Vie Prix € I otal Thon bl.inc tlO ligne 5,5/ 0,685 kg 16,90 11,5 #001- 11,5: TOTAL : On eypece : 11,5 H rendre : 0,0 le ,x ü HT TVA Total 5,50 10,98 0,60 11,5 Utl: Maverick MERCI ET A BIENTÔT 
+[ GS_aligned] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Article Qté Prix € @Total Thon bl@anc t10 ligne 5.5/ 0,685 kg 16,90 11,5 @@@@@ TOTAL : 11,5€ En espèce : 11,5 À rendre : 0.0 @Taux@@ HT TVA Total 5.50 10,98 0,60 11,5 Utl: Maverick MERCI ET A BIENTÔT 

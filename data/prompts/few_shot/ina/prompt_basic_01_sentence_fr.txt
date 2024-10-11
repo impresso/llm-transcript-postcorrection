@@ -1,0 +1,13 @@
+Correct the text: c' est marqué sur l' étiquette
+
+Bé, c'est marqué sur l'étiquette.
+
+Correct the text: c' est marqué sur l' étiquette
+
+Bé, c'est marqué sur l'étiquette.
+
+Correct the text: c' est marqué sur l' étiquette
+
+Bé, c'est marqué sur l'étiquette.
+
+Correct the text: {{TEXT}}

@@ -1,0 +1,23 @@
+Veuillez nous aider à réviser et à corriger les erreurs dans un texte OCR extrait de documents historiques. Votre tâche consiste à examiner attentivement le texte suivant et à corriger toute erreur introduite par le logiciel d'OCR.Le texte à corriger apparaît après le segment "TEXTE À CORRIGER". Veuillez placer la version corrigée du texte après le segment "TEXTE CORRIGÉ". Ne rien écrire d'autre que le texte corrigé.
+
+TEXTE À CORRIGER:
+Il n'y eut là-dedans ni raisonnement, ni calcul mais une force impérieuse et presque indépen-dante de ma volonté.
+
+TEXTE CORRIGÉ:
+Il n'y eut là-dedans ni raisonnement, ni calcul mais une force impérieuse et presque indépen-dante de ma volonté.
+
+TEXTE À CORRIGER:
+... son petit âne, qui, en se trouvant tout à coup au milieu des lumières du salon, avait cru devoir célébrer son entrée par le plus beau braiement qui fût jamais sorti de son gosier.
+
+TEXTE CORRIGÉ:
+. son petit âne, qui, en se trouvant tout à coup au milieu des lumières du salon, avait cru devoir célébrer son entrée par le plus beau braiement qui fût jamais sorti de son gosier.
+
+TEXTE À CORRIGER:
+Heureusement Ludovic se ravisa sans lui, l'affaire ne pouvait pas s'arranger il prit le parti de des-cendre.
+
+TEXTE CORRIGÉ:
+Heureusement Ludovic se ravisa sans lui, l'affaire ne pouvait pas s'arranger il prit le parti de des-cendre.
+
+TEXTE À CORRIGER:
+{{TEXT}}
+TEXTE CORRIGÉ:

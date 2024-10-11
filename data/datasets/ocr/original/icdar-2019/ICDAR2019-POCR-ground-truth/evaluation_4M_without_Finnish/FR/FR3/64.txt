@@ -1,0 +1,3 @@
+[OCR_toInput] BOUCHERIE PENAUD HALLES 17000 LA ROCHELLE 05 46 41 29 40 'ï i/u ifjx'i ;. l : : Bal défailli,.;' ' 4481 kg €,kg € Fil.E l MK ,NON 0,21ôn 21.05 , 53 Tare kg 0,005 Total € 4 t m t 1 Articles Vend MARYLINE MERCI DE VOTRE VISITE À 
+[OCR_aligned] BOUCHERIE PENAUD HALLES 17000 LA ROCHELLE 05 46 41 29 40 'ï i/u ifjx'i ;. l : : Bal@ défailli,.;' ' 4481 kg €,kg € Fil.E l MK ,NON 0,21ôn 21.05 , 53 Tare kg 0,005 Total € 4 t m t 1 Articles Vend MARYLINE MERCI DE VOTRE VISITE À 
+[ GS_aligned] BOUCHERIE PENAUD HALLES 17000 LA ROCHELLE 05 46 41 29 40 @@04/@@@@03/2017 @13?? Bal: defa@ult/000 @?4981 kg €,kg € F@ILE@T M@IGNON 0,215n 21.05 4,53 Tare kg 0,005 Total € 4@@@@.5 1 Articles Vend MARYLINE MERCI DE VOTRE VISITE@@@

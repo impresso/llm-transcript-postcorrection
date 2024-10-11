@@ -1,0 +1,3 @@
+[OCR_toInput] Ni im: 3576 Sérié :01 (VI) 11-01-2017 13:30:11 kg €/kg € #001 ABATS-VOI Ail I FS 0.250 8.80 2.20 TVA 5.50% Assiette(1 op) 2.09 TVA (5.50%) 0.11 TOTAI 2.20 Remis: 2.20 Change: 0.00 
+[OCR_aligned] Ni im: 3576 Sérié :01 (VI) 11-01-2017 13:30:11 kg €/kg € #001 ABATS-VOI Ail I FS 0.250 8.80 2.20 TVA 5.50% Assiette(1 op) 2.09 TVA (5.50%) 0.11 TOTAI 2.20 Remis: 2.20 Change: 0.00 
+[ GS_aligned] N@@um: 3576 Serie :01@@@@@ 11-01-2017 13:30:11 kg €/kg € #001 ABATS-VO@LA@@ILLES 0.250 8.80 2.20 TVA 5.50% Assiette(1 op) 2.09 TVA (5.50%) 0.11 TOTAL 2.20 Remis: 2.20 Change: 0.00 

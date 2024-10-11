@@ -1,0 +1,3 @@
+[OCR_toInput] TRIPERIE BOUJU MARCHE CENTRAL LA ROCHELLE Balance; 1 Client: 9 Vendeur : 4 Rayon 1 - Num Ticket : 43 kg € /kg € ONGLET 0,355 24,00 8,52 TOTAL: 8,52 1 transaction(s) 1 Artic]e(+) MERCI 
+[OCR_aligned] TRIPERIE BOUJU MARCHE CENTRAL LA ROCHELLE Balance; 1 Client: 9 Vendeur : 4 Rayon@@ 1 - Num Ticket : 43 kg € /kg € ONGLET 0,355 24,00 8,52 TOTAL: 8,52 1 transaction(s) 1 Artic]e(+) MERCI 
+[ GS_aligned] TRIPERIE BOUJU MARCHE CENTRAL LA ROCHELLE Balance: 1 Client: 9 Vendeur : 4 Rayon : 1 - Num Ticket : 43 kg € /kg € ONGLET 0,355 24,00 8,52 TOTAL: 8,52 1 transaction(s) 1 Artic]e(+) MERCI 

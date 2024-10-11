@@ -1,0 +1,23 @@
+Veuillez nous aider à réviser et à corriger les erreurs dans un texte OCR extrait de documents historiques. Votre tâche consiste à examiner attentivement le texte suivant et à corriger toute erreur introduite par le logiciel d'OCR.Le texte à corriger apparaît après le segment "TEXTE À CORRIGER". Veuillez placer la version corrigée du texte après le segment "TEXTE CORRIGÉ". Ne rien écrire d'autre que le texte corrigé.
+
+TEXTE À CORRIGER:
+No text
+
+TEXTE CORRIGÉ:
+No text
+
+TEXTE À CORRIGER:
+No text
+
+TEXTE CORRIGÉ:
+No text
+
+TEXTE À CORRIGER:
+No text
+
+TEXTE CORRIGÉ:
+No text
+
+TEXTE À CORRIGER:
+{{TEXT}}
+TEXTE CORRIGÉ:
