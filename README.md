@@ -38,7 +38,7 @@ llm-transcript-postcorrection/
 
 ```bash
 # install dependencies
-pip install -r lib/requirements.txt
+pip install -r requirements.txt
 # install transformers from the repository
 pip install git+https://github.com/huggingface/transformers
 ```
