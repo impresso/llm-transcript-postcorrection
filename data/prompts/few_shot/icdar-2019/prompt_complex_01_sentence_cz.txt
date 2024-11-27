@@ -1,0 +1,19 @@
+Correct the spelling and grammar of the following incorrect text from an optical character recognition (OCR) applied to a historical document:
+
+Incorrect text: De Adm. Im.
+
+The corrected text is:
+De Adm. Im.
+
+Incorrect text: “ „To není to, má drahá, jest v tom však jiný háček.
+
+The corrected text is:
+" „To není to, má drahá, jest v tom však jiný háček.
+
+Incorrect text: Ubi tribus turmis falangae super Winidos exer- citus ingreditur.
+
+The corrected text is:
+Ubi tribus turmis ťalangae super Winidos exer- citus ingreditur.
+
+Incorrect text: {{TEXT}}
+The corrected text is:

@@ -1,0 +1,2866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by the PDFlib Text Extraction Toolkit TET (www.pdflib.com) -->
+<TET xmlns="http://www.pdflib.com/XML/TET3/TET-3.0"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.pdflib.com/XML/TET3/TET-3.0
+ http://www.pdflib.com/XML/TET3/TET-3.0.xsd"
+ version="4.2">
+<Creation platform="Linux-x86_64" tetVersion="4.3p1" date="2018-01-22T12:01:57+01:00" />
+<Document filename="data/pdfs/nzz_18100907_0_0_a1.pdf" pageCount="1" filesize="1043059" linearized="false" pdfVersion="1.4">
+<DocInfo>
+<CreationDate>2012-10-18T10:56:41+02:00</CreationDate>
+<ModDate>2012-10-18T10:56:41+02:00</ModDate>
+<Producer>iText 2.1.0 (by lowagie.com)</Producer>
+</DocInfo>
+<Options>tetml={elements={docinfo=true docxmp=true options=true}}</Options>
+<Pages>
+<Page number="1" width="595" height="842">
+<Options>layouthint={header=true} layouteffort=extra docstyle=papers contentanalysis={bidilevel=ltr includeboxorder=1 linespacing=small punctuationbreaks=false} granularity=word layoutanalysis={layoutdetect=2 layoutrowhint={full separation=thick}} </Options>
+<Content granularity="word" dehyphenation="false" dropcap="false" font="false" geometry="false" shadow="false" sub="false" sup="false">
+<PlacedImage image="I0" x="0.00" y="127.42" width="595.00" height="714.58" />
+<Para>
+ <Word>
+  <Text>Zürcher-</Text>
+  <Box llx="35.15" lly="706.82" urx="190.35" ury="739.68"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>Fre.ytag,</Text>
+  <Box llx="80.10" lly="686.60" urx="151.44" ury="704.68"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>1</Text>
+  <Box llx="427.31" lly="769.10" urx="435.65" ury="784.10"/>
+ </Word>
+ <Word>
+  <Text>81</Text>
+  <Box llx="450.64" lly="768.87" urx="488.86" ury="803.24"/>
+ </Word>
+ <Word>
+  <Text>0.</Text>
+  <Box llx="502.22" lly="768.95" urx="525.21" ury="796.52"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>Zet</Text>
+  <Box llx="388.69" lly="706.85" urx="452.63" ury="742.25"/>
+ </Word>
+ <Word>
+  <Text>tung.</Text>
+  <Box llx="460.15" lly="717.40" urx="553.74" ury="751.06"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>den</Text>
+  <Box llx="417.51" lly="684.62" urx="435.31" ury="695.29"/>
+ </Word>
+ <Word>
+  <Text>7.</Text>
+  <Box llx="442.00" lly="682.66" urx="452.59" ury="695.36"/>
+ </Word>
+ <Word>
+  <Text>September.</Text>
+  <Box llx="459.86" lly="686.84" urx="524.01" ury="699.25"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>Gedruckt</Text>
+  <Box llx="33.71" lly="647.46" urx="69.66" ury="656.32"/>
+ </Word>
+ <Word>
+  <Text>und.»</Text>
+  <Box llx="74.05" lly="646.55" urx="100.82" ury="657.25"/>
+ </Word>
+ <Word>
+  <Text>finden</Text>
+  <Box llx="105.17" lly="646.27" urx="129.41" ury="655.17"/>
+ </Word>
+ <Word>
+  <Text>in</Text>
+  <Box llx="133.98" lly="647.51" urx="142.30" ury="658.21"/>
+ </Word>
+ <Word>
+  <Text>det</Text>
+  <Box llx="146.95" lly="647.97" urx="159.50" ury="657.00"/>
+ </Word>
+ <Word>
+  <Text>Buchhandlung</Text>
+  <Box llx="163.66" lly="649.35" urx="223.82" ury="658.76"/>
+ </Word>
+ <Word>
+  <Text>»oq</Text>
+  <Box llx="229.93" lly="648.35" urx="243.99" ury="656.78"/>
+ </Word>
+ <Word>
+  <Text>Orell,</Text>
+  <Box llx="249.81" lly="649.91" urx="282.01" ury="663.39"/>
+ </Word>
+ <Word>
+  <Text>Füßli</Text>
+  <Box llx="288.14" lly="647.15" urx="316.31" ury="659.83"/>
+ </Word>
+ <Word>
+  <Text>und</Text>
+  <Box llx="322.14" lly="648.55" urx="336.70" ury="657.28"/>
+ </Word>
+ <Word>
+  <Text>Compagnie</Text>
+  <Box llx="342.31" lly="648.95" urx="400.75" ury="660.38"/>
+ </Word>
+ <Word>
+  <Text>und</Text>
+  <Box llx="407.14" lly="646.55" urx="421.84" ury="655.36"/>
+ </Word>
+ <Word>
+  <Text>«uf</Text>
+  <Box llx="427.59" lly="645.13" urx="441.06" ury="654.82"/>
+ </Word>
+ <Word>
+  <Text>«llt«</Text>
+  <Box llx="444.59" lly="645.86" urx="463.52" ury="656.18"/>
+ </Word>
+ <Word>
+  <Text>Sch!»«...</Text>
+  <Box llx="467.64" lly="644.89" urx="503.32" ury="653.93"/>
+ </Word>
+ <Word>
+  <Text>Postämter».</Text>
+  <Box llx="506.54" lly="644.28" urx="555.98" ury="653.45"/>
+ </Word>
+</Para>
+<Table>
+ <Row>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>Türkey,</Text>
+     <Box llx="45.53" lly="623.05" urx="77.50" ury="632.64"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell colSpan="3">
+   <Para>
+    <Word>
+     <Text>(stete</Text>
+     <Box llx="89.32" lly="622.00" urx="110.75" ury="630.57"/>
+    </Word>
+    <Word>
+     <Text>Widersprüche).</Text>
+     <Box llx="114.68" lly="622.29" urx="176.84" ury="631.46"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>Schweden</Text>
+     <Box llx="189.02" lly="620.64" urx="229.55" ury="629.32"/>
+    </Word>
+    <Word>
+     <Text>(wahrscheinliche</Text>
+     <Box llx="234.25" lly="622.46" urx="299.03" ury="631.16"/>
+    </Word>
+    <Word>
+     <Text>Erhebung</Text>
+     <Box llx="303.41" lly="622.75" urx="342.00" ury="631.65"/>
+    </Word>
+    <Word>
+     <Text>des</Text>
+     <Box llx="346.34" lly="621.46" urx="358.96" ury="629.29"/>
+    </Word>
+    <Word>
+     <Text>H.</Text>
+     <Box llx="363.05" lly="619.27" urx="372.75" ury="628.97"/>
+    </Word>
+    <Word>
+     <Text>Marschalls</Text>
+     <Box llx="376.31" lly="619.75" urx="421.27" ury="629.16"/>
+    </Word>
+    <Word>
+     <Text>Bernadotte</Text>
+     <Box llx="425.29" lly="620.02" urx="471.91" ury="629.55"/>
+    </Word>
+    <Word>
+     <Text>zur</Text>
+     <Box llx="476.29" lly="618.84" urx="488.30" ury="627.49"/>
+    </Word>
+    <Word>
+     <Text>Thronfolge</Text>
+     <Box llx="492.14" lly="621.02" urx="537.07" ury="630.42"/>
+    </Word>
+    <Word>
+     <Text>»on</Text>
+     <Box llx="540.83" lly="619.68" urx="554.81" ury="628.06"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="2">
+   <Para>
+    <Word>
+     <Text>Schweden).</Text>
+     <Box llx="55.61" lly="612.00" urx="103.02" ury="620.98"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>Dänemark.</Text>
+     <Box llx="114.39" lly="610.23" urx="158.99" ury="619.35"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell colSpan="2">
+   <Para>
+    <Word>
+     <Text>Deutschland</Text>
+     <Box llx="170.58" lly="609.10" urx="220.05" ury="618.00"/>
+    </Word>
+    <Word>
+     <Text>(merkwürdigerCingang</Text>
+     <Box llx="223.02" lly="612.27" urx="316.26" ury="621.49"/>
+    </Word>
+    <Word>
+     <Text>der</Text>
+     <Box llx="319.25" lly="611.08" urx="331.58" ury="619.61"/>
+    </Word>
+    <Word>
+     <Text>Verfassungsurkunde</Text>
+     <Box llx="333.37" lly="612.18" urx="414.17" ury="620.99"/>
+    </Word>
+    <Word>
+     <Text>bes</Text>
+     <Box llx="416.64" lly="609.94" urx="429.25" ury="617.76"/>
+    </Word>
+    <Word>
+     <Text>Großherzogthums</Text>
+     <Box llx="431.92" lly="610.43" urx="503.96" ury="619.37"/>
+    </Word>
+    <Word>
+     <Text>Frankfurt).</Text>
+     <Box llx="507.12" lly="610.36" urx="554.62" ury="620.66"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Table>
+ <Row>
+  <Cell colSpan="2">
+   <Para>
+    <Word>
+     <Text>Frankreich.</Text>
+     <Box llx="55.03" lly="599.31" urx="99.54" ury="608.21"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell colSpan="3">
+   <Para>
+    <Word>
+     <Text>Spanien</Text>
+     <Box llx="110.93" lly="601.75" urx="146.34" ury="611.40"/>
+    </Word>
+    <Word>
+     <Text>und</Text>
+     <Box llx="151.85" lly="600.43" urx="166.41" ury="609.16"/>
+    </Word>
+    <Word>
+     <Text>Portugal.</Text>
+     <Box llx="172.31" lly="601.43" urx="212.73" ury="611.53"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>Neuestes.</Text>
+     <Box llx="226.19" lly="599.01" urx="265.81" ury="607.81"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="2">
+  </Cell>
+  <Cell colSpan="3">
+   <Para>
+    <Word>
+     <Text>Türkey.</Text>
+     <Box llx="134.27" lly="580.32" urx="193.55" ury="598.10"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>Auch</Text>
+     <Box llx="45.53" lly="562.68" urx="64.74" ury="571.11"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell colSpan="2">
+   <Para>
+    <Word>
+     <Text>dle</Text>
+     <Box llx="71.75" lly="562.97" urx="83.53" ury="571.80"/>
+    </Word>
+    <Word>
+     <Text>neuesten</Text>
+     <Box llx="89.90" lly="561.54" urx="123.26" ury="569.65"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>Nachrichten</Text>
+     <Box llx="129.37" lly="562.69" urx="176.96" ury="571.61"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell colSpan="2">
+   <Para>
+    <Word>
+     <Text>über</Text>
+     <Box llx="183.83" lly="562.97" urx="201.70" ury="571.90"/>
+    </Word>
+    <Word>
+     <Text>die</Text>
+     <Box llx="207.75" lly="563.26" urx="219.53" ury="572.09"/>
+    </Word>
+    <Word>
+     <Text>dortigen</Text>
+     <Box llx="225.03" lly="564.84" urx="259.35" ury="574.34"/>
+    </Word>
+    <Word>
+     <Text>Creig,</Text>
+     <Box llx="265.66" lly="565.41" urx="289.66" ury="574.41"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Table>
+ <Row>
+  <Cell colSpan="4">
+   <Para>
+    <Word>
+     <Text>denn</Text>
+     <Box llx="35.15" lly="503.04" urx="54.57" ury="511.77"/>
+    </Word>
+    <Word>
+     <Text>doch</Text>
+     <Box llx="60.51" lly="502.18" urx="76.60" ury="509.60"/>
+    </Word>
+    <Word>
+     <Text>»och</Text>
+     <Box llx="81.83" lly="502.44" urx="97.31" ury="509.58"/>
+    </Word>
+    <Word>
+     <Text>an</Text>
+     <Box llx="103.44" lly="502.70" urx="112.65" ury="510.98"/>
+    </Word>
+    <Word>
+     <Text>die</Text>
+     <Box llx="117.56" lly="502.74" urx="128.67" ury="511.07"/>
+    </Word>
+    <Word>
+     <Text>Russen</Text>
+     <Box llx="132.83" lly="501.35" urx="163.98" ury="510.54"/>
+    </Word>
+    <Word>
+     <Text>ergaben:</Text>
+     <Box llx="170.58" lly="503.01" urx="206.46" ury="512.10"/>
+    </Word>
+    <Word>
+     <Text>nach</Text>
+     <Box llx="212.36" lly="502.75" urx="228.90" ury="510.38"/>
+    </Word>
+    <Word>
+     <Text>Andern</Text>
+     <Box llx="235.12" lly="503.04" urx="264.85" ury="512.26"/>
+    </Word>
+    <Word>
+     <Text>härte</Text>
+     <Box llx="270.56" lly="502.49" urx="291.30" ury="511.59"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>sog«</Text>
+     <Box llx="34.58" lly="492.03" urx="56.28" ury="502.04"/>
+    </Word>
+    <Word>
+     <Text>der</Text>
+     <Box llx="62.81" lly="490.36" urx="74.56" ury="498.49"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>Russisch«</Text>
+     <Box llx="81.25" lly="488.67" urx="122.71" ury="497.66"/>
+    </Word>
+    <Word>
+     <Text>Obergeneral</Text>
+     <Box llx="129.08" lly="492.14" urx="178.99" ury="501.12"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>Ra.uensky</Text>
+     <Box llx="186.71" lly="492.03" urx="237.73" ury="502.83"/>
+    </Word>
+    <Word>
+     <Text>selber</Text>
+     <Box llx="244.92" lly="489.53" urx="267.49" ury="497.82"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>dem</Text>
+     <Box llx="274.88" lly="491.80" urx="291.28" ury="500.23"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Para>
+ <Word>
+  <Text>«Man</Text>
+  <Box llx="46.68" lly="424.69" urx="72.94" ury="435.19"/>
+ </Word>
+ <Word>
+  <Text>hat</Text>
+  <Box llx="77.51" lly="425.26" urx="89.89" ury="434.17"/>
+ </Word>
+ <Word>
+  <Text>ziemlich</Text>
+  <Box llx="93.64" lly="424.98" urx="125.06" ury="433.68"/>
+ </Word>
+ <Word>
+  <Text>abgeschmackte</Text>
+  <Box llx="128.51" lly="427.40" urx="183.83" ury="435.30"/>
+ </Word>
+ <Word>
+  <Text>Gerüchte</Text>
+  <Box llx="187.00" lly="424.48" urx="223.32" ury="433.31"/>
+ </Word>
+ <Word>
+  <Text>»on</Text>
+  <Box llx="227.05" lly="425.47" urx="240.86" ury="433.75"/>
+ </Word>
+ <Word>
+  <Text>den</Text>
+  <Box llx="243.47" lly="425.52" urx="256.86" ury="433.55"/>
+ </Word>
+ <Word>
+  <Text>Krieg«,</Text>
+  <Box llx="260.47" lly="426.62" urx="288.70" ury="435.53"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>vorfallen</Text>
+  <Box llx="34.00" lly="413.15" urx="71.07" ury="422.96"/>
+ </Word>
+ <Word>
+  <Text>in</Text>
+  <Box llx="76.07" lly="414.12" urx="83.77" ury="424.02"/>
+ </Word>
+ <Word>
+  <Text>unsrer</Text>
+  <Box llx="89.03" lly="413.44" urx="114.28" ury="422.35"/>
+ </Word>
+ <Word>
+  <Text>Nachbarschaft</Text>
+  <Box llx="120.44" lly="412.59" urx="176.53" ury="421.29"/>
+ </Word>
+ <Word>
+  <Text>verbreitet</Text>
+  <Box llx="182.97" lly="412.58" urx="223.44" ury="422.29"/>
+ </Word>
+ <Word>
+  <Text>;</Text>
+  <Box llx="226.76" lly="413.28" urx="229.05" ury="421.51"/>
+ </Word>
+ <Word>
+  <Text>man</Text>
+  <Box llx="237.42" lly="413.10" urx="254.67" ury="421.97"/>
+ </Word>
+ <Word>
+  <Text>hat</Text>
+  <Box llx="259.61" lly="411.72" urx="272.27" ury="420.83"/>
+ </Word>
+ <Word>
+  <Text>den</Text>
+  <Box llx="276.90" lly="413.13" urx="291.14" ury="421.67"/>
+ </Word>
+</Para>
+<Table>
+ <Row>
+  <Cell colSpan="5">
+   <Para>
+    <Word>
+     <Text>Großuessier</Text>
+     <Box llx="34.86" lly="400.82" urx="83.05" ury="409.58"/>
+    </Word>
+    <Word>
+     <Text>bereits</Text>
+     <Box llx="89.90" lly="401.62" urx="117.57" ury="410.84"/>
+    </Word>
+    <Word>
+     <Text>bis</Text>
+     <Box llx="124.47" lly="401.90" urx="136.27" ury="411.13"/>
+    </Word>
+    <Word>
+     <Text>Adrianopel</Text>
+     <Box llx="142.92" lly="402.82" urx="198.75" ury="414.50"/>
+    </Word>
+    <Word>
+     <Text>jurüMängin,</Text>
+     <Box llx="206.02" lly="402.86" urx="268.03" ury="414.73"/>
+    </Word>
+    <Word>
+     <Text>die</Text>
+     <Box llx="279.49" lly="400.75" urx="290.60" ury="409.08"/>
+    </Word>
+   </Para>
+   <Para>
+    <Word>
+     <Text>Nüssen</Text>
+     <Box llx="35.15" lly="388.39" urx="67.69" ury="397.99"/>
+    </Word>
+    <Word>
+     <Text>über</Text>
+     <Box llx="73.19" lly="389.80" urx="90.46" ury="398.43"/>
+    </Word>
+    <Word>
+     <Text>das</Text>
+     <Box llx="96.24" lly="389.80" urx="109.99" ury="398.33"/>
+    </Word>
+    <Word>
+     <Text>Gebürge</Text>
+     <Box llx="115.83" lly="391.47" urx="150.11" ury="400.28"/>
+    </Word>
+    <Word>
+     <Text>»altan</Text>
+     <Box llx="155.88" lly="389.22" urx="190.83" ury="402.05"/>
+    </Word>
+    <Word>
+     <Text>seyen,</Text>
+     <Box llx="195.64" lly="390.72" urx="222.39" ury="399.80"/>
+    </Word>
+    <Word>
+     <Text>die</Text>
+     <Box llx="230.22" lly="389.21" urx="242.01" ury="398.05"/>
+    </Word>
+    <Word>
+     <Text>Millsche</Text>
+     <Box llx="246.07" lly="386.95" urx="290.85" ury="399.35"/>
+    </Word>
+   </Para>
+   <Para>
+    <Word>
+     <Text>Armit</Text>
+     <Box llx="34.58" lly="377.02" urx="63.09" ury="389.24"/>
+    </Word>
+    <Word>
+     <Text>daselbst</Text>
+     <Box llx="68.86" lly="376.56" urx="98.69" ury="384.57"/>
+    </Word>
+    <Word>
+     <Text>umgehen,</Text>
+     <Box llx="104.59" lly="378.99" urx="145.50" ury="388.19"/>
+    </Word>
+    <Word>
+     <Text>und</Text>
+     <Box llx="154.73" lly="377.98" urx="168.97" ury="386.52"/>
+    </Word>
+    <Word>
+     <Text>abscheuliche&apos;</Text>
+     <Box llx="175.19" lly="376.31" urx="223.29" ury="384.29"/>
+    </Word>
+    <Word>
+     <Text>Engpässe</Text>
+     <Box llx="228.49" lly="378.70" urx="263.18" ury="386.50"/>
+    </Word>
+    <Word>
+     <Text>&quot;durch</Text>
+     <Box llx="265.08" lly="375.45" urx="290.41" ury="384.32"/>
+    </Word>
+   </Para>
+   <Para>
+    <Word>
+     <Text>die</Text>
+     <Box llx="34.86" lly="365.31" urx="47.17" ury="374.54"/>
+    </Word>
+    <Word>
+     <Text>Russen</Text>
+     <Box llx="53.02" lly="363.62" urx="84.48" ury="372.90"/>
+    </Word>
+    <Word>
+     <Text>besetzen</Text>
+     <Box llx="89.61" lly="363.89" urx="120.05" ury="371.39"/>
+    </Word>
+    <Word>
+     <Text>lassen,</Text>
+     <Box llx="125.63" lly="366.38" urx="151.54" ury="374.56"/>
+    </Word>
+    <Word>
+     <Text>so</Text>
+     <Box llx="158.19" lly="364.19" urx="164.74" ury="370.39"/>
+    </Word>
+    <Word>
+     <Text>daß</Text>
+     <Box llx="171.44" lly="363.90" urx="184.88" ury="371.70"/>
+    </Word>
+    <Word>
+     <Text>die</Text>
+     <Box llx="191.03" lly="365.03" urx="202.53" ury="373.65"/>
+    </Word>
+    <Word>
+     <Text>armen</Text>
+     <Box llx="207.17" lly="365.27" urx="232.31" ury="374.14"/>
+    </Word>
+    <Word>
+     <Text>Virten,</Text>
+     <Box llx="237.42" lly="366.09" urx="276.09" ury="379.47"/>
+    </Word>
+    <Word>
+     <Text>iu</Text>
+     <Box llx="282.66" lly="364.45" urx="290.15" ury="374.08"/>
+    </Word>
+   </Para>
+   <Para>
+    <Word>
+     <Text>Ver.cglnyeit,</Text>
+     <Box llx="34.29" lly="354.59" urx="93.22" ury="365.30"/>
+    </Word>
+    <Word>
+     <Text>wohin</Text>
+     <Box llx="100.27" lly="352.64" urx="124.35" ury="361.86"/>
+    </Word>
+    <Word>
+     <Text>sie</Text>
+     <Box llx="130.53" lly="352.37" urx="139.35" ury="359.27"/>
+    </Word>
+    <Word>
+     <Text>sich</Text>
+     <Box llx="145.80" lly="352.09" urx="157.53" ury="358.69"/>
+    </Word>
+    <Word>
+     <Text>wenden</Text>
+     <Box llx="162.80" lly="352.91" urx="192.67" ury="361.44"/>
+    </Word>
+    <Word>
+     <Text>sollen,</Text>
+     <Box llx="198.24" lly="353.30" urx="225.12" ury="362.60"/>
+    </Word>
+    <Word>
+     <Text>ihre</Text>
+     <Box llx="230.51" lly="352.36" urx="245.36" ury="361.27"/>
+    </Word>
+    <Word>
+     <Text>Route</Text>
+     <Box llx="249.53" lly="352.63" urx="274.16" ury="361.86"/>
+    </Word>
+    <Word>
+     <Text>getode</Text>
+     <Box llx="278.34" lly="353.10" urx="290.07" ury="361.22"/>
+     <Box llx="34.29" lly="341.39" urx="52.25" ury="350.62"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="4">
+  </Cell>
+  <Cell>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell>
+  </Cell>
+  <Cell colSpan="4">
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="3">
+  </Cell>
+  <Cell colSpan="2">
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="2">
+  </Cell>
+  <Cell colSpan="3">
+  </Cell>
+ </Row>
+</Table>
+<Table>
+ <Row>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>nach</Text>
+     <Box llx="58.20" lly="340.81" urx="74.31" ury="348.24"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell colSpan="6">
+   <Para>
+    <Word>
+     <Text>Augsburg</Text>
+     <Box llx="92.49" lly="341.71" urx="141.37" ury="353.13"/>
+    </Word>
+    <Word>
+     <Text>nehmen</Text>
+     <Box llx="147.24" lly="340.25" urx="177.66" ury="348.67"/>
+    </Word>
+    <Word>
+     <Text>wollten,</Text>
+     <Box llx="183.54" lly="341.54" urx="217.91" ury="351.68"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell colSpan="2">
+   <Para>
+    <Word>
+     <Text>weil</Text>
+     <Box llx="225.90" lly="340.81" urx="242.31" ury="350.34"/>
+    </Word>
+    <Word>
+     <Text>auch</Text>
+     <Box llx="246.93" lly="339.39" urx="263.21" ury="346.90"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>sog«</Text>
+     <Box llx="269.69" lly="341.62" urx="289.44" ury="350.73"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="6">
+   <Para>
+    <Word>
+     <Text>die</Text>
+     <Box llx="34.00" lly="329.00" urx="47.51" ury="339.13"/>
+    </Word>
+    <Word>
+     <Text>undi.rmhclz!geu</Text>
+     <Box llx="53.88" lly="330.38" urx="118.18" ury="339.49"/>
+    </Word>
+    <Word>
+     <Text>Rosaken</Text>
+     <Box llx="124.19" lly="327.59" urx="163.26" ury="337.49"/>
+    </Word>
+    <Word>
+     <Text>ron</Text>
+     <Box llx="169.42" lly="328.66" urx="183.12" ury="338.14"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell colSpan="4">
+   <Para>
+    <Word>
+     <Text>Frankfnit</Text>
+     <Box llx="200.25" lly="326.45" urx="248.84" ury="338.94"/>
+    </Word>
+    <Word>
+     <Text>aus</Text>
+     <Box llx="254.42" lly="327.84" urx="268.19" ury="336.38"/>
+    </Word>
+    <Word>
+     <Text>ihre</Text>
+     <Box llx="274.31" lly="327.01" urx="289.50" ury="336.12"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="6">
+   <Para>
+    <Word>
+     <Text>Sprecken</Text>
+     <Box llx="33.71" lly="318.35" urx="74.34" ury="327.97"/>
+    </Word>
+    <Word>
+     <Text>bis</Text>
+     <Box llx="82.12" lly="316.62" urx="93.52" ury="325.54"/>
+    </Word>
+    <Word>
+     <Text>nach</Text>
+     <Box llx="100.27" lly="315.77" urx="116.96" ury="323.47"/>
+    </Word>
+    <Word>
+     <Text>Adrianopel</Text>
+     <Box llx="125.34" lly="318.02" urx="180.64" ury="329.59"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell colSpan="4">
+   <Para>
+    <Word>
+     <Text>verbreitet</Text>
+     <Box llx="187.29" lly="315.76" urx="227.80" ury="325.48"/>
+    </Word>
+    <Word>
+     <Text>hatlen.</Text>
+     <Box llx="235.12" lly="314.33" urx="263.04" ury="323.63"/>
+    </Word>
+    <Word>
+     <Text>«</Text>
+     <Box llx="276.90" lly="315.29" urx="280.01" ury="320.89"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell>
+  </Cell>
+  <Cell>
+  </Cell>
+  <Cell colSpan="2">
+  </Cell>
+  <Cell colSpan="4">
+  </Cell>
+  <Cell>
+  </Cell>
+  <Cell>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="10">
+   <Para>
+    <Word>
+     <Text>gebiehrt</Text>
+     <Box llx="32.27" lly="305.40" urx="67.75" ury="315.22"/>
+    </Word>
+    <Word>
+     <Text>d«</Text>
+     <Box llx="72.61" lly="304.51" urx="84.99" ury="315.64"/>
+    </Word>
+    <Word>
+     <Text>Verg</Text>
+     <Box llx="89.03" lly="305.63" urx="109.66" ury="315.40"/>
+    </Word>
+    <Word>
+     <Text>oft</Text>
+     <Box llx="114.10" lly="303.37" urx="125.02" ury="313.19"/>
+    </Word>
+    <Word>
+     <Text>eine</Text>
+     <Box llx="128.80" lly="304.81" urx="144.90" ury="313.33"/>
+    </Word>
+    <Word>
+     <Text>Maus,</Text>
+     <Box llx="150.12" lly="305.47" urx="179.77" ury="316.36"/>
+    </Word>
+    <Word>
+     <Text>und</Text>
+     <Box llx="185.85" lly="304.21" urx="200.76" ury="313.15"/>
+    </Word>
+    <Word>
+     <Text>das</Text>
+     <Box llx="205.44" lly="303.64" urx="219.84" ury="312.57"/>
+    </Word>
+    <Word>
+     <Text>Ganze</Text>
+     <Box llx="224.17" lly="302.28" urx="249.39" ury="310.84"/>
+    </Word>
+    <Word>
+     <Text>ist:</Text>
+     <Box llx="254.71" lly="302.23" urx="267.87" ury="312.53"/>
+    </Word>
+    <Word>
+     <Text>Der</Text>
+     <Box llx="274.02" lly="302.50" urx="289.86" ury="312.33"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="3">
+   <Para>
+    <Word>
+     <Text>Großvessier</Text>
+     <Box llx="33.14" lly="290.77" urx="82.36" ury="299.81"/>
+    </Word>
+    <Word>
+     <Text>steht</Text>
+     <Box llx="88.17" lly="290.71" urx="105.30" ury="298.61"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell colSpan="2">
+   <Para>
+    <Word>
+     <Text>bex</Text>
+     <Box llx="112.66" lly="292.40" urx="124.65" ury="299.84"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell colSpan="5">
+   <Para>
+    <Word>
+     <Text>Vck.un.l«.</Text>
+     <Box llx="131.68" lly="291.85" urx="179.15" ury="302.66"/>
+    </Word>
+    <Word>
+     <Text>in</Text>
+     <Box llx="184.98" lly="291.95" urx="192.68" ury="301.85"/>
+    </Word>
+    <Word>
+     <Text>einem</Text>
+     <Box llx="197.66" lly="291.55" urx="221.95" ury="300.47"/>
+    </Word>
+    <Word>
+     <Text>starl</Text>
+     <Box llx="227.34" lly="289.84" urx="245.12" ury="299.25"/>
+    </Word>
+    <Word>
+     <Text>verschanz</Text>
+     <Box llx="250.68" lly="289.56" urx="286.68" ury="297.46"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="10">
+   <Para>
+    <Word>
+     <Text>ten</Text>
+     <Box llx="32.85" lly="280.00" urx="47.24" ury="290.35"/>
+    </Word>
+    <Word>
+     <Text>Lager;</Text>
+     <Box llx="51.58" lly="281.31" urx="78.51" ury="290.81"/>
+    </Word>
+    <Word>
+     <Text>tie</Text>
+     <Box llx="83.85" lly="280.02" urx="96.13" ury="291.65"/>
+    </Word>
+    <Word>
+     <Text>Russen</Text>
+     <Box llx="100.27" lly="278.06" urx="131.02" ury="287.13"/>
+    </Word>
+    <Word>
+     <Text>versuchten</Text>
+     <Box llx="136.58" lly="278.61" urx="177.18" ury="286.91"/>
+    </Word>
+    <Word>
+     <Text>eine</Text>
+     <Box llx="182.68" lly="279.45" urx="198.97" ury="288.07"/>
+    </Word>
+    <Word>
+     <Text>Redoutt</Text>
+     <Box llx="204.00" lly="278.88" urx="238.35" ury="288.69"/>
+    </Word>
+    <Word>
+     <Text>zu</Text>
+     <Box llx="242.61" lly="277.98" urx="251.53" ury="286.43"/>
+    </Word>
+    <Word>
+     <Text>nehmen,</Text>
+     <Box llx="256.15" lly="279.37" urx="289.53" ury="287.95"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Table>
+ <Row>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>liessen</Text>
+     <Box llx="33.42" lly="267.08" urx="59.87" ury="275.58"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell colSpan="4">
+   <Para>
+    <Word>
+     <Text>aber</Text>
+     <Box llx="66.56" lly="267.64" urx="83.41" ury="276.06"/>
+    </Word>
+    <Word>
+     <Text>.«ou.</Text>
+     <Box llx="89.61" lly="267.85" urx="111.63" ury="277.75"/>
+    </Word>
+    <Word>
+     <Text>Mann</Text>
+     <Box llx="116.12" lly="267.34" urx="141.46" ury="277.47"/>
+    </Word>
+    <Word>
+     <Text>und</Text>
+     <Box llx="146.08" lly="267.34" urx="159.47" ury="275.37"/>
+    </Word>
+    <Word>
+     <Text>die</Text>
+     <Box llx="164.53" lly="267.06" urx="176.04" ury="275.69"/>
+    </Word>
+    <Word>
+     <Text>Redoute</Text>
+     <Box llx="179.80" lly="267.06" urx="214.65" ury="276.28"/>
+    </Word>
+    <Word>
+     <Text>zurück,</Text>
+     <Box llx="217.54" lly="268.13" urx="245.52" ury="276.81"/>
+    </Word>
+    <Word>
+     <Text>und</Text>
+     <Box llx="251.54" lly="266.47" urx="266.45" ury="275.41"/>
+    </Word>
+    <Word>
+     <Text>kehr:</Text>
+     <Box llx="270.56" lly="265.33" urx="288.61" ury="273.45"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="5">
+   <Para>
+    <Word>
+     <Text>ten</Text>
+     <Box llx="32.85" lly="254.94" urx="47.22" ury="265.28"/>
+    </Word>
+    <Word>
+     <Text>sich</Text>
+     <Box llx="51.86" lly="254.98" urx="63.95" ury="261.78"/>
+    </Word>
+    <Word>
+     <Text>gegen</Text>
+     <Box llx="68.00" lly="256.09" urx="90.07" ury="264.03"/>
+    </Word>
+    <Word>
+     <Text>Ruschrschuk,</Text>
+     <Box llx="94.22" lly="255.57" urx="154.61" ury="265.54"/>
+    </Word>
+    <Word>
+     <Text>wohin</Text>
+     <Box llx="160.49" lly="253.81" urx="183.79" ury="262.73"/>
+    </Word>
+    <Word>
+     <Text>ein</Text>
+     <Box llx="189.31" lly="254.95" urx="201.62" ury="264.18"/>
+    </Word>
+    <Word>
+     <Text>Corps</Text>
+     <Box llx="205.73" lly="256.56" urx="230.40" ury="265.81"/>
+    </Word>
+    <Word>
+     <Text>Türken</Text>
+     <Box llx="234.25" lly="253.82" urx="268.82" ury="264.93"/>
+    </Word>
+    <Word>
+     <Text>vorgedrungen</Text>
+     <Box llx="274.02" lly="253.75" urx="289.48" ury="262.73"/>
+     <Box llx="32.56" lly="244.21" urx="75.30" ury="253.15"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="2">
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>war.</Text>
+     <Box llx="82.69" lly="243.09" urx="100.20" ury="252.36"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>Dieses</Text>
+     <Box llx="111.51" lly="241.74" urx="139.29" ury="250.83"/>
+    </Word>
+    <Word>
+     <Text>Gefecht</Text>
+     <Box llx="145.51" lly="241.49" urx="175.45" ury="250.04"/>
+    </Word>
+    <Word>
+     <Text>bey</Text>
+     <Box llx="181.53" lly="244.18" urx="194.18" ury="252.03"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>dem</Text>
+     <Box llx="200.25" lly="242.85" urx="216.65" ury="251.28"/>
+    </Word>
+    <Word>
+     <Text>Türkischen</Text>
+     <Box llx="222.15" lly="240.88" urx="273.40" ury="251.36"/>
+    </Word>
+    <Word>
+     <Text>La-</Text>
+     <Box llx="277.19" lly="241.12" urx="289.52" ury="249.65"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="5">
+   <Para>
+    <Word>
+     <Text>eine</Text>
+     <Box llx="145.80" lly="230.18" urx="161.90" ury="238.70"/>
+    </Word>
+    <Word>
+     <Text>große</Text>
+     <Box llx="167.41" lly="231.55" urx="188.33" ury="239.56"/>
+    </Word>
+    <Word>
+     <Text>Schlackt</Text>
+     <Box llx="192.47" lly="230.23" urx="226.37" ury="239.20"/>
+    </Word>
+    <Word>
+     <Text>umgewandelt.</Text>
+     <Box llx="232.53" lly="231.95" urx="288.43" ury="240.93"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Word>
+ <Text>ger</Text>
+ <Box llx="32.27" lly="231.40" urx="46.65" ury="241.35"/>
+</Word>
+<Word>
+ <Text>hat</Text>
+ <Box llx="53.88" lly="229.91" urx="66.25" ury="238.81"/>
+</Word>
+<Word>
+ <Text>das</Text>
+ <Box llx="72.61" lly="230.75" urx="86.04" ury="239.08"/>
+</Word>
+<Word>
+ <Text>Gerügt</Text>
+ <Box llx="91.05" lly="232.44" urx="123.36" ury="243.01"/>
+</Word>
+<Word>
+ <Text>ln</Text>
+ <Box llx="130.53" lly="230.29" urx="138.23" ury="240.19"/>
+</Word>
+<Para>
+ <Word>
+  <Text>Man</Text>
+  <Box llx="32.27" lly="217.50" urx="54.68" ury="229.02"/>
+ </Word>
+ <Word>
+  <Text>hat</Text>
+  <Box llx="60.22" lly="217.51" urx="72.88" ury="226.62"/>
+ </Word>
+ <Word>
+  <Text>auch</Text>
+  <Box llx="77.51" lly="217.50" urx="93.81" ury="225.02"/>
+ </Word>
+ <Word>
+  <Text>»ici&apos;t</Text>
+  <Box llx="99.98" lly="217.79" urx="118.53" ury="227.21"/>
+ </Word>
+ <Word>
+  <Text>Bestätigung</Text>
+  <Box llx="123.32" lly="219.25" urx="172.01" ury="228.47"/>
+ </Word>
+ <Word>
+  <Text>erhalten,</Text>
+  <Box llx="177.49" lly="218.34" urx="214.53" ury="227.86"/>
+ </Word>
+ <Word>
+  <Text>daß</Text>
+  <Box llx="220.71" lly="218.08" urx="234.18" ury="225.90"/>
+ </Word>
+ <Word>
+  <Text>das</Text>
+  <Box llx="239.15" lly="218.35" urx="252.58" ury="226.68"/>
+ </Word>
+ <Word>
+  <Text>,5,000</Text>
+  <Box llx="257.59" lly="217.87" urx="285.64" ury="227.96"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>Mm«</Text>
+  <Box llx="31.12" lly="205.51" urx="59.34" ury="218.21"/>
+ </Word>
+ <Word>
+  <Text>starke</Text>
+  <Box llx="65.98" lly="204.84" urx="87.25" ury="212.65"/>
+ </Word>
+ <Word>
+  <Text>Russische</Text>
+  <Box llx="92.49" lly="204.00" urx="134.83" ury="213.18"/>
+ </Word>
+ <Word>
+  <Text>Corps</Text>
+  <Box llx="139.17" lly="206.92" urx="163.52" ury="216.05"/>
+ </Word>
+ <Word>
+  <Text>bey</Text>
+  <Box llx="168.27" lly="207.01" urx="180.92" ury="214.86"/>
+ </Word>
+ <Word>
+  <Text>Ruschtschuk</Text>
+  <Box llx="186.14" lly="204.00" urx="241.55" ury="213.68"/>
+ </Word>
+ <Word>
+  <Text>in</Text>
+  <Box llx="246.64" lly="206.08" urx="253.80" ury="215.28"/>
+ </Word>
+ <Word>
+  <Text>Gefahr</Text>
+  <Box llx="259.90" lly="204.59" urx="288.51" ury="213.95"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>schwebe,</Text>
+  <Box llx="30.54" lly="194.54" urx="67.29" ury="203.24"/>
+ </Word>
+ <Word>
+  <Text>ganz</Text>
+  <Box llx="76.64" lly="194.43" urx="93.20" ury="202.07"/>
+ </Word>
+ <Word>
+  <Text>»beschnitten</Text>
+  <Box llx="99.98" lly="192.44" urx="152.77" ury="201.75"/>
+ </Word>
+ <Word>
+  <Text>zu</Text>
+  <Box llx="159.92" lly="191.83" urx="167.89" ury="199.38"/>
+ </Word>
+ <Word>
+  <Text>werden,</Text>
+  <Box llx="174.32" lly="192.98" urx="207.83" ury="202.40"/>
+ </Word>
+ <Word>
+  <Text>neck</Text>
+  <Box llx="216.68" lly="193.56" urx="232.41" ury="201.01"/>
+ </Word>
+ <Word>
+  <Text>o«ß</Text>
+  <Box llx="239.15" lly="192.16" urx="252.07" ury="199.66"/>
+ </Word>
+ <Word>
+  <Text>sich</Text>
+  <Box llx="258.46" lly="192.45" urx="270.55" ury="199.25"/>
+ </Word>
+ <Word>
+  <Text>-die</Text>
+  <Box llx="274.31" lly="192.71" urx="288.03" ury="200.94"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>tlus/ische</Text>
+  <Box llx="29.10" lly="180.15" urx="74.57" ury="191.06"/>
+ </Word>
+ <Word>
+  <Text>mm«</Text>
+  <Box llx="77.22" lly="180.15" urx="103.66" ury="192.05"/>
+ </Word>
+ <Word>
+  <Text>iu</Text>
+  <Box llx="105.75" lly="180.63" urx="114.08" ury="191.34"/>
+ </Word>
+ <Word>
+  <Text>Vollem</Text>
+  <Box llx="116.41" lly="180.33" urx="141.87" ury="188.66"/>
+ </Word>
+ <Word>
+  <Text>Rückzug</Text>
+  <Box llx="144.36" lly="181.50" urx="176.34" ury="189.72"/>
+ </Word>
+ <Word>
+  <Text>uber</Text>
+  <Box llx="179.51" lly="179.76" urx="196.96" ury="188.48"/>
+ </Word>
+ <Word>
+  <Text>die</Text>
+  <Box llx="199.39" lly="179.49" urx="210.86" ury="188.09"/>
+ </Word>
+ <Word>
+  <Text>Donau</Text>
+  <Box llx="213.22" lly="179.48" urx="248.60" ury="191.49"/>
+ </Word>
+ <Word>
+  <Text>befinde.&quot;</Text>
+  <Box llx="251.25" lly="178.64" urx="287.17" ury="187.82"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>Schweden.</Text>
+  <Box llx="388.12" lly="578.87" urx="464.16" ury="594.24"/>
+ </Word>
+ <Word>
+  <Text>In</Text>
+  <Box llx="308.88" lly="565.97" urx="320.64" ury="580.07"/>
+ </Word>
+ <Word>
+  <Text>einem</Text>
+  <Box llx="326.17" lly="567.59" urx="350.19" ury="576.41"/>
+ </Word>
+ <Word>
+  <Text>Frankfurter</Text>
+  <Box llx="355.56" lly="565.89" urx="414.19" ury="577.88"/>
+ </Word>
+ <Word>
+  <Text>»Blatte</Text>
+  <Box llx="416.07" lly="566.72" urx="447.92" ury="576.95"/>
+ </Word>
+ <Word>
+  <Text>liest</Text>
+  <Box llx="453.81" lly="566.43" urx="472.53" ury="576.96"/>
+ </Word>
+ <Word>
+  <Text>man:</Text>
+  <Box llx="478.02" lly="566.40" urx="501.05" ury="576.76"/>
+ </Word>
+ <Word>
+  <Text>»Nach</Text>
+  <Box llx="506.54" lly="565.29" urx="531.42" ury="573.90"/>
+ </Word>
+ <Word>
+  <Text>Pri»</Text>
+  <Box llx="536.51" lly="564.81" urx="555.18" ury="575.31"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>»«toerichten</Text>
+  <Box llx="298.51" lly="554.64" urx="347.49" ury="563.54"/>
+ </Word>
+ <Word>
+  <Text>sind</Text>
+  <Box llx="353.83" lly="554.36" urx="368.50" ury="562.36"/>
+ </Word>
+ <Word>
+  <Text>Se.</Text>
+  <Box llx="374.00" lly="555.52" urx="388.84" ury="565.41"/>
+ </Word>
+ <Word>
+  <Text>Durchl,</Text>
+  <Box llx="393.31" lly="555.75" urx="424.41" ury="565.57"/>
+ </Word>
+ <Word>
+  <Text>der</Text>
+  <Box llx="429.61" lly="554.61" urx="441.94" ury="563.14"/>
+ </Word>
+ <Word>
+  <Text>Fürst</Text>
+  <Box llx="448.05" lly="552.92" urx="468.78" ury="562.02"/>
+ </Word>
+ <Word>
+  <Text>von</Text>
+  <Box llx="473.41" lly="553.99" urx="491.43" ury="565.17"/>
+ </Word>
+ <Word>
+  <Text>pon.ecorvo</Text>
+  <Box llx="497.03" lly="555.65" urx="553.67" ury="567.10"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>(Bernadotte)</Text>
+  <Box llx="297.93" lly="544.87" urx="352.84" ury="554.75"/>
+ </Word>
+ <Word>
+  <Text>,</Text>
+  <Box llx="355.56" lly="543.74" urx="357.86" ury="552.02"/>
+ </Word>
+ <Word>
+  <Text>zum</Text>
+  <Box llx="366.51" lly="542.78" urx="382.85" ury="551.43"/>
+ </Word>
+ <Word>
+  <Text>Kronprinzen</Text>
+  <Box llx="388.69" lly="544.37" urx="440.44" ury="553.97"/>
+ </Word>
+ <Word>
+  <Text>von</Text>
+  <Box llx="447.19" lly="542.46" urx="461.02" ury="551.04"/>
+ </Word>
+ <Word>
+  <Text>&lt;;3ch«ed«n</Text>
+  <Box llx="467.93" lly="542.67" urx="517.00" ury="552.01"/>
+ </Word>
+ <Word>
+  <Text>erwählt</Text>
+  <Box llx="524.12" lly="540.82" urx="555.03" ury="550.41"/>
+ </Word>
+</Para>
+<Table>
+ <Row>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>nisse</Text>
+     <Box llx="35.15" lly="550.88" urx="53.38" ury="558.69"/>
+    </Word>
+    <Word>
+     <Text>widersprechen</Text>
+     <Box llx="58.20" lly="552.27" urx="113.92" ury="560.84"/>
+    </Word>
+    <Word>
+     <Text>und</Text>
+     <Box llx="119.86" lly="551.15" urx="134.25" ury="559.78"/>
+    </Word>
+    <Word>
+     <Text>kreutz.«</Text>
+     <Box llx="140.03" lly="549.73" urx="171.37" ury="558.54"/>
+    </Word>
+    <Word>
+     <Text>sich</Text>
+     <Box llx="177.78" lly="549.46" urx="189.85" ury="556.25"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>so/</Text>
+     <Box llx="197.37" lly="549.56" urx="211.38" ury="560.06"/>
+    </Word>
+    <Word>
+     <Text>daß</Text>
+     <Box llx="217.25" lly="549.75" urx="231.03" ury="557.75"/>
+    </Word>
+    <Word>
+     <Text>man</Text>
+     <Box llx="236.85" lly="551.12" urx="254.30" ury="560.09"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell colSpan="2">
+   <Para>
+    <Word>
+     <Text>darüber</Text>
+     <Box llx="261.34" lly="551.17" urx="291.35" ury="559.88"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>durchaus</Text>
+     <Box llx="34.86" lly="538.79" urx="70.64" ury="547.49"/>
+    </Word>
+    <Word>
+     <Text>nicht</Text>
+     <Box llx="76.93" lly="538.21" urx="96.17" ury="547.32"/>
+    </Word>
+    <Word>
+     <Text>«uf&apos;s</Text>
+     <Box llx="101.42" lly="537.92" urx="122.04" ury="547.83"/>
+    </Word>
+    <Word>
+     <Text>«eine</Text>
+     <Box llx="127.07" lly="539.06" urx="151.85" ury="549.19"/>
+    </Word>
+    <Word>
+     <Text>kömmt.</Text>
+     <Box llx="157.90" lly="539.33" urx="187.86" ury="548.47"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>Alle</Text>
+     <Box llx="199.39" lly="539.04" urx="215.46" ury="548.68"/>
+    </Word>
+    <Word>
+     <Text>werben</Text>
+     <Box llx="220.71" lly="539.34" urx="248.68" ury="547.87"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell colSpan="2">
+   <Para>
+    <Word>
+     <Text>von</Text>
+     <Box llx="255.29" lly="539.02" urx="269.59" ury="547.89"/>
+    </Word>
+    <Word>
+     <Text>Leidenschaft,</Text>
+     <Box llx="275.46" lly="539.35" urx="291.00" ury="548.67"/>
+     <Box llx="35.44" lly="527.91" urx="76.50" ury="536.81"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="4">
+   <Para>
+    <Word>
+     <Text>worden.</Text>
+     <Box llx="297.64" lly="531.85" urx="329.76" ury="540.88"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="3">
+   <Table>
+    <Row>
+     <Cell>
+     </Cell>
+     <Cell>
+      <Para>
+       <Word>
+        <Text>und</Text>
+        <Box llx="85.86" lly="526.95" urx="100.25" ury="535.58"/>
+       </Word>
+      </Para>
+     </Cell>
+     <Cell>
+      <Para>
+       <Word>
+        <Text>noch</Text>
+        <Box llx="107.47" lly="526.38" urx="123.77" ury="533.90"/>
+       </Word>
+      </Para>
+     </Cell>
+     <Cell>
+      <Para>
+       <Word>
+        <Text>mehr</Text>
+        <Box llx="130.53" lly="526.67" urx="150.85" ury="535.59"/>
+       </Word>
+       <Word>
+        <Text>«on</Text>
+        <Box llx="156.46" lly="527.47" urx="170.44" ury="535.85"/>
+       </Word>
+       <Word>
+        <Text>Interesse</Text>
+        <Box llx="176.05" lly="525.54" urx="213.48" ury="534.64"/>
+       </Word>
+      </Para>
+     </Cell>
+     <Cell>
+      <Para>
+       <Word>
+        <Text>gemodelt.</Text>
+        <Box llx="220.42" lly="528.62" urx="259.54" ury="537.53"/>
+       </Word>
+      </Para>
+     </Cell>
+     <Cell>
+      <Para>
+       <Word>
+        <Text>Den</Text>
+        <Box llx="273.15" lly="527.81" urx="290.99" ury="537.54"/>
+       </Word>
+      </Para>
+     </Cell>
+    </Row>
+    <Row>
+     <Cell>
+      <Para>
+       <Word>
+        <Text>Einen</Text>
+        <Box llx="35.44" lly="514.86" urx="60.27" ury="524.57"/>
+       </Word>
+       <Word>
+        <Text>zufolge</Text>
+        <Box llx="65.12" lly="516.43" urx="92.85" ury="525.03"/>
+       </Word>
+       <Word>
+        <Text>hätte</Text>
+        <Box llx="96.24" lly="513.72" urx="117.15" ury="523.12"/>
+       </Word>
+       <Word>
+        <Text>sich</Text>
+        <Box llx="121.88" lly="513.73" urx="133.61" ury="520.33"/>
+       </Word>
+      </Para>
+     </Cell>
+     <Cell>
+      <Para>
+       <Word>
+        <Text>der</Text>
+        <Box llx="138.88" lly="515.13" urx="151.21" ury="523.66"/>
+       </Word>
+       <Word>
+        <Text>wichtige</Text>
+        <Box llx="156.75" lly="516.32" urx="188.97" ury="525.24"/>
+       </Word>
+       <Word>
+        <Text>Platz</Text>
+        <Box llx="193.05" lly="513.72" urx="212.83" ury="522.62"/>
+       </Word>
+       <Word>
+        <Text>von</Text>
+        <Box llx="217.54" lly="515.38" urx="231.53" ury="524.06"/>
+       </Word>
+       <Word>
+        <Text>Ruschtschuk</Text>
+        <Box llx="235.41" lly="514.02" urx="291.45" ury="523.81"/>
+       </Word>
+      </Para>
+     </Cell>
+    </Row>
+   </Table>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>Auch</Text>
+     <Box llx="308.59" lly="519.18" urx="328.01" ury="527.70"/>
+    </Word>
+    <Word>
+     <Text>ein</Text>
+     <Box llx="332.80" lly="520.04" urx="344.31" ury="528.67"/>
+    </Word>
+    <Word>
+     <Text>Eckreiben</Text>
+     <Box llx="348.07" lly="519.47" urx="388.17" ury="528.49"/>
+    </Word>
+    <Word>
+     <Text>»u</Text>
+     <Box llx="393.59" lly="519.45" urx="408.00" ury="528.39"/>
+    </Word>
+    <Word>
+     <Text>s</Text>
+     <Box llx="393.59" lly="519.45" urx="398.06" ury="528.39"/>
+    </Word>
+    <Word>
+     <Text>Rope,</Text>
+     <Box llx="412.03" lly="520.17" urx="441.11" ury="531.07"/>
+    </Word>
+    <Word>
+     <Text>.hatzen</Text>
+     <Box llx="442.00" lly="516.33" urx="472.77" ury="525.71"/>
+    </Word>
+    <Word>
+     <Text>vom</Text>
+     <Box llx="476.29" lly="517.98" urx="493.23" ury="526.95"/>
+    </Word>
+    <Word>
+     <Text>2..</Text>
+     <Box llx="498.47" lly="518.14" urx="511.15" ury="529.54"/>
+    </Word>
+    <Word>
+     <Text>Au«,</Text>
+     <Box llx="514.90" lly="518.52" urx="534.19" ury="527.90"/>
+    </Word>
+    <Word>
+     <Text>eut»</Text>
+     <Box llx="538.24" lly="517.73" urx="554.84" ury="526.26"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Para>
+ <Word>
+  <Text>»«llt</Text>
+  <Box llx="297.93" lly="506.71" urx="314.25" ury="515.61"/>
+ </Word>
+ <Word>
+  <Text>wenigstens</Text>
+  <Box llx="320.41" lly="509.03" urx="364.48" ury="517.84"/>
+ </Word>
+ <Word>
+  <Text>llie</Text>
+  <Box llx="370.54" lly="507.65" urx="381.70" ury="516.78"/>
+ </Word>
+ <Word>
+  <Text>Nachricht,</Text>
+  <Box llx="387.83" lly="507.40" urx="430.86" ury="516.96"/>
+ </Word>
+ <Word>
+  <Text>daß</Text>
+  <Box llx="439.98" lly="505.08" urx="453.76" ury="513.08"/>
+ </Word>
+ <Word>
+  <Text>sich</Text>
+  <Box llx="459.00" lly="504.23" urx="471.05" ury="511.01"/>
+ </Word>
+ <Word>
+  <Text>in</Text>
+  <Box llx="476.86" lly="506.03" urx="484.87" ury="516.33"/>
+ </Word>
+ <Word>
+  <Text>Verebr«</Text>
+  <Box llx="489.83" lly="505.36" urx="531.84" ury="517.17"/>
+ </Word>
+ <Word>
+  <Text>eint</Text>
+  <Box llx="537.66" lly="505.64" urx="554.28" ury="515.95"/>
+ </Word>
+ <Word>
+  <Text>große</Text>
+  <Box llx="298.22" lly="497.12" urx="320.16" ury="505.52"/>
+ </Word>
+ <Word>
+  <Text>Anzahl</Text>
+  <Box llx="324.73" lly="494.69" urx="352.92" ury="503.91"/>
+ </Word>
+ <Word>
+  <Text>Stimmen</Text>
+  <Box llx="357.00" lly="495.02" urx="396.73" ury="505.09"/>
+ </Word>
+ <Word>
+  <Text>für</Text>
+  <Box llx="402.53" lly="493.55" urx="414.90" ury="504.15"/>
+ </Word>
+ <Word>
+  <Text>gedachten</Text>
+  <Box llx="420.10" lly="496.06" urx="458.91" ury="504.37"/>
+ </Word>
+ <Word>
+  <Text>Prinzen</Text>
+  <Box llx="464.47" lly="492.97" urx="496.71" ury="502.48"/>
+ </Word>
+ <Word>
+  <Text>erklärt</Text>
+  <Box llx="501.93" lly="494.11" urx="528.96" ury="503.84"/>
+ </Word>
+ <Word>
+  <Text>habe.</Text>
+  <Box llx="533.34" lly="492.70" urx="554.86" ury="501.30"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>,</Text>
+  <Box llx="303.69" lly="482.58" urx="305.39" ury="488.70"/>
+ </Word>
+ <Word>
+  <Text>Zu</Text>
+  <Box llx="308.88" lly="481.75" urx="319.73" ury="491.05"/>
+ </Word>
+ <Word>
+  <Text>Stockholm</Text>
+  <Box llx="325.59" lly="481.52" urx="379.41" ury="493.05"/>
+ </Word>
+ <Word>
+  <Text>war</Text>
+  <Box llx="383.80" lly="482.83" urx="399.06" ury="492.30"/>
+ </Word>
+ <Word>
+  <Text>kürzlich</Text>
+  <Box llx="404.54" lly="481.73" urx="434.40" ury="490.54"/>
+ </Word>
+ <Word>
+  <Text>unter</Text>
+  <Box llx="439.12" lly="482.27" urx="460.88" ury="491.82"/>
+ </Word>
+ <Word>
+  <Text>dem</Text>
+  <Box llx="465.92" lly="482.00" urx="482.51" ury="490.53"/>
+ </Word>
+ <Word>
+  <Text>Titel:</Text>
+  <Box llx="486.37" lly="481.72" urx="512.85" ury="493.94"/>
+ </Word>
+ <Word>
+  <Text>Och«,«</Text>
+  <Box llx="518.93" lly="482.39" urx="555.36" ury="493.69"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>ben</Text>
+  <Box llx="298.22" lly="471.08" urx="313.90" ury="480.48"/>
+ </Word>
+ <Word>
+  <Text>aus</Text>
+  <Box llx="319.54" lly="470.72" urx="337.06" ury="481.59"/>
+ </Word>
+ <Word>
+  <Text>pommern</Text>
+  <Box llx="341.15" lly="471.80" urx="389.08" ury="483.15"/>
+ </Word>
+ <Word>
+  <Text>an</Text>
+  <Box llx="394.75" lly="470.15" urx="405.95" ury="480.22"/>
+ </Word>
+ <Word>
+  <Text>einen</Text>
+  <Box llx="412.03" lly="470.18" urx="436.32" ury="480.11"/>
+ </Word>
+ <Word>
+  <Text>Freund</Text>
+  <Box llx="442.58" lly="468.21" urx="478.35" ury="479.50"/>
+ </Word>
+ <Word>
+  <Text>in</Text>
+  <Box llx="484.36" lly="469.44" urx="493.54" ury="481.24"/>
+ </Word>
+ <Word>
+  <Text>Vchlvedol,</Text>
+  <Box llx="500.20" lly="470.29" urx="554.63" ury="482.09"/>
+ </Word>
+</Para>
+<Table>
+ <Row>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>eine</Text>
+     <Box llx="297.93" lly="459.24" urx="314.62" ury="468.07"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>kleine</Text>
+     <Box llx="321.56" lly="458.95" urx="344.10" ury="467.58"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>Broschüre</Text>
+     <Box llx="351.24" lly="457.54" urx="391.80" ury="466.44"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell colSpan="2">
+   <Para>
+    <Word>
+     <Text>erschienen,</Text>
+     <Box llx="399.07" lly="458.93" urx="445.18" ury="467.85"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>welche</Text>
+     <Box llx="454.39" lly="456.94" urx="479.66" ury="465.06"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>eine</Text>
+     <Box llx="487.81" lly="457.52" urx="503.91" ury="466.04"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>vetrübendL</Text>
+     <Box llx="510.86" lly="456.11" urx="554.84" ury="464.90"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="4">
+   <Para>
+    <Word>
+     <Text>Darstellung</Text>
+     <Box llx="298.22" lly="448.23" urx="345.30" ury="457.54"/>
+    </Word>
+    <Word>
+     <Text>der</Text>
+     <Box llx="349.22" lly="446.85" urx="361.55" ury="455.38"/>
+    </Word>
+    <Word>
+     <Text>großen</Text>
+     <Box llx="365.36" lly="447.94" urx="391.69" ury="456.25"/>
+    </Word>
+    <Word>
+     <Text>Verluste</Text>
+     <Box llx="394.75" lly="444.58" urx="428.86" ury="453.88"/>
+    </Word>
+    <Word>
+     <Text>,</Text>
+     <Box llx="431.34" lly="445.77" urx="433.64" ury="454.05"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell colSpan="4">
+   <Para>
+    <Word>
+     <Text>die</Text>
+     <Box llx="439.98" lly="445.70" urx="450.83" ury="453.83"/>
+    </Word>
+    <Word>
+     <Text>vor</Text>
+     <Box llx="454.68" lly="444.83" urx="475.14" ury="459.56"/>
+    </Word>
+    <Word>
+     <Text>«</Text>
+     <Box llx="477.44" lly="445.81" urx="480.00" ury="450.41"/>
+    </Word>
+    <Word>
+     <Text>pommern</Text>
+     <Box llx="482.63" lly="446.53" urx="531.07" ury="458.00"/>
+    </Word>
+    <Word>
+     <Text>wah-</Text>
+     <Box llx="534.78" lly="444.28" urx="554.74" ury="453.49"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Table>
+ <Row>
+  <Cell colSpan="6">
+   <Para>
+    <Word>
+     <Text>Großvtssi«</Text>
+     <Box llx="35.15" lly="478.02" urx="82.86" ury="487.89"/>
+    </Word>
+    <Word>
+     <Text>d.n</Text>
+     <Box llx="88.17" lly="478.25" urx="101.71" ury="487.99"/>
+    </Word>
+    <Word>
+     <Text>Frieden</Text>
+     <Box llx="106.61" lly="477.41" urx="137.49" ury="486.52"/>
+    </Word>
+    <Word>
+     <Text>«ngxtnlgen.</Text>
+     <Box llx="142.92" lly="480.06" urx="191.78" ury="489.51"/>
+    </Word>
+    <Word>
+     <Text>und</Text>
+     <Box llx="198.24" lly="479.39" urx="212.82" ury="488.13"/>
+    </Word>
+    <Word>
+     <Text>habe</Text>
+     <Box llx="217.54" lly="478.55" urx="235.62" ury="486.68"/>
+    </Word>
+    <Word>
+     <Text>man</Text>
+     <Box llx="240.88" lly="479.36" urx="258.13" ury="488.23"/>
+    </Word>
+    <Word>
+     <Text>bereits</Text>
+     <Box llx="263.64" lly="478.85" urx="291.28" ury="488.06"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>Vorbereitungen</Text>
+     <Box llx="34.86" lly="468.69" urx="100.56" ury="478.30"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>zu</Text>
+     <Box llx="108.63" lly="466.41" urx="117.25" ury="474.57"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>einem</Text>
+     <Box llx="125.34" lly="467.30" urx="148.84" ury="475.93"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>Kongresse</Text>
+     <Box llx="156.17" lly="468.60" urx="195.37" ury="476.80"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>bemerkt.</Text>
+     <Box llx="202.85" lly="467.02" urx="237.59" ury="475.95"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>W»hl</Text>
+     <Box llx="250.68" lly="466.27" urx="273.69" ury="476.37"/>
+    </Word>
+    <Word>
+     <Text>am</Text>
+     <Box llx="279.49" lly="467.54" urx="291.27" ury="476.02"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="6">
+   <Para>
+    <Word>
+     <Text>Gründlichsten,</Text>
+     <Box llx="34.86" lly="456.17" urx="94.82" ury="465.47"/>
+    </Word>
+    <Word>
+     <Text>e,Heilt</Text>
+     <Box llx="97.10" lly="456.22" urx="123.29" ury="465.46"/>
+    </Word>
+    <Word>
+     <Text>noch</Text>
+     <Box llx="128.51" lly="454.36" urx="145.01" ury="461.97"/>
+    </Word>
+    <Word>
+     <Text>die</Text>
+     <Box llx="149.83" lly="455.49" urx="162.14" ury="464.72"/>
+    </Word>
+    <Word>
+     <Text>Wahrheil</Text>
+     <Box llx="165.97" lly="452.67" urx="205.70" ury="462.74"/>
+    </Word>
+    <Word>
+     <Text>durch</Text>
+     <Box llx="208.90" lly="454.07" urx="229.68" ury="462.38"/>
+    </Word>
+    <Word>
+     <Text>ein</Text>
+     <Box llx="234.83" lly="454.92" urx="245.94" ury="463.25"/>
+    </Word>
+    <Word>
+     <Text>Persifssage</Text>
+     <Box llx="249.53" lly="456.18" urx="291.48" ury="464.21"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="6">
+   <Para>
+    <Word>
+     <Text>«us</Text>
+     <Box llx="35.15" lly="443.96" urx="50.37" ury="453.40"/>
+    </Word>
+    <Word>
+     <Text>Hermannstadt</Text>
+     <Box llx="56.47" lly="442.27" urx="124.29" ury="453.07"/>
+    </Word>
+    <Word>
+     <Text>vom</Text>
+     <Box llx="129.95" lly="443.91" urx="146.35" ury="452.59"/>
+    </Word>
+    <Word>
+     <Text>6.</Text>
+     <Box llx="152.14" lly="443.42" urx="159.56" ury="452.32"/>
+    </Word>
+    <Word>
+     <Text>Aug.</Text>
+     <Box llx="165.68" lly="444.51" urx="185.16" ury="453.98"/>
+    </Word>
+    <Word>
+     <Text>wie</Text>
+     <Box llx="192.19" lly="443.11" urx="206.48" ury="452.64"/>
+    </Word>
+    <Word>
+     <Text>folgt</Text>
+     <Box llx="211.78" lly="444.40" urx="230.11" ury="454.10"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="6">
+   <Para>
+    <Word>
+     <Text>rend</Text>
+     <Box llx="297.64" lly="435.31" urx="315.73" ury="444.35"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>des</Text>
+     <Box llx="322.71" lly="434.74" urx="335.83" ury="442.88"/>
+    </Word>
+    <Word>
+     <Text>letzten</Text>
+     <Box llx="341.44" lly="433.05" urx="366.19" ury="441.45"/>
+    </Word>
+    <Word>
+     <Text>Krieges</Text>
+     <Box llx="373.14" lly="435.75" urx="404.67" ury="445.05"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>«litten</Text>
+     <Box llx="409.73" lly="433.60" urx="440.47" ury="445.12"/>
+    </Word>
+    <Word>
+     <Text>hat,</Text>
+     <Box llx="445.46" lly="434.09" urx="462.94" ury="444.57"/>
+    </Word>
+    <Word>
+     <Text>enthält.</Text>
+     <Box llx="469.08" lly="431.90" urx="500.90" ury="441.60"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>Folgende«</Text>
+     <Box llx="512.31" lly="434.20" urx="553.98" ury="443.02"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Para>
+ <Word>
+  <Text>&apos;</Text>
+  <Box llx="296.49" lly="377.53" urx="297.35" ury="382.03"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>ist</Text>
+  <Box llx="297.93" lly="421.81" urx="306.23" ury="430.11"/>
+ </Word>
+ <Word>
+  <Text>ungefähr</Text>
+  <Box llx="312.05" lly="423.83" urx="346.86" ury="432.65"/>
+ </Word>
+ <Word>
+  <Text>die</Text>
+  <Box llx="353.25" lly="422.36" urx="364.76" ury="430.99"/>
+ </Word>
+ <Word>
+  <Text>Hauptsumme</Text>
+  <Box llx="369.68" lly="422.98" urx="424.26" ury="432.16"/>
+ </Word>
+ <Word>
+  <Text>seines</Text>
+  <Box llx="430.47" lly="420.08" urx="455.03" ury="428.58"/>
+ </Word>
+ <Word>
+  <Text>Inhalt«</Text>
+  <Box llx="460.73" lly="418.94" urx="493.72" ury="429.93"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>i.</Text>
+  <Box llx="299.08" lly="398.56" urx="305.68" ury="411.76"/>
+ </Word>
+ <Word>
+  <Text>F.v</Text>
+  <Box llx="311.19" lly="396.83" urx="326.33" ury="407.73"/>
+ </Word>
+ <Word>
+  <Text>den</Text>
+  <Box llx="330.20" lly="398.44" urx="343.59" ury="406.47"/>
+ </Word>
+ <Word>
+  <Text>Unterhalt</Text>
+  <Box llx="346.63" lly="397.07" urx="385.01" ury="406.53"/>
+ </Word>
+ <Word>
+  <Text>des</Text>
+  <Box llx="388.69" lly="397.59" urx="402.10" ury="405.91"/>
+ </Word>
+ <Word>
+  <Text>Militärs,</Text>
+  <Box llx="405.12" lly="397.97" urx="446.45" ury="409.97"/>
+ </Word>
+ <Word>
+  <Text>weiches</Text>
+  <Box llx="452.66" lly="395.28" urx="483.43" ury="403.80"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>in</Text>
+  <Box llx="311.47" lly="385.88" urx="319.17" ury="395.78"/>
+ </Word>
+ <Word>
+  <Text>der</Text>
+  <Box llx="324.44" lly="386.06" urx="336.48" ury="394.39"/>
+ </Word>
+ <Word>
+  <Text>Previn»</Text>
+  <Box llx="339.71" lly="384.92" urx="371.27" ury="394.23"/>
+ </Word>
+ <Word>
+  <Text>war,</Text>
+  <Box llx="376.31" lly="386.20" urx="395.82" ury="396.53"/>
+ </Word>
+ <Word>
+  <Text>die</Text>
+  <Box llx="403.10" lly="384.91" urx="415.12" ury="393.92"/>
+ </Word>
+ <Word>
+  <Text>Hospital«</Text>
+  <Box llx="419.53" lly="385.32" urx="462.04" ury="395.52"/>
+ </Word>
+ <Word>
+  <Text>ein-</Text>
+  <Box llx="468.51" lly="383.75" urx="484.06" ury="393.08"/>
+ </Word>
+</Para>
+<Table>
+ <Row>
+  <Cell colSpan="2">
+   <Para>
+    <Word>
+     <Text>berechnet</Text>
+     <Box llx="311.19" lly="373.11" urx="348.59" ury="381.52"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>.</Text>
+     <Box llx="360.75" lly="373.78" urx="363.34" ury="383.08"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>.</Text>
+     <Box llx="374.29" lly="373.20" urx="376.57" ury="381.40"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>.</Text>
+     <Box llx="387.83" lly="373.20" urx="390.11" ury="381.40"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>.</Text>
+     <Box llx="401.08" lly="373.20" urx="403.36" ury="381.40"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>.</Text>
+     <Box llx="414.63" lly="372.63" urx="416.91" ury="380.83"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>.</Text>
+     <Box llx="427.88" lly="372.05" urx="430.16" ury="380.25"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>.</Text>
+     <Box llx="441.42" lly="371.47" urx="443.70" ury="379.67"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>.</Text>
+     <Box llx="454.39" lly="371.47" urx="456.98" ury="380.77"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>.</Text>
+     <Box llx="467.93" lly="371.19" urx="470.21" ury="379.39"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="11">
+   <Para>
+    <Word>
+     <Text>Abbezahlt</Text>
+     <Box llx="311.47" lly="360.44" urx="351.49" ury="369.44"/>
+    </Word>
+    <Word>
+     <Text>auf</Text>
+     <Box llx="354.41" lly="360.15" urx="368.17" ury="370.05"/>
+    </Word>
+    <Word>
+     <Text>die</Text>
+     <Box llx="370.83" lly="360.99" urx="382.33" ury="369.61"/>
+    </Word>
+    <Word>
+     <Text>außerordentlicheKtlcgs«</Text>
+     <Box llx="384.66" lly="361.36" urx="483.53" ury="370.53"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>schuld</Text>
+     <Box llx="310.90" lly="348.62" urx="333.47" ury="356.43"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell colSpan="10">
+   <Para>
+    <Word>
+     <Text>(die</Text>
+     <Box llx="340.29" lly="350.50" urx="356.38" ury="360.15"/>
+    </Word>
+    <Word>
+     <Text>zu</Text>
+     <Box llx="359.88" lly="347.99" urx="368.50" ury="356.15"/>
+    </Word>
+    <Word>
+     <Text>z.lloa.ooo.</Text>
+     <Box llx="372.56" lly="347.14" urx="417.41" ury="356.98"/>
+    </Word>
+    <Word>
+     <Text>Franks</Text>
+     <Box llx="422.12" lly="346.03" urx="449.93" ury="355.13"/>
+    </Word>
+    <Word>
+     <Text>bestimt</Text>
+     <Box llx="454.68" lly="346.03" urx="483.04" ury="354.83"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="11">
+   <Para>
+    <Word>
+     <Text>war),</Text>
+     <Box llx="310.32" lly="338.60" urx="333.94" ury="349.23"/>
+    </Word>
+    <Word>
+     <Text>theils</Text>
+     <Box llx="340.29" lly="336.22" urx="363.19" ury="346.03"/>
+    </Word>
+    <Word>
+     <Text>in</Text>
+     <Box llx="367.66" lly="336.90" urx="374.82" ury="346.10"/>
+    </Word>
+    <Word>
+     <Text>baarem</Text>
+     <Box llx="379.76" lly="336.48" urx="408.03" ury="344.82"/>
+    </Word>
+    <Word>
+     <Text>Gelde,</Text>
+     <Box llx="412.61" lly="336.42" urx="441.13" ury="346.10"/>
+    </Word>
+    <Word>
+     <Text>theilst»</Text>
+     <Box llx="447.19" lly="334.21" urx="481.75" ury="345.12"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Para>
+ <Word>
+  <Text>Getreide</Text>
+  <Box llx="310.32" lly="325.30" urx="346.33" ury="334.69"/>
+ </Word>
+ <Word>
+  <Text>Lieferungen</Text>
+  <Box llx="354.41" lly="326.06" urx="401.99" ury="335.07"/>
+ </Word>
+ <Word>
+  <Text>.</Text>
+  <Box llx="413.19" lly="323.93" urx="415.47" ury="332.13"/>
+ </Word>
+ <Word>
+  <Text>.....</Text>
+  <Box llx="426.44" lly="323.07" urx="482.04" ury="355.07"/>
+ </Word>
+</Para>
+<Table>
+ <Row>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>3.</Text>
+     <Box llx="297.07" lly="313.76" urx="304.24" ury="322.36"/>
+    </Word>
+    <Word>
+     <Text>«inde«</Text>
+     <Box llx="310.32" lly="314.59" urx="339.23" ury="324.22"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell colSpan="3">
+   <Para>
+    <Word>
+     <Text>außerordentliche</Text>
+     <Box llx="347.49" lly="312.05" urx="414.12" ury="320.93"/>
+    </Word>
+    <Word>
+     <Text>Ausgaben</Text>
+     <Box llx="422.12" lly="314.45" urx="462.20" ury="323.35"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>für</Text>
+     <Box llx="469.66" lly="311.46" urx="481.10" ury="321.26"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="6">
+   <Para>
+    <Word>
+     <Text>Fuhren,</Text>
+     <Box llx="310.03" lly="302.88" urx="341.73" ury="312.08"/>
+    </Word>
+    <Word>
+     <Text>Arbeitslohn,</Text>
+     <Box llx="347.20" lly="302.65" urx="398.63" ury="312.39"/>
+    </Word>
+    <Word>
+     <Text>Erpressen,</Text>
+     <Box llx="403.10" lly="302.83" urx="444.58" ury="311.41"/>
+    </Word>
+    <Word>
+     <Text>Schreib,</Text>
+     <Box llx="447.76" lly="301.15" urx="482.24" ury="310.55"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="2">
+   <Para>
+    <Word>
+     <Text>»nd</Text>
+     <Box llx="310.61" lly="290.67" urx="325.19" ury="299.41"/>
+    </Word>
+    <Word>
+     <Text>Druckkosten,</Text>
+     <Box llx="331.36" lly="290.95" urx="382.82" ury="299.77"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell colSpan="4">
+   <Para>
+    <Word>
+     <Text>Baumaterialien</Text>
+     <Box llx="393.88" lly="288.68" urx="459.30" ury="298.49"/>
+    </Word>
+    <Word>
+     <Text>und</Text>
+     <Box llx="466.20" lly="288.38" urx="481.10" ury="297.31"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>Kosten,</Text>
+     <Box llx="310.32" lly="278.91" urx="341.72" ury="288.17"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell colSpan="2">
+   <Para>
+    <Word>
+     <Text>Festivitäten,</Text>
+     <Box llx="351.24" lly="278.39" urx="404.07" ury="288.19"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell colSpan="3">
+   <Para>
+    <Word>
+     <Text>Kleidungsstücke,</Text>
+     <Box llx="414.63" lly="278.03" urx="481.30" ury="286.85"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="6">
+   <Para>
+    <Word>
+     <Text>Errichtung</Text>
+     <Box llx="310.90" lly="266.99" urx="354.69" ury="276.60"/>
+    </Word>
+    <Word>
+     <Text>«on</Text>
+     <Box llx="357.86" lly="265.56" urx="371.67" ury="273.84"/>
+    </Word>
+    <Word>
+     <Text>schwimmenden</Text>
+     <Box llx="375.44" lly="264.20" urx="433.09" ury="272.50"/>
+    </Word>
+    <Word>
+     <Text>Batterie»/</Text>
+     <Box llx="437.10" lly="263.38" urx="481.44" ury="273.74"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="3">
+   <Para>
+    <Word>
+     <Text>des</Text>
+     <Box llx="309.75" lly="253.22" urx="323.18" ury="261.55"/>
+    </Word>
+    <Word>
+     <Text>Kapers</Text>
+     <Box llx="327.61" lly="255.08" urx="356.69" ury="264.26"/>
+    </Word>
+    <Word>
+     <Text>lilsit</Text>
+     <Box llx="361.32" lly="251.81" urx="386.81" ury="267.11"/>
+    </Word>
+    <Word>
+     <Text>uud</Text>
+     <Box llx="392.15" lly="253.21" urx="406.39" ury="261.75"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell colSpan="3">
+   <Para>
+    <Word>
+     <Text>.50.</Text>
+     <Box llx="413.76" lly="251.51" urx="430.62" ury="261.62"/>
+    </Word>
+    <Word>
+     <Text>Transport»</Text>
+     <Box llx="435.37" lly="253.48" urx="482.61" ury="263.25"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Para>
+ <Word>
+  <Text>fahrzeugen</Text>
+  <Box llx="310.32" lly="242.21" urx="352.90" ury="250.72"/>
+ </Word>
+ <Word>
+  <Text>zu</Text>
+  <Box llx="357.86" lly="239.94" urx="366.48" ury="248.10"/>
+ </Word>
+ <Word>
+  <Text>einer</Text>
+  <Box llx="371.98" lly="240.55" urx="391.81" ury="249.47"/>
+ </Word>
+ <Word>
+  <Text>proje.t.rten</Text>
+  <Box llx="395.03" lly="241.70" urx="442.97" ury="251.73"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>....</Text>
+  <Box llx="437.68" lly="215.02" urx="481.16" ury="246.30"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>See.El»</Text>
+  <Box llx="447.47" lly="239.17" urx="482.00" ury="249.03"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>»edition</Text>
+  <Box llx="309.75" lly="228.45" urx="342.74" ury="237.87"/>
+ </Word>
+ <Word>
+  <Text>...</Text>
+  <Box llx="348.36" lly="228.85" urx="355.53" ury="237.45"/>
+ </Word>
+ <Word>
+  <Text>s.</Text>
+  <Box llx="361.61" lly="228.17" urx="366.44" ury="234.38"/>
+ </Word>
+ <Word>
+  <Text>w.</Text>
+  <Box llx="372.56" lly="228.56" urx="382.06" ury="238.06"/>
+ </Word>
+ <Word>
+  <Text>.</Text>
+  <Box llx="397.63" lly="228.27" urx="399.91" ury="236.47"/>
+ </Word>
+ <Word>
+  <Text>.</Text>
+  <Box llx="410.59" lly="228.27" urx="413.45" ury="238.57"/>
+ </Word>
+ <Word>
+  <Text>,.</Text>
+  <Box llx="424.14" lly="228.45" urx="426.71" ury="233.08"/>
+ </Word>
+ <Word>
+  <Text>.</Text>
+  <Box llx="437.39" lly="227.41" urx="440.53" ury="238.71"/>
+ </Word>
+ <Word>
+  <Text>.</Text>
+  <Box llx="451.80" lly="226.83" urx="454.94" ury="238.13"/>
+ </Word>
+ <Word>
+  <Text>.</Text>
+  <Box llx="465.34" lly="226.83" urx="468.20" ury="237.13"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>4.</Text>
+  <Box llx="296.49" lly="214.73" urx="303.91" ury="223.63"/>
+ </Word>
+ <Word>
+  <Text>Die</Text>
+  <Box llx="310.03" lly="216.34" urx="325.52" ury="226.67"/>
+ </Word>
+ <Word>
+  <Text>schillsche</Text>
+  <Box llx="331.64" lly="214.94" urx="377.10" ury="225.43"/>
+ </Word>
+ <Word>
+  <Text>Invasion-</Text>
+  <Box llx="383.22" lly="214.94" urx="429.43" ury="226.33"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>Rthlr.</Text>
+  <Box llx="506.25" lly="406.73" urx="532.53" ury="417.73"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>3&apos;89«^9H</Text>
+  <Box llx="494.44" lly="369.97" urx="536.39" ury="380.05"/>
+ </Word>
+</Para>
+<Table>
+ <Row>
+  <Cell colSpan="2">
+   <Para>
+    <Word>
+     <Text>Summe</Text>
+     <Box llx="379.47" lly="203.44" urx="413.09" ury="213.20"/>
+    </Word>
+    <Word>
+     <Text>Pommel.</Text>
+     <Box llx="416.93" lly="201.95" urx="454.05" ury="211.36"/>
+    </Word>
+    <Word>
+     <Text>Cour.</Text>
+     <Box llx="458.71" lly="201.71" urx="481.84" ury="211.17"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell colSpan="2">
+   <Para>
+    <Word>
+     <Text>H,2Z!.2»8</Text>
+     <Box llx="493.00" lly="201.85" urx="535.90" ury="211.62"/>
+    </Word>
+    <Word>
+     <Text>&gt;;»</Text>
+     <Box llx="542.56" lly="203.34" urx="551.78" ury="209.84"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>Und</Text>
+     <Box llx="296.20" lly="192.47" urx="311.40" ury="200.76"/>
+    </Word>
+    <Word>
+     <Text>dies</Text>
+     <Box llx="316.37" lly="192.43" urx="332.75" ury="201.36"/>
+    </Word>
+    <Word>
+     <Text>mußte</Text>
+     <Box llx="337.41" lly="191.02" urx="362.92" ury="200.02"/>
+    </Word>
+    <Word>
+     <Text>ein</Text>
+     <Box llx="367.37" lly="192.14" urx="379.15" ury="200.97"/>
+    </Word>
+    <Word>
+     <Text>Land</Text>
+     <Box llx="384.37" lly="191.56" urx="403.56" ury="200.19"/>
+    </Word>
+    <Word>
+     <Text>leisten,</Text>
+     <Box llx="409.15" lly="191.43" urx="439.06" ury="200.87"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell colSpan="2">
+   <Para>
+    <Word>
+     <Text>das</Text>
+     <Box llx="448.05" lly="189.83" urx="461.48" ury="198.16"/>
+    </Word>
+    <Word>
+     <Text>auf</Text>
+     <Box llx="467.36" lly="188.98" urx="480.58" ury="198.49"/>
+    </Word>
+    <Word>
+     <Text>70</Text>
+     <Box llx="486.66" lly="188.12" urx="496.35" ury="196.83"/>
+    </Word>
+   </Para>
+  </Cell>
+  <Cell>
+   <Para>
+    <Word>
+     <Text>72.</Text>
+     <Box llx="510.86" lly="188.51" urx="523.79" ury="197.81"/>
+    </Word>
+    <Word>
+     <Text>Qua»</Text>
+     <Box llx="530.17" lly="189.78" urx="553.19" ury="199.19"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="4">
+   <Para>
+    <Word>
+     <Text>dtatm.ilen</Text>
+     <Box llx="296.20" lly="179.47" urx="340.94" ury="189.79"/>
+    </Word>
+    <Word>
+     <Text>..4/c,«».</Text>
+     <Box llx="346.34" lly="179.33" urx="382.06" ury="189.37"/>
+    </Word>
+    <Word>
+     <Text>Einwohner</Text>
+     <Box llx="385.53" lly="176.63" urx="430.74" ury="186.20"/>
+    </Word>
+    <Word>
+     <Text>zählt,</Text>
+     <Box llx="434.51" lly="177.95" urx="458.84" ury="188.13"/>
+    </Word>
+    <Word>
+     <Text>wovon</Text>
+     <Box llx="464.47" lly="177.11" urx="490.10" ury="185.98"/>
+    </Word>
+    <Word>
+     <Text>(nach</Text>
+     <Box llx="495.59" lly="178.24" urx="516.15" ury="186.46"/>
+    </Word>
+    <Word>
+     <Text>dent«?</Text>
+     <Box llx="520.95" lly="176.88" urx="553.40" ury="187.49"/>
+    </Word>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Word>
+ <Text>ßl.</Text>
+ <Box llx="544.00" lly="406.84" urx="554.88" ury="416.63"/>
+</Word>
+<Para>
+ <Word>
+  <Text>4«4,23-</Text>
+  <Box llx="501.36" lly="322.76" urx="535.58" ury="332.85"/>
+ </Word>
+ <Word>
+  <Text>&apos;«</Text>
+  <Box llx="542.27" lly="323.07" urx="552.88" ury="337.27"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>7&lt;;7,99-»</Text>
+  <Box llx="501.36" lly="227.10" urx="536.19" ury="235.29"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>!ao,«&gt;;c&gt;;l&gt;;</Text>
+  <Box llx="502.51" lly="215.45" urx="535.76" ury="221.46"/>
+ </Word>
+</Para>
+</Content>
+</Page>
+</Pages>
+</Document>
+</TET>

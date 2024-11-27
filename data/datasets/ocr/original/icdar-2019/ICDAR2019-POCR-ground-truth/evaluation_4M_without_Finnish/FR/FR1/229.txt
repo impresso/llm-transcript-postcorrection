@@ -1,0 +1,3 @@
+[OCR_toInput] hilipus a i e eaneses ees eseses e se sise
+[OCR_aligned] @hili@pus@@@@ @@@@@a @@@@@@@@i @e@@@@@@@@ ea@@@@@@@n@@e@ses@ ees @@ese@@@ses @@@e @@@@@@se @@s@i@@@@s@@@@@@e
+[ GS_aligned] Philippus Dei gratia Francorum rex. Notum facimus universis, tam presentibus quam futuris, nos infrascriptas

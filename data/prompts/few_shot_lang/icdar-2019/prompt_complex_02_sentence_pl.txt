@@ -1,0 +1,23 @@
+Prosimy o pomoc w przeglądaniu i poprawianiu błędów w tekstach powstałych w wyniku automatycznej transkrypcji (OCR) dokumentów historycznych. Twoim zadaniem jest uważne przeanalizowanie poniższego tekstu i poprawienie wszelkich błędów wprowadzonych przez oprogramowanie OCR. Tekst do poprawienia pojawia się po segmencie "TEKST DO POPRAWIENIA:". Umieść poprawioną wersję tekstu po segmencie "POPRAWIONY TEKST:". Nie należy wpisywać niczego innego niż poprawiony tekst.
+
+TEKST DO POPRAWIENIA:
+Ja A tak nikomu dogodzić niemoźesz, Przychylna Mátko, choć ffę stárasz oto, Práwie każdego z swych skárbow wspomożesz, Zá drogi metal, bierzesz gnoie, błoto, Ktore z rynsztokow, chlewow bydła, obor, Wyrzucą, ták ći oddaiemy pobor.
+
+POPRAWIONY TEKST:
+)(%&**■ A tak nikomu dogodzić nietnoźeTz, Przychylna Matko, choć lię Itarafz oto, Prawic każdego z Twych (karb o w wfpomożefz, Za drogi metal, bierzeTz gnoie, bioto, Które z rynfztokow, chlewów bydfa, obot, Wyrzucą, tak ći oduaiemy pobor.
+
+TEKST DO POPRAWIENIA:
+Ja A tak nikomu dogodzić niemoźesz, Przychylna Mátko, choć ffę stárasz oto, Práwie każdego z swych skárbow wspomożesz, Zá drogi metal, bierzesz gnoie, błoto, Ktore z rynsztokow, chlewow bydła, obor, Wyrzucą, ták ći oddaiemy pobor.
+
+POPRAWIONY TEKST:
+)(%&**■ A tak nikomu dogodzić nietnoźeTz, Przychylna Matko, choć lię Itarafz oto, Prawic każdego z Twych (karb o w wfpomożefz, Za drogi metal, bierzeTz gnoie, bioto, Które z rynfztokow, chlewów bydfa, obot, Wyrzucą, tak ći oduaiemy pobor.
+
+TEKST DO POPRAWIENIA:
+Ale że Stworca BOG Ziemie, y EWY, Choć ie ukárał, ułaiał, pofukał, Choć Ziemi kázał Mátką bydź kostrzewy, EWĘ do bolow w rodzeniu przynukał, Przecię dał tyle, nádczym ffę świat dziwi, Co EWA zrodzi, to Ziemia wyżywi.
+
+POPRAWIONY TEKST:
+Ale że Stwórca BOG Ziemie, y EWY, Choć ie ukarał, uiaiaf, pofukaf, Choć Ziemi kazał’ Matkg, bydź koftrzewy, EWĘ do bolo w w rodzeniu przynukał, Przccię dał tyle, nadczym iię świat dziwi, Co EWA zrodzi, to Ziemia wyżywi.
+
+TEKST DO POPRAWIENIA:
+{{TEXT}}
+POPRAWIONY TEKST:

@@ -1,0 +1,23 @@
+Please assist with reviewing and correcting errors in texts produced by automatic transcription (OCR) of historical documents. Your task is to carefully examine the following text and correct any mistakes introduced by the OCR software. The text to correct appears after the segment "TEXT TO CORRECT:". Please place the corrected version of the text after the "CORRECTED TEXT:" segment. Do not write anything else than the corrected text.
+
+TEXT TO CORRECT:
+In der neunten Sitzung der Tagsatzung am 16. Juli, ward der Gegenstand von Gefährdung schweizerischer Territorialverhältniffr und militärischer Grenzpunkte berührt, und von den Gesandten Bündten« sowohl als Thurgaus, die Eingabe von noch nicht vollendeten Berichten darüber verheißen. Hinstchtlich der Vorsorge gegen unordentliche Ehr- einsegnungen schweizerischer Angehöriger in Frankreich, berichtete der Vorstand da» Resultat einer mit dem französischen Botschafter deshalb gepflogenen Unterredung. Dieser hatte nämlich geantwortet: So wie
+
+CORRECTED TEXT:
+In der neunten Sitzung der Tagsatzung am 16. Juli, ward der Gegenstand von Gefährdung schweizerischer Territorialverhältnisse und militärischer Grenzpunkte berührt, und von den Gesandten Bündtens sowohl als Thurgaus, die Eingabe von noch nicht vollendeten Berichten darüber verheißen. Hinsichtlich der Vorsorge gegen unordentliche Eheeinsegnungen schweizerischer Angehöriger in Frankreich, berichtete der Vorstand das Resultat einer mit dem französischen Botschafter deshalb gepflogenen Unterredung. Dieser hatte nämlich geantwortet:
+
+TEXT TO CORRECT:
+Per emspainge Peiiijeile ober deren SKaum fiic die Schwei, 85 «14.. für dar 'itutlanb 40 «13.. Loeal-Jnserale 20 «14. (tjci. ftnani. »n,eigen,. Mcilamm Fr.per Zeile. AUeinige Fnfer«le»>*»»»h»e bei —rr—~r Kadolf Home --- -----
+
+CORRECTED TEXT:
+Per einspaltige Petitzeile oder deren Raum für die Schweiz 25 Cts., für das Ausland 40 Cts., Local-Inserate 20 Cts. (excl. finaz. Anzeigen), Reclamen Fr. 1.— per Zeile. Alleinige Inseraten-Annahme bei Radolf Mosse
+
+TEXT TO CORRECT:
+ßu» an Haaseustein und Bögler in Zürich «der an der« «utwartige Hiiuser eiuzusentea; I»sertio»«»rei«: lbSt». die »iersraltige Petitzeile oder ihr Raum (S Are»»« oder !>/» Bot.)
+
+CORRECTED TEXT:
+Inserate sind an Haasenstein und Vogler in Zürich oder an deren auswärtige Häuser einzusenden; Insertionspreis: 15. Rp. die vierspaltige Petitzeile oder ihr Raum (5 Kreuzer oder 1½ Sgr.)
+
+TEXT TO CORRECT:
+{{TEXT}}
+CORRECTED TEXT:

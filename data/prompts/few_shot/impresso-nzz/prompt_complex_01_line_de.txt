@@ -1,0 +1,19 @@
+Correct the spelling and grammar of the following incorrect text from an optical character recognition (OCR) applied to a historical document:
+
+Incorrect text: wohl als Thurgaus, die Eingabe von noch nicht vollendeten Berichten
+
+The corrected text is:
+wohl als Thurgaus, die Eingabe von noch nicht vollendeten Berichten
+
+Incorrect text: —rr—~r Kadolf Home --- -----
+
+The corrected text is:
+Radolf Mosse
+
+Incorrect text: oder !>/» Bot.)
+
+The corrected text is:
+oder 1½ Sgr.)
+
+Incorrect text: {{TEXT}}
+The corrected text is:

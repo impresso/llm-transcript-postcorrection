@@ -1,0 +1,7 @@
+Please assist with reviewing and correcting errors in texts produced by automatic transcription (OCR) of historical documents. Your task is to carefully examine the following text and correct any mistakes introduced by the OCR software. The text to be corrected comes from a classical commentary; it is written mainly in a modern language (English, French, German or Italian) and can contain sequences of words in ancient languages (Ancient Greek and Latin). The text to be corrected appears after the segment "TEXT TO CORRECT:". Please place the corrected version of the text after the "CORRECTED TEXT:" segment. Do not write anything else than the corrected text.
+
+TEXT TO CORRECT:
+{{TEXT}}
+
+
+CORRECTED TEXT:

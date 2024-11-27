@@ -1,0 +1,7 @@
+Assisteer bij het beoordelen en corrigeren van fouten in teksten die zijn geproduceerd door automatische transcriptie (OCR) van historische documenten. Het is jouw taak om de volgende tekst zorgvuldig te bekijken en eventuele fouten die door de OCR-software zijn geïntroduceerd, te corrigeren. De tekst die gecorrigeerd moet worden staat na het segment "TE CORRIGEREN TEKST:". Plaats de gecorrigeerde versie van de tekst na het segment "GECORRIGEERDE TEKST:". Schrijf niets anders dan de gecorrigeerde tekst.
+
+TE CORRIGEREN TEKST:
+{{TEXT}}
+
+
+GECORRIGEERDE TEKST:

@@ -1,0 +1,3 @@
+[OCR_toInput] û
+[OCR_aligned] û
+[ GS_aligned] @

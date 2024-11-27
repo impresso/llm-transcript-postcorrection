@@ -1,0 +1,19 @@
+Correct the spelling and grammar of the following incorrect text from an optical character recognition (OCR) applied to a historical document:
+
+Incorrect text: No text
+
+The corrected text is:
+No text
+
+Incorrect text: No text
+
+The corrected text is:
+No text
+
+Incorrect text: No text
+
+The corrected text is:
+No text
+
+Incorrect text: {{TEXT}}
+The corrected text is:

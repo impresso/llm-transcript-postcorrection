@@ -1,0 +1,19 @@
+Correct the spelling and grammar of the following incorrect text from on optical character recognition (OCR) applied to a historical document:
+
+Incorrect text: le sacre du printemps de stravinsky me bouleversa de fond en comble
+
+The corrected text is:
+Le Sacre du Printemps de Stravinsky me bouleversa de fond en comble.
+
+Incorrect text: le sacre du printemps de stravinsky me bouleversa de fond en comble
+
+The corrected text is:
+Le Sacre du Printemps de Stravinsky me bouleversa de fond en comble.
+
+Incorrect text: le sacre du printemps de stravinsky me bouleversa de fond en comble
+
+The corrected text is:
+Le Sacre du Printemps de Stravinsky me bouleversa de fond en comble.
+
+Incorrect text: {{TEXT}}
+The corrected text is:

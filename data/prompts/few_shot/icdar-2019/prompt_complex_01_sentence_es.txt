@@ -1,0 +1,19 @@
+Correct the spelling and grammar of the following incorrect text from an optical character recognition (OCR) applied to a historical document:
+
+Incorrect text: Baxando con el arroyo desde la puerta Auacapuncu, las primeras ca sas eran de Pedro de Orue luego se guian las de Iuan de Pancoruo, y en ella viuia Alonso de Marchena, que a vn que tenia Yndios no ria Iuan de Pancoruo  viuiesse en otra casa por la mucha y antigua amistad  ffẽpre tuuieron.
+
+The corrected text is:
+Baxando con el arroyo desde la puerca Ailacapuncu,las primeras ca fas eran de Pedro de Orne luego fe guían las de luán de Paücoruo,y en ella víuía Alonso de Marehena,que a vn que tenía Yndíosno qría luán de Pan corno q v hueste en otra cafa por la mucha y antigua amistad q siépretimicron.
+
+Incorrect text: Al poniente del arroyo no auian hecho Ediﬁci- os los Reyes Incas, solo auia el cer co de los arrabales que hemos di- cho.
+
+The corrected text is:
+Al poniente de) arroyo no auían hecho Edifici os los Reyes Incas, solo auia el cer codelos arrabales que hemos di cho *
+
+Incorrect text: Al poniente del arroyo esta la plaça  llaman Cussipata,  es andẽ de alegria y regozijo.
+
+The corrected text is:
+Al poniente del arroyo esta la pia^a q líamanCussípata,q es ande de alegría y regozíjo.
+
+Incorrect text: {{TEXT}}
+The corrected text is:

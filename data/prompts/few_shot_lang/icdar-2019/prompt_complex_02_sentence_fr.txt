@@ -1,0 +1,23 @@
+Veuillez nous aider à réviser et à corriger les erreurs dans un texte OCR extrait de documents historiques. Votre tâche consiste à examiner attentivement le texte suivant et à corriger toute erreur introduite par le logiciel d'OCR.Le texte à corriger apparaît après le segment "TEXTE À CORRIGER". Veuillez placer la version corrigée du texte après le segment "TEXTE CORRIGÉ". Ne rien écrire d'autre que le texte corrigé.
+
+TEXTE À CORRIGER:
+: 361 561 089 Code APE : A52C Ticket : 1000014 Caisse : 1 Le 26/01/2017 à 12:15 Serveur (ADM) Table : 9 – Couvert : 2 Qte Produit Prix TTC 2 Tartare 32€00 2x16€C0 2 Café gourmand 12€00 2x6€00 TOTAL HT 40€00 TVA 10% 4€00 TOTAL FACTURE 44€00 RESTE A PAYER 44€00 Merci de votre visite – A très bientôt 437
+
+TEXTE CORRIGÉ:
+: 361 561 089 Code APE : A52C Ticket : 1000014 Caisse : 1 Le 26/01/20 ( 7 à 12:15 Serveur (ADM) Table : 9 - Couvert : 2 4F* Ote Produit Prix TTC .**•**,. 4 / 't*v *** v\*« i «t**w/w *,* . . .su. <■/.&** . ,**. *' .1 . ; • . .,*•* 2 Tartare 32È00 2x16€C0 2 Café gourmand 12600 2x6€00 41 TOTAL HT 40€00 TVA 10% 4€00 TOTAL FACTURE 44€00 RESTE A PAYER 44€00 -»k~J+K. */ ~.M 4,4... A N'A *AtlW.W •K\?4Vr.*4 *>*s** * **é .w-av.-, * , %* M&ïcî de votre visite - A iiès bientôt 437
+
+TEXTE À CORRIGER:
+Dantes tenore presentium in mandatis senescallo Pictavensi ceterisque justiciariis, et officiariis nostris, atit eorum locatenentibus, presentibus pariter et futuris, quatinus dictum Hugonem nostra presenti gratia uti et gaudere pacifice faciant et permittant, ipsum in contrarium nullatenus molestantes aut molestari quomodolibet permitentes, sed si quis de bonis suis propter hoc captum seu saisitum extiterit eidem volumus restitui indilate, quodquid secus factum vel actemptatum fuerit ad statum prestinum et debitum celerint reducendo.
+
+TEXTE CORRIGÉ:
+Dantes, tenore presentium in mandatis senescall Pictavensis ceterisque justiciariis, officiaris nostris aut eorum loca tenentibus, presentibus pariter et futurus, quatinus dictum Hugonem, nostra presenti gracia uti et gaudere pacifice faciant et permittant ipsum in contrarium nullatenus molestantis aut molestari quomodolibet permittentes, sed si quis de bonis suis propter hoc captum seu saisitum extitit eidem volumus restitui indilate, quicquid secus factum vel attemptatum fuerit ad statum pristinum et debitum celeriter reducendo.
+
+TEXTE À CORRIGER:
+La popote du marché ZAC des fourneaux 17690 ANGOULINS Tél : 0546314189 – Fax : 04.99.61.48.49 Sire!
+
+TEXTE CORRIGÉ:
+cio.-' Ww&' l U/ TYUlAX U La popote du marché ZAC des f oumeaux 17690 ANGOUUNS Tél : 0546314189 - Fax : 04.99.61.48 Sire!
+
+TEXTE À CORRIGER:
+{{TEXT}}
+TEXTE CORRIGÉ:

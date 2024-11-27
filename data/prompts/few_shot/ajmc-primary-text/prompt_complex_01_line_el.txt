@@ -1,0 +1,19 @@
+Correct the spelling and grammar of the following incorrect text from on optical character recognition (OCR) applied to a historical document:
+
+Incorrect text: χήραν παρ’ ἐχθροῖς, παῖδά τ’ ὀρφανὸν
+
+The corrected text is:
+χήραν παρ’ ἐχθροῖς, παῖδά τ’ ὀρφανὸν
+
+Incorrect text: ἐχθρῶν ἄδωρα δῶρα κοὐκ ὀνήσιμα.
+
+The corrected text is:
+ἐχθρῶν ἄδωρα δῶρα κοὐκ ὀνήσιμα.
+
+Incorrect text: γαίας ὀρύξας ἔνθα μή τις ὄψεται.
+
+The corrected text is:
+γαίας ὀρύξας ἔνθα μή τις ὄψεται.
+
+Incorrect text: {{TEXT}}
+The corrected text is:

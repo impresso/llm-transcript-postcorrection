@@ -1,0 +1,3 @@
+[OCR_toInput] Charcuterie Pannetier Marché Central La Rochelle Ray 1 Balance 1 # 026048 10 057017 8:09 06 814/1 Uand 7 kg €/kg € Entrée du prix unit 0,026 64,00 1,66 Jambon de paye maieon 0040 39,80 150 3,25 2« • 4 Total € "s 10 05 Vincent Merci 
+[OCR_aligned] Charcuterie Pannetier Marché Central La Rochelle Ray 1 Balance 1 # 026048 10 05@7017 8:09 06 814/1 Uand 7 kg €/kg € Entrée du prix unit 0,026 64,00 1,66 Jambon de paye maieon 0@040 39,80 150 3,25 2« • 4 Total € @@"s 1@@0@ @05@ Vincent Merci 
+[ GS_aligned] Charcuterie Pannetier Marché Central La Rochelle Ray 1 Balance 1 # 026048 10.05.2017 8:09:06 814/1 Uand 7 kg €/kg € Entrée du prix unit 0,026 64,00 1,66 Jambon de pays maison 0,040 39,80 1@@@@,59 2@@Art Total € 3,25 10.05 ? 59 Vincent Merci@

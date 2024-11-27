@@ -1,0 +1,13 @@
+Correct the text: El arroyo cu- brieron con Vigas porque no supie ron hazer boueda .
+
+El arroyo cu brieron con Vigas porque no supie ron hazer boueda .
+
+Correct the text: Aquellas dos plaças en mis tiempos no estauan diuididas, ni tenian casas a vna parte y a otra del arroyo como aora las tienen.
+
+Aquellas dos pla5as en mis tiempos no estauan díuidídas, ni tenían cafas a vna parte y a otra del arroyo como aora las tienen .
+
+Correct the text: Des- pues hizieron tres de boueda que yo dexe.
+
+Des pués hízieron tres de boueda que *77 yo dexe .
+
+Correct the text: {{TEXT}}

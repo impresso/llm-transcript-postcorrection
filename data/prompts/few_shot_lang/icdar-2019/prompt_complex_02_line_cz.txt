@@ -1,0 +1,23 @@
+Pomozte prosím s kontrolou a opravou chyb v textech vzniklých automatickým přepisem (OCR) historických dokumentů. Vaším úkolem je pečlivě prozkoumat následující text a opravit případné chyby vnesené softwarem OCR. Text, který je třeba opravit, je uveden za segmentem "TEXT K OPRAVĚ:". Opravenou verzi textu umístěte za segment "OPRAVENÝ TEXT:". Nepište nic jiného než opravený text.
+
+TEXT K OPRAVĚ:
+No text
+
+OPRAVENÝ TEXT:
+No text
+
+TEXT K OPRAVĚ:
+No text
+
+OPRAVENÝ TEXT:
+No text
+
+TEXT K OPRAVĚ:
+No text
+
+OPRAVENÝ TEXT:
+No text
+
+TEXT K OPRAVĚ:
+{{TEXT}}
+OPRAVENÝ TEXT:

@@ -1,0 +1,19 @@
+Correct the spelling and grammar of the following incorrect text from on optical character recognition (OCR) applied to a historical document:
+
+Incorrect text: le sacre du printemps de stravinsky me bouleversa de fond en comble le premier stravinski auprès de qui j'avais déjà vécu en dix neuf cent treize les mon saigna cette insulte aux habitudes sans quoi l'art stagne et reste un jeu
+
+The corrected text is:
+Le Sacre du Printemps de Stravinsky me bouleversa de fond en comble. Le premier, Stravinski, auprès de qui j'avais déjà vécu en dix-neuf cent treize à Leysin, m'enseigna cette insulte aux habitudes, sans quoi l'art stagne et reste un jeu.
+
+Incorrect text: démarche n'importe 
+
+The corrected text is:
+Démarche d'un poète.
+
+Incorrect text: c'est d'autobiographie par jean ce soir 
+
+The corrected text is:
+Essai d'autobiographie par Jean Cocteau. 
+
+Incorrect text: {{TEXT}}
+The corrected text is:

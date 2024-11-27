@@ -1,0 +1,19 @@
+Correct the spelling and grammar of the following incorrect text from on optical character recognition (OCR) applied to a historical document:
+
+Incorrect text: son, but to the inmates of the house
+
+The corrected text is:
+son, but to the inmates of the house
+
+Incorrect text: glances at such predatory expeditions
+
+The corrected text is:
+lances at such predatory expeditions
+
+Incorrect text: λήν ἐρημίαν Conon. Narr. II. πολλὴν γῆν Xenoph. Eph.
+
+The corrected text is:
+λὴν ἐρημίαν Conon. Narr. II. πολλὴν γῆν Xenoph. Eph.
+
+Incorrect text: {{TEXT}}
+The corrected text is:

@@ -1,0 +1,19 @@
+Correct the spelling and grammar of the following incorrect text from an optical character recognition (OCR) applied to a historical document:
+
+Incorrect text: Bodite pa tudi po Samuelovo odkritoserč- ni vselej, kedar vas kaj poprašajo starši.
+
+The corrected text is:
+Bodite pa tudi po Samuelovo odkritoserč- ni vselej, kedar vas kaj poprašajo starši.
+
+Incorrect text: “ Samuel, desiravno težko, mu vse na rav- nost pové.
+
+The corrected text is:
+44 Samuel, desiravno težko, mu vse na rav nost pove.
+
+Incorrect text: Bodite pa tudi po Samuelovo odkritoserč- ni vselej, kedar vas kaj poprašajo starši.
+
+The corrected text is:
+Bodite pa tudi po Samuelovo odkritoserč- ni vselej, kedar vas kaj poprašajo starši.
+
+Incorrect text: {{TEXT}}
+The corrected text is:

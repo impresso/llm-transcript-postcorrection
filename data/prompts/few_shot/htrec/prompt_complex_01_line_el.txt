@@ -1,0 +1,19 @@
+Correct the spelling and grammar of the following incorrect text from a handwritten text recognition (HTR) applied to a historical document:
+
+Incorrect text: ουκαρκααρ ἀφομιν οὐ διν ανλόν
+
+The corrected text is:
+οὐκ ἂν μακρῶν ἔθ ἡμὶν οὐδὲν ἂν λόγων
+
+Incorrect text: συ σ κατεχισωμε ἐπιτελωτι
+
+The corrected text is:
+σὺ γὰρ κατεσχίσω μὲν ἐπὶ γέλωτι
+
+Incorrect text: τὸ προοιμιον· εἶρηκῶς γὰρ εντω θω ποιήσοου γας οήμεν δυναμιν
+
+The corrected text is:
+το προοιμιον ειρηκως γαρ εν τω θω ποιησο μεν δυναμιν
+
+Incorrect text: {{TEXT}}
+The corrected text is:

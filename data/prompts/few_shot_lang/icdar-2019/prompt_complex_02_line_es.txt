@@ -1,0 +1,23 @@
+Ayúdenos a revisar y corregir los errores de un texto OCR extraído de documentos históricos. Su tarea consiste en examinar cuidadosamente el siguiente texto y corregir cualquier error introducido por el software OCR. El texto a corregir aparece después del segmento "TEXTO A CORREGIR". Coloque la versión corregida del texto después del segmento "TEXTO CORREGIDO". No escriba nada más que el texto corregido.
+
+TEXTO A CORREGIR:
+No text
+
+TEXTO CORREGIDO:
+No text
+
+TEXTO A CORREGIR:
+No text
+
+TEXTO CORREGIDO:
+No text
+
+TEXTO A CORREGIR:
+No text
+
+TEXTO CORREGIDO:
+No text
+
+TEXTO A CORREGIR:
+{{TEXT}}
+TEXTO CORREGIDO:
