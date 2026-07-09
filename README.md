@@ -1,7 +1,19 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/xyz)](https://doi.org/10.5281/xyz)
+# Post-correction of Historical Text Transcripts with Large Language Models
+*An Exploratory Study (2023)*
+
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-3776AB.svg?logo=python)](https://www.python.org/) 
 [![PyTorch 2.0](https://img.shields.io/badge/PyTorch-2.0-EE4C2C.svg?logo=pytorch)](https://pytorch.org/docs/2.0/) 
 [![MIT](https://img.shields.io/badge/License-MIT-3DA639.svg?logo=open-source-initiative)](LICENSE)
+
+- [Overview](#overview)
+- [Repository Organisation](#repository-organisation)
+- [Requirements](#requirements)
+- [Models](#models)
+- [Datasets](#datasets)
+- [Experiments](#experiments)
+- [Publication](#publication)
+- [Follow-up Work: ICDAR 2026 HIPE-OCRepair Competition](#follow-up-work-icdar-2026-hipe-ocrepair-competition)
+- [About](#about)
 
 ## Overview
 
@@ -78,15 +90,49 @@ Details [here](data/).
 
 Details [here](lib/).
 
-### Citation
+### Publication
 
-```
-@article{boros_post_2024,
-  title={Post-correction of Historical Text Transcripts with Large Language Models: An Exploratory Study},
-  author={Boros, Emanuela and Ehrmann, Maud and Romanello, Matteo and Najem-Meyer, Sven and Kaplan, Fr{\'e}d{\'e}ric},
-  journal={LaTeCH-CLfL 2024},
-  pages={133--159},
-  year={2024},
-  publisher={The Association for Computational Linguistics}
+Emanuela Boros, Maud Ehrmann, Matteo Romanello, Sven Najem-Meyer, and Frédéric Kaplan. 2024. [Post-Correction of Historical Text Transcripts with Large Language Models: An Exploratory Study](https://aclanthology.org/2024.latechclfl-1.14/). In Proceedings of the 8th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL 2024), March 2024. Association for Computational Linguistics, St. Julians, Malta, 133–159. https://doi.org/10.18653/v1/2024.latechclfl-1.14
+
+```bibtex
+@inproceedings{boros_postcorrection_2024,
+  title = {Post-{{Correction}} of {{Historical Text Transcripts}} with {{Large Language Models}}: {{An Exploratory Study}}},
+  booktitle = {Proceedings of the 8th {{Joint SIGHUM Workshop}} on {{Computational Linguistics}} for {{Cultural Heritage}}, {{Social Sciences}}, {{Humanities}} and {{Literature}} ({{LaTeCH-CLfL}} 2024)},
+  author = {Boros, Emanuela and Ehrmann, Maud and Romanello, Matteo and {Najem-Meyer}, Sven and Kaplan, Fr{\'e}d{\'e}ric},
+  editor = {Bizzoni, Yuri and {Degaetano-Ortlieb}, Stefania and Kazantseva, Anna and Szpakowicz, Stan},
+  year = 2024,
+  month = mar,
+  pages = {133--159},
+  publisher = {Association for Computational Linguistics},
+  address = {St. Julians, Malta},
+  url = {https://aclanthology.org/2024.latechclfl-1.14/},
+  urldate = {2026-07-09}
 }
 ```
+## Follow-up work: ICDAR 2026 HIPE-OCRepair Competition
+
+- [HIPE-OCRepair 2026 website](https://hipe-eval.github.io/HIPE-OCRepair-2026/)
+- [HIPE-eval shared task series website](https://hipe-eval.github.io/)
+- [HIPE-OCRepair data](https://github.com/hipe-eval/HIPE-OCRepair-2026-data)
+- [HIPE-OCRepair evaluation toolkit](https://github.com/hipe-eval/HIPE-OCRepair-2026-eval)
+
+## About
+
+### Impresso project
+
+[Impresso - Media Monitoring of the Past](https://impresso-project.ch) is an interdisciplinary research project that aims to develop and consolidate tools for processing and exploring large collections of media archives across modalities, time, languages and national borders. The first project (2017-2021) was funded by the Swiss National Science Foundation under grant No. [CRSII5_173719](http://p3.snf.ch/project-173719) and the second project (2023-2027) by the SNSF under grant No. [CRSII5_213585](https://data.snf.ch/grants/grant/213585) and the Luxembourg National Research Fund under grant No. 17498891.
+
+### Copyright
+
+Copyright (C) 2023 The Impresso team.
+
+### License
+
+This program is provided as open source under the [GNU Affero General Public License](https://github.com/impresso/impresso-pyindexation/blob/master/LICENSE) v3 or later.
+
+---
+
+<p align="center">
+  <img src="https://github.com/impresso/impresso.github.io/blob/master/assets/images/3x1--Yellow-Impresso-Black-on-White--transparent.png?raw=true" width="350" alt="Impresso Project Logo"/>
+</p>
+
